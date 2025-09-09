@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2025-09-08T10:09:06.758Z",
-  "totalFiles": 9,
+  "generatedAt": "2025-09-09T09:19:47.416Z",
+  "totalFiles": 14,
   "directory": "/data",
   "files": [
     {
@@ -10,6 +10,22 @@
       "size": 2727,
       "isDuplicate": false,
       "formattedSize": "2.66 KB"
+    },
+    {
+      "originalName": "一看就懂的经济常识全图解 (斯凯恩编著) (Z-Library).pdf",
+      "displayName": "一看就懂的经济常识全图解 (斯凯恩编著) (Z-Library)",
+      "path": "/data/一看就懂的经济常识全图解 (斯凯恩编著) (Z-Library).pdf",
+      "size": 65567100,
+      "isDuplicate": false,
+      "formattedSize": "62.53 MB"
+    },
+    {
+      "originalName": "乡土中国（修订本） (世纪人文系列丛书·世纪文库) (费孝通  刘豪兴) (Z-Library).pdf",
+      "displayName": "乡土中国（修订本） (世纪人文系列丛书·世纪文库) (费孝通  刘豪兴) (Z-Library)",
+      "path": "/data/乡土中国（修订本） (世纪人文系列丛书·世纪文库) (费孝通  刘豪兴) (Z-Library).pdf",
+      "size": 5599284,
+      "isDuplicate": false,
+      "formattedSize": "5.34 MB"
     },
     {
       "originalName": "共产主义运动中的“左派”幼稚病 (列宁) (Z-Library).pdf",
@@ -26,6 +42,22 @@
       "size": 34170428,
       "isDuplicate": false,
       "formattedSize": "32.59 MB"
+    },
+    {
+      "originalName": "家庭、私有制和国家的起源 (恩格斯) (Z-Library).pdf",
+      "displayName": "家庭、私有制和国家的起源 (恩格斯) (Z-Library)",
+      "path": "/data/家庭、私有制和国家的起源 (恩格斯) (Z-Library).pdf",
+      "size": 9081629,
+      "isDuplicate": false,
+      "formattedSize": "8.66 MB"
+    },
+    {
+      "originalName": "政治的逻辑--马克思主义政治学原理 (王沪宁, 林尚立, 孙关宏) (Z-Library).pdf",
+      "displayName": "政治的逻辑--马克思主义政治学原理 (王沪宁, 林尚立, 孙关宏) (Z-Library)",
+      "path": "/data/政治的逻辑--马克思主义政治学原理 (王沪宁, 林尚立, 孙关宏) (Z-Library).pdf",
+      "size": 21084172,
+      "isDuplicate": false,
+      "formattedSize": "20.11 MB"
     },
     {
       "originalName": "毛泽东文集 (毛泽东) (Z-Library).pdf",
@@ -58,6 +90,14 @@
       "size": 8485510,
       "isDuplicate": false,
       "formattedSize": "8.09 MB"
+    },
+    {
+      "originalName": "潜规则 - 中国历史中的真实游戏 (吴思) (Z-Library).pdf",
+      "displayName": "潜规则 - 中国历史中的真实游戏 (吴思) (Z-Library)",
+      "path": "/data/潜规则 - 中国历史中的真实游戏 (吴思) (Z-Library).pdf",
+      "size": 39863303,
+      "isDuplicate": false,
+      "formattedSize": "38.02 MB"
     },
     {
       "originalName": "用户手册.pdf",
