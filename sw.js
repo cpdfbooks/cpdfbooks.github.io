@@ -6,9 +6,7 @@ const OFFLINE_URL = '/offline.html';
 const CACHE_URLS = [
   '/',
   '/index.html',
-  '/manifest.json',
-  OFFLINE_URL,
-  // 静态资源会在构建时自动添加
+    '/offline.html'
 ];
 
 // 安装事件
