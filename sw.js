@@ -46,10 +46,6 @@ self.addEventListener('activate', (event) => {
         // 立即控制所有客户端
         return self.clients.claim();
       })
-      .then(() => {
-        // 开始价格监控
-        startPriceMonitoring();
-      })
   );
 });
 
