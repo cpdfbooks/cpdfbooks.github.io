@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>网络连接异常 - 小笼包书库</title>
+    <title>网络连接异常 - 小笼包云书房</title>
     <style>
         * {
             margin: 0;
@@ -249,7 +249,7 @@
             if (navigator.onLine) {
                 // 网络恢复，尝试刷新页面
                 setTimeout(() => {
-                    window.location.reload();
+                   // window.location.reload();
                 }, 1000);
             }
         }
@@ -260,7 +260,7 @@
         // 添加键盘支持
         document.addEventListener('keydown', function(e) {
             if (e.key === 'Enter' || e.key === ' ') {
-                window.location.reload();
+                //window.location.reload();
             }
         });
 
@@ -277,7 +277,7 @@
             if (navigator.onLine) {
                 // 尝试发起一个简单的网络请求来验证连接
                 fetch('/').then(() => {
-                    window.location.reload();
+                    //window.location.reload();
                 }).catch(() => {
                     // 连接仍然有问题，继续显示离线页面
                 });

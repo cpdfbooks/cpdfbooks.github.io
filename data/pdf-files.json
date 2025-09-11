@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2025-09-11T01:46:39.106Z",
-  "totalFiles": 25,
+  "generatedAt": "2025-09-11T08:01:10.689Z",
+  "totalFiles": 27,
   "directory": "/data",
   "files": [
     {
@@ -9,6 +9,7 @@
       "path": "/data/1186929-狂热分子：群众运动圣经【小力盘www.xiaolipan.com】.pdf",
       "size": 2714878,
       "isDuplicate": false,
+      "cover": null,
       "formattedSize": "2.59 MB"
     },
     {
@@ -17,23 +18,8 @@
       "path": "/data/2300362-最好的告别三部曲（套装共3册）【小力盘xiaolipan.com】.pdf",
       "size": 149507,
       "isDuplicate": false,
+      "cover": null,
       "formattedSize": "146 KB"
-    },
-    {
-      "originalName": "chinese edu.pdf",
-      "displayName": "chinese edu",
-      "path": "/data/chinese edu.pdf",
-      "size": 1316432,
-      "isDuplicate": false,
-      "formattedSize": "1.26 MB"
-    },
-    {
-      "originalName": "zhao's rev.pdf",
-      "displayName": "zhao's rev",
-      "path": "/data/zhao's rev.pdf",
-      "size": 1564878,
-      "isDuplicate": false,
-      "formattedSize": "1.49 MB"
     },
     {
       "originalName": "《毛泽东选集》（毛选1-7：原版五卷+静火+赤旗+草堂） (毛泽东) (Z-Library).pdf",
@@ -41,6 +27,7 @@
       "path": "/data/《毛泽东选集》（毛选1-7：原版五卷+静火+赤旗+草堂） (毛泽东) (Z-Library).pdf",
       "size": 15194172,
       "isDuplicate": false,
+      "cover": "/data/cover/《毛泽东选集》（毛选1-7：原版五卷+静火+赤旗+草堂） (毛泽东) (Z-Library).png",
       "formattedSize": "14.49 MB"
     },
     {
@@ -49,6 +36,7 @@
       "path": "/data/《沉默的大多数》王小波.pdf",
       "size": 1600517,
       "isDuplicate": false,
+      "cover": null,
       "formattedSize": "1.53 MB"
     },
     {
@@ -57,6 +45,7 @@
       "path": "/data/一看就懂的经济常识全图解 (斯凯恩编著) (Z-Library).pdf",
       "size": 65567100,
       "isDuplicate": false,
+      "cover": "/data/cover/一看就懂的经济常识全图解.jpg",
       "formattedSize": "62.53 MB"
     },
     {
@@ -65,6 +54,7 @@
       "path": "/data/万历十五年 (黄仁宇) (Z-Library).pdf",
       "size": 18222504,
       "isDuplicate": false,
+      "cover": "/data/cover/万历十五年.jpg",
       "formattedSize": "17.38 MB"
     },
     {
@@ -73,7 +63,17 @@
       "path": "/data/万历十五年：增订纪念本 = 1587, A Year of No Significance (... (Z-Library).pdf",
       "size": 6158520,
       "isDuplicate": false,
+      "cover": "/data/cover/万历十五年.jpg",
       "formattedSize": "5.87 MB"
+    },
+    {
+      "originalName": "中国教育的危机与批判.pdf",
+      "displayName": "中国教育的危机与批判",
+      "path": "/data/中国教育的危机与批判.pdf",
+      "size": 1316432,
+      "isDuplicate": false,
+      "cover": null,
+      "formattedSize": "1.26 MB"
     },
     {
       "originalName": "乡土中国（修订本） (世纪人文系列丛书·世纪文库) (费孝通  刘豪兴) (Z-Library).pdf",
@@ -81,6 +81,7 @@
       "path": "/data/乡土中国（修订本） (世纪人文系列丛书·世纪文库) (费孝通  刘豪兴) (Z-Library).pdf",
       "size": 5599284,
       "isDuplicate": false,
+      "cover": "/data/cover/乡土中国（修订本.jpg",
       "formattedSize": "5.34 MB"
     },
     {
@@ -89,7 +90,17 @@
       "path": "/data/共产主义运动中的“左派”幼稚病 (列宁) (Z-Library).pdf",
       "size": 6636018,
       "isDuplicate": false,
+      "cover": null,
       "formattedSize": "6.33 MB"
+    },
+    {
+      "originalName": "农民进城防骗手册 (马文胜，蔡建文) (Z-Library) (1).pdf",
+      "displayName": "农民进城防骗手册 (马文胜，蔡建文) (Z-Library) (1)",
+      "path": "/data/农民进城防骗手册 (马文胜，蔡建文) (Z-Library) (1).pdf",
+      "size": 11487738,
+      "isDuplicate": false,
+      "cover": "/data/cover/农民进城防骗手册 (马文胜，蔡建文) (Z-Library).jpg",
+      "formattedSize": "10.96 MB"
     },
     {
       "originalName": "国家与革命 (列宁) (Z-Library).pdf",
@@ -97,7 +108,17 @@
       "path": "/data/国家与革命 (列宁) (Z-Library).pdf",
       "size": 34170428,
       "isDuplicate": false,
+      "cover": "/data/cover/国家与革命 (列宁).jpg",
       "formattedSize": "32.59 MB"
+    },
+    {
+      "originalName": "实践论 (毛泽东) (Z-Library).pdf",
+      "displayName": "实践论 (毛泽东) (Z-Library)",
+      "path": "/data/实践论 (毛泽东) (Z-Library).pdf",
+      "size": 6493007,
+      "isDuplicate": false,
+      "cover": "/data/cover/实践论.png",
+      "formattedSize": "6.19 MB"
     },
     {
       "originalName": "家庭、私有制和国家的起源 (恩格斯) (Z-Library).pdf",
@@ -105,6 +126,7 @@
       "path": "/data/家庭、私有制和国家的起源 (恩格斯) (Z-Library).pdf",
       "size": 9081629,
       "isDuplicate": false,
+      "cover": "/data/cover/家庭、私有制和国家的起源.jpg",
       "formattedSize": "8.66 MB"
     },
     {
@@ -113,6 +135,7 @@
       "path": "/data/思考,快与慢 (丹尼尔 · 卡尼曼 (Daniel Kahneman)) (Z-Library).pdf",
       "size": 6302266,
       "isDuplicate": false,
+      "cover": "/data/cover/思考,快与慢.jpg",
       "formattedSize": "6.01 MB"
     },
     {
@@ -121,6 +144,7 @@
       "path": "/data/政治的逻辑--马克思主义政治学原理 (王沪宁, 林尚立, 孙关宏) (Z-Library).pdf",
       "size": 21084172,
       "isDuplicate": false,
+      "cover": "/data/cover/政治的逻辑.jpg",
       "formattedSize": "20.11 MB"
     },
     {
@@ -129,6 +153,7 @@
       "path": "/data/毛泽东文集 (毛泽东) (Z-Library).pdf",
       "size": 15850105,
       "isDuplicate": false,
+      "cover": "/data/cover/毛泽东文集.jpg",
       "formattedSize": "15.12 MB"
     },
     {
@@ -137,6 +162,7 @@
       "path": "/data/毛泽东选集 (毛泽东) (Z-Library).pdf",
       "size": 83905738,
       "isDuplicate": false,
+      "cover": "/data/cover/毛泽东选集 (毛泽东).jpg",
       "formattedSize": "80.02 MB"
     },
     {
@@ -145,6 +171,7 @@
       "path": "/data/毛泽东选集 (毛泽东著) (Z-Library).pdf",
       "size": 54958311,
       "isDuplicate": false,
+      "cover": "/data/cover/毛泽东选集 (毛泽东著).jpg",
       "formattedSize": "52.41 MB"
     },
     {
@@ -153,6 +180,7 @@
       "path": "/data/毛泽东选集（一卷本） (毛泽东) (Z-Library).pdf",
       "size": 8485510,
       "isDuplicate": false,
+      "cover": "/data/cover/毛泽东选集（一卷本）.jpg",
       "formattedSize": "8.09 MB"
     },
     {
@@ -161,6 +189,7 @@
       "path": "/data/潜规则 - 中国历史中的真实游戏 (吴思) (Z-Library).pdf",
       "size": 39863303,
       "isDuplicate": false,
+      "cover": "/data/cover/潜规则.jpg",
       "formattedSize": "38.02 MB"
     },
     {
@@ -169,6 +198,7 @@
       "path": "/data/矛盾论 (毛泽东) (Z-Library).pdf",
       "size": 16392832,
       "isDuplicate": false,
+      "cover": "/data/cover/矛盾论 (毛泽东).jpg",
       "formattedSize": "15.63 MB"
     },
     {
@@ -177,6 +207,7 @@
       "path": "/data/禅与摩托车维修艺术.pdf",
       "size": 580844,
       "isDuplicate": false,
+      "cover": null,
       "formattedSize": "567.23 KB"
     },
     {
@@ -185,6 +216,7 @@
       "path": "/data/穷查理宝典：查理 · 芒格智慧箴言录 = Poor Charlies Almanack The Wit and Wisdom of Charles T. Munger ( etc.) (Z-Library).pdf",
       "size": 43539952,
       "isDuplicate": false,
+      "cover": "/data/cover/Poor Charlies Almanack.jpg",
       "formattedSize": "41.52 MB"
     },
     {
@@ -193,7 +225,17 @@
       "path": "/data/美国反对美国 (王沪宁) (Z-Library).pdf",
       "size": 6390317,
       "isDuplicate": false,
+      "cover": "/data/cover/美国反对美国.jpg",
       "formattedSize": "6.09 MB"
+    },
+    {
+      "originalName": "赵紫阳改革历程.pdf",
+      "displayName": "赵紫阳改革历程",
+      "path": "/data/赵紫阳改革历程.pdf",
+      "size": 1564878,
+      "isDuplicate": false,
+      "cover": null,
+      "formattedSize": "1.49 MB"
     },
     {
       "originalName": "金字塔原理 ((美)巴巴拉·明托-10版) (Z-Library).pdf",
@@ -201,6 +243,7 @@
       "path": "/data/金字塔原理 ((美)巴巴拉·明托-10版) (Z-Library).pdf",
       "size": 12003459,
       "isDuplicate": false,
+      "cover": "/data/cover/金字塔原理.jpg",
       "formattedSize": "11.45 MB"
     }
   ]

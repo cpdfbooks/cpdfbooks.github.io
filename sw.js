@@ -1,5 +1,5 @@
 // Service Worker for Steam Price Monitor
-const CACHE_NAME = 'pdfbooks-cache-v1';
+const CACHE_NAME = 'pdfbooks-cache-v3';
 const OFFLINE_URL = '/offline.html';
 
 // 需要缓存的资源
