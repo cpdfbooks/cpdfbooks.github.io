@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2025-09-11T08:01:10.689Z",
-  "totalFiles": 27,
+  "generatedAt": "2025-09-12T09:34:18.932Z",
+  "totalFiles": 31,
   "directory": "/data",
   "files": [
     {
@@ -101,6 +101,15 @@
       "isDuplicate": false,
       "cover": "/data/cover/农民进城防骗手册 (马文胜，蔡建文) (Z-Library).jpg",
       "formattedSize": "10.96 MB"
+    },
+    {
+      "originalName": "反杜林论 ([德] 弗里德里希·恩格斯) (Z-Library).pdf",
+      "displayName": "反杜林论 ([德] 弗里德里希·恩格斯) (Z-Library)",
+      "path": "/data/反杜林论 ([德] 弗里德里希·恩格斯) (Z-Library).pdf",
+      "size": 59474613,
+      "isDuplicate": false,
+      "cover": "/data/cover/反杜林论.jpg",
+      "formattedSize": "56.72 MB"
     },
     {
       "originalName": "国家与革命 (列宁) (Z-Library).pdf",
@@ -229,6 +238,24 @@
       "formattedSize": "6.09 MB"
     },
     {
+      "originalName": "自控力：斯坦福大学最受欢迎心理学课程 = The Willpower Instinct How Self-control Works, Why it Matters, and What You Can do to Get More of It ([美] 凯利 · 麦格尼格尔 (Kelly... (Z-Library).pdf",
+      "displayName": "自控力：斯坦福大学最受欢迎心理学课程 = The Willpower Instinct How Self-control Works, Why it Matters, and What You Can do to Get More of It ([美] 凯利 · 麦格尼格尔 (Kelly... (Z-Library)",
+      "path": "/data/自控力：斯坦福大学最受欢迎心理学课程 = The Willpower Instinct How Self-control Works, Why it Matters, and What You Can do to Get More of It ([美] 凯利 · 麦格尼格尔 (Kelly... (Z-Library).pdf",
+      "size": 19334234,
+      "isDuplicate": false,
+      "cover": "/data/cover/he Willpower Instinct.jpg",
+      "formattedSize": "18.44 MB"
+    },
+    {
+      "originalName": "资本论（全三卷） (卡尔·马克思,中共中央马克思恩格斯列宁斯大林著作编译局) (Z-Library).pdf",
+      "displayName": "资本论（全三卷） (卡尔·马克思,中共中央马克思恩格斯列宁斯大林著作编译局) (Z-Library)",
+      "path": "/data/资本论（全三卷） (卡尔·马克思,中共中央马克思恩格斯列宁斯大林著作编译局) (Z-Library).pdf",
+      "size": 60437550,
+      "isDuplicate": false,
+      "cover": "/data/cover/资本论.jpg",
+      "formattedSize": "57.64 MB"
+    },
+    {
       "originalName": "赵紫阳改革历程.pdf",
       "displayName": "赵紫阳改革历程",
       "path": "/data/赵紫阳改革历程.pdf",
@@ -236,6 +263,15 @@
       "isDuplicate": false,
       "cover": null,
       "formattedSize": "1.49 MB"
+    },
+    {
+      "originalName": "遥远的救世主 (豆豆) (Z-Library).pdf",
+      "displayName": "遥远的救世主 (豆豆) (Z-Library)",
+      "path": "/data/遥远的救世主 (豆豆) (Z-Library).pdf",
+      "size": 60995520,
+      "isDuplicate": false,
+      "cover": "/data/cover/遥远的救世主.jpg",
+      "formattedSize": "58.17 MB"
     },
     {
       "originalName": "金字塔原理 ((美)巴巴拉·明托-10版) (Z-Library).pdf",
