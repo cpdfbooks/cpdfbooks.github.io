@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-12T09:34:18.932Z",
+  "generatedAt": "2025-09-12T09:53:06.785Z",
   "totalFiles": 31,
   "directory": "/data",
   "files": [
@@ -10,6 +10,11 @@
       "size": 2714878,
       "isDuplicate": false,
       "cover": null,
+      "tags": [
+        "群众运动",
+        "社会心理",
+        "社会学"
+      ],
       "formattedSize": "2.59 MB"
     },
     {
@@ -19,7 +24,24 @@
       "size": 149507,
       "isDuplicate": false,
       "cover": null,
+      "tags": [
+        "未知类别"
+      ],
       "formattedSize": "146 KB"
+    },
+    {
+      "originalName": "zhaoziyang回忆录.pdf",
+      "displayName": "zhaoziyang回忆录",
+      "path": "/data/zhaoziyang回忆录.pdf",
+      "size": 1564878,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "历史",
+        "政治",
+        "回忆录"
+      ],
+      "formattedSize": "1.49 MB"
     },
     {
       "originalName": "《毛泽东选集》（毛选1-7：原版五卷+静火+赤旗+草堂） (毛泽东) (Z-Library).pdf",
@@ -28,6 +50,12 @@
       "size": 15194172,
       "isDuplicate": false,
       "cover": "/data/cover/《毛泽东选集》（毛选1-7：原版五卷+静火+赤旗+草堂） (毛泽东) (Z-Library).png",
+      "tags": [
+        "政治",
+        "历史",
+        "思想",
+        "领袖著作"
+      ],
       "formattedSize": "14.49 MB"
     },
     {
@@ -37,6 +65,12 @@
       "size": 1600517,
       "isDuplicate": false,
       "cover": null,
+      "tags": [
+        "文学",
+        "思想",
+        "随笔",
+        "杂文"
+      ],
       "formattedSize": "1.53 MB"
     },
     {
@@ -46,6 +80,11 @@
       "size": 65567100,
       "isDuplicate": false,
       "cover": "/data/cover/一看就懂的经济常识全图解.jpg",
+      "tags": [
+        "经济常识",
+        "经济图解",
+        "经济科普"
+      ],
       "formattedSize": "62.53 MB"
     },
     {
@@ -55,6 +94,12 @@
       "size": 18222504,
       "isDuplicate": false,
       "cover": "/data/cover/万历十五年.jpg",
+      "tags": [
+        "历史",
+        "政治",
+        "明史",
+        "人文"
+      ],
       "formattedSize": "17.38 MB"
     },
     {
@@ -64,6 +109,12 @@
       "size": 6158520,
       "isDuplicate": false,
       "cover": "/data/cover/万历十五年.jpg",
+      "tags": [
+        "历史",
+        "政治",
+        "明史",
+        "传记"
+      ],
       "formattedSize": "5.87 MB"
     },
     {
@@ -73,6 +124,12 @@
       "size": 1316432,
       "isDuplicate": false,
       "cover": null,
+      "tags": [
+        "教育",
+        "中国教育",
+        "教育批判",
+        "教育危机"
+      ],
       "formattedSize": "1.26 MB"
     },
     {
@@ -82,6 +139,12 @@
       "size": 5599284,
       "isDuplicate": false,
       "cover": "/data/cover/乡土中国（修订本.jpg",
+      "tags": [
+        "社会学",
+        "乡村研究",
+        "人文社科",
+        "乡土文化"
+      ],
       "formattedSize": "5.34 MB"
     },
     {
@@ -91,6 +154,12 @@
       "size": 6636018,
       "isDuplicate": false,
       "cover": null,
+      "tags": [
+        "政治",
+        "革命",
+        "理论",
+        "共产主义"
+      ],
       "formattedSize": "6.33 MB"
     },
     {
@@ -100,6 +169,11 @@
       "size": 11487738,
       "isDuplicate": false,
       "cover": "/data/cover/农民进城防骗手册 (马文胜，蔡建文) (Z-Library).jpg",
+      "tags": [
+        "农民进城",
+        "防骗知识",
+        "实用手册"
+      ],
       "formattedSize": "10.96 MB"
     },
     {
@@ -109,6 +183,12 @@
       "size": 59474613,
       "isDuplicate": false,
       "cover": "/data/cover/反杜林论.jpg",
+      "tags": [
+        "哲学",
+        "政治",
+        "理论",
+        "思想"
+      ],
       "formattedSize": "56.72 MB"
     },
     {
@@ -118,6 +198,12 @@
       "size": 34170428,
       "isDuplicate": false,
       "cover": "/data/cover/国家与革命 (列宁).jpg",
+      "tags": [
+        "政治",
+        "革命",
+        "理论",
+        "马列"
+      ],
       "formattedSize": "32.59 MB"
     },
     {
@@ -127,6 +213,11 @@
       "size": 6493007,
       "isDuplicate": false,
       "cover": "/data/cover/实践论.png",
+      "tags": [
+        "哲学",
+        "政治",
+        "理论著作"
+      ],
       "formattedSize": "6.19 MB"
     },
     {
@@ -136,6 +227,12 @@
       "size": 9081629,
       "isDuplicate": false,
       "cover": "/data/cover/家庭、私有制和国家的起源.jpg",
+      "tags": [
+        "社会学",
+        "政治学",
+        "历史",
+        "理论研究"
+      ],
       "formattedSize": "8.66 MB"
     },
     {
@@ -145,6 +242,11 @@
       "size": 6302266,
       "isDuplicate": false,
       "cover": "/data/cover/思考,快与慢.jpg",
+      "tags": [
+        "心理学",
+        "思维方式",
+        "认知学"
+      ],
       "formattedSize": "6.01 MB"
     },
     {
@@ -154,6 +256,11 @@
       "size": 21084172,
       "isDuplicate": false,
       "cover": "/data/cover/政治的逻辑.jpg",
+      "tags": [
+        "政治",
+        "马克思主义",
+        "政治学原理"
+      ],
       "formattedSize": "20.11 MB"
     },
     {
@@ -163,6 +270,12 @@
       "size": 15850105,
       "isDuplicate": false,
       "cover": "/data/cover/毛泽东文集.jpg",
+      "tags": [
+        "政治",
+        "历史",
+        "文集",
+        "领袖著作"
+      ],
       "formattedSize": "15.12 MB"
     },
     {
@@ -172,6 +285,12 @@
       "size": 83905738,
       "isDuplicate": false,
       "cover": "/data/cover/毛泽东选集 (毛泽东).jpg",
+      "tags": [
+        "政治",
+        "历史",
+        "思想",
+        "领袖著作"
+      ],
       "formattedSize": "80.02 MB"
     },
     {
@@ -181,6 +300,12 @@
       "size": 54958311,
       "isDuplicate": false,
       "cover": "/data/cover/毛泽东选集 (毛泽东著).jpg",
+      "tags": [
+        "政治",
+        "历史",
+        "思想",
+        "领袖著作"
+      ],
       "formattedSize": "52.41 MB"
     },
     {
@@ -190,6 +315,12 @@
       "size": 8485510,
       "isDuplicate": false,
       "cover": "/data/cover/毛泽东选集（一卷本）.jpg",
+      "tags": [
+        "政治",
+        "历史",
+        "思想",
+        "领袖著作"
+      ],
       "formattedSize": "8.09 MB"
     },
     {
@@ -199,6 +330,11 @@
       "size": 39863303,
       "isDuplicate": false,
       "cover": "/data/cover/潜规则.jpg",
+      "tags": [
+        "历史",
+        "政治",
+        "规则研究"
+      ],
       "formattedSize": "38.02 MB"
     },
     {
@@ -208,6 +344,11 @@
       "size": 16392832,
       "isDuplicate": false,
       "cover": "/data/cover/矛盾论 (毛泽东).jpg",
+      "tags": [
+        "哲学",
+        "政治",
+        "理论著作"
+      ],
       "formattedSize": "15.63 MB"
     },
     {
@@ -217,6 +358,12 @@
       "size": 580844,
       "isDuplicate": false,
       "cover": null,
+      "tags": [
+        "哲学",
+        "骑行",
+        "维修",
+        "精神探索"
+      ],
       "formattedSize": "567.23 KB"
     },
     {
@@ -226,6 +373,12 @@
       "size": 43539952,
       "isDuplicate": false,
       "cover": "/data/cover/Poor Charlies Almanack.jpg",
+      "tags": [
+        "商业智慧",
+        "投资理念",
+        "人生哲学",
+        "成功学"
+      ],
       "formattedSize": "41.52 MB"
     },
     {
@@ -235,6 +388,11 @@
       "size": 6390317,
       "isDuplicate": false,
       "cover": "/data/cover/美国反对美国.jpg",
+      "tags": [
+        "政治",
+        "社会",
+        "美国研究"
+      ],
       "formattedSize": "6.09 MB"
     },
     {
@@ -244,6 +402,11 @@
       "size": 19334234,
       "isDuplicate": false,
       "cover": "/data/cover/he Willpower Instinct.jpg",
+      "tags": [
+        "心理学",
+        "自控力",
+        "自我管理"
+      ],
       "formattedSize": "18.44 MB"
     },
     {
@@ -253,16 +416,13 @@
       "size": 60437550,
       "isDuplicate": false,
       "cover": "/data/cover/资本论.jpg",
+      "tags": [
+        "经济学",
+        "政治经济",
+        "社会科学",
+        "经典著作"
+      ],
       "formattedSize": "57.64 MB"
-    },
-    {
-      "originalName": "赵紫阳改革历程.pdf",
-      "displayName": "赵紫阳改革历程",
-      "path": "/data/赵紫阳改革历程.pdf",
-      "size": 1564878,
-      "isDuplicate": false,
-      "cover": null,
-      "formattedSize": "1.49 MB"
     },
     {
       "originalName": "遥远的救世主 (豆豆) (Z-Library).pdf",
@@ -271,6 +431,12 @@
       "size": 60995520,
       "isDuplicate": false,
       "cover": "/data/cover/遥远的救世主.jpg",
+      "tags": [
+        "哲学",
+        "商战",
+        "文学",
+        "社会"
+      ],
       "formattedSize": "58.17 MB"
     },
     {
@@ -280,6 +446,11 @@
       "size": 12003459,
       "isDuplicate": false,
       "cover": "/data/cover/金字塔原理.jpg",
+      "tags": [
+        "思维方法",
+        "写作技巧",
+        "逻辑训练"
+      ],
       "formattedSize": "11.45 MB"
     }
   ]
