@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2025-09-15T10:15:35.050Z",
-  "totalFiles": 31,
+  "generatedAt": "2025-09-15T11:00:33.712Z",
+  "totalFiles": 36,
   "directory": "/data",
   "files": [
     {
@@ -118,6 +118,21 @@
       "formattedSize": "5.87 MB"
     },
     {
+      "originalName": "中华帝国晚期的性、法律与社会【文字版】 (苏成捷) (Z-Library).pdf",
+      "displayName": "中华帝国晚期的性、法律与社会【文字版】 (苏成捷) (Z-Library)",
+      "path": "/data/中华帝国晚期的性、法律与社会【文字版】 (苏成捷) (Z-Library).pdf",
+      "size": 11971477,
+      "isDuplicate": false,
+      "cover": "/data/cover/中华帝国晚期.jpg",
+      "tags": [
+        "历史",
+        "法律",
+        "社会",
+        "性学"
+      ],
+      "formattedSize": "11.42 MB"
+    },
+    {
       "originalName": "中国教育的危机与批判.pdf",
       "displayName": "中国教育的危机与批判",
       "path": "/data/中国教育的危机与批判.pdf",
@@ -146,6 +161,21 @@
         "乡土文化"
       ],
       "formattedSize": "5.34 MB"
+    },
+    {
+      "originalName": "儒教中国及其现代命运（三部曲） ([美]约瑟夫·列文森) (Z-Library).pdf",
+      "displayName": "儒教中国及其现代命运（三部曲） ([美]约瑟夫·列文森) (Z-Library)",
+      "path": "/data/儒教中国及其现代命运（三部曲） ([美]约瑟夫·列文森) (Z-Library).pdf",
+      "size": 5503154,
+      "isDuplicate": false,
+      "cover": "/data/cover/儒教中国及其现代命运.jpg",
+      "tags": [
+        "儒教研究",
+        "中国历史",
+        "文化命运",
+        "学术著作"
+      ],
+      "formattedSize": "5.25 MB"
     },
     {
       "originalName": "共产主义运动中的“左派”幼稚病 (列宁) (Z-Library).pdf",
@@ -234,6 +264,35 @@
         "理论研究"
       ],
       "formattedSize": "8.66 MB"
+    },
+    {
+      "originalName": "小岛经济学(文字版)(带目录)(同类最佳) (彼得·希夫  安德鲁·希夫) (Z-Library).pdf",
+      "displayName": "小岛经济学(文字版)(带目录)(同类最佳) (彼得·希夫  安德鲁·希夫) (Z-Library)",
+      "path": "/data/小岛经济学(文字版)(带目录)(同类最佳) (彼得·希夫  安德鲁·希夫) (Z-Library).pdf",
+      "size": 21811060,
+      "isDuplicate": false,
+      "cover": "/data/cover/小岛经济学.jpg",
+      "tags": [
+        "经济学",
+        "经济科普",
+        "小岛经济"
+      ],
+      "formattedSize": "20.8 MB"
+    },
+    {
+      "originalName": "州县之民：治乱之间的小民命运 (王帆) (Z-Library).pdf",
+      "displayName": "州县之民：治乱之间的小民命运 (王帆) (Z-Library)",
+      "path": "/data/州县之民：治乱之间的小民命运 (王帆) (Z-Library).pdf",
+      "size": 10360211,
+      "isDuplicate": false,
+      "cover": "/data/cover/州县之民.jpg",
+      "tags": [
+        "历史",
+        "政治",
+        "小民命运",
+        "州县治理"
+      ],
+      "formattedSize": "9.88 MB"
     },
     {
       "originalName": "思考,快与慢 (丹尼尔 · 卡尼曼 (Daniel Kahneman)) (Z-Library).pdf",
@@ -408,6 +467,20 @@
         "自我管理"
       ],
       "formattedSize": "18.44 MB"
+    },
+    {
+      "originalName": "若干重大决策与事件的回顾（上、下） (薄一波) (Z-Library).pdf",
+      "displayName": "若干重大决策与事件的回顾（上、下） (薄一波) (Z-Library)",
+      "path": "/data/若干重大决策与事件的回顾（上、下） (薄一波) (Z-Library).pdf",
+      "size": 55289570,
+      "isDuplicate": false,
+      "cover": "/data/cover/若干重大决策.jpg",
+      "tags": [
+        "历史",
+        "政治",
+        "决策回顾"
+      ],
+      "formattedSize": "52.73 MB"
     },
     {
       "originalName": "资本论（全三卷） (卡尔·马克思,中共中央马克思恩格斯列宁斯大林著作编译局) (Z-Library).pdf",
