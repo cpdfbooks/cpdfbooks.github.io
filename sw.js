@@ -62,7 +62,7 @@ self.addEventListener('fetch', (event) => {
       fetch(event.request)
         .then((response) => {
           // 缓存成功的API响应
-          if (response.ok) {
+          if (response.ok &&response.status!==206) {
             const responseClone = response.clone();
             caches.open(CACHE_NAME)
               .then((cache) => {
