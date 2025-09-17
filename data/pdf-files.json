@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2025-09-16T09:09:34.131Z",
-  "totalFiles": 36,
+  "generatedAt": "2025-09-17T06:09:06.491Z",
+  "totalFiles": 40,
   "directory": "/data",
   "files": [
     {
@@ -133,6 +133,21 @@
       "formattedSize": "11.42 MB"
     },
     {
+      "originalName": "中国乡村：19世纪的帝国控制 (萧公权) (Z-Library).pdf",
+      "displayName": "中国乡村：19世纪的帝国控制 (萧公权) (Z-Library)",
+      "path": "/data/中国乡村：19世纪的帝国控制 (萧公权) (Z-Library).pdf",
+      "size": 28938869,
+      "isDuplicate": false,
+      "cover": "/data/cover/中国乡村.jpg",
+      "tags": [
+        "历史",
+        "乡村研究",
+        "帝国控制",
+        "中国史"
+      ],
+      "formattedSize": "27.6 MB"
+    },
+    {
       "originalName": "中国教育的危机与批判.pdf",
       "displayName": "中国教育的危机与批判",
       "path": "/data/中国教育的危机与批判.pdf",
@@ -171,9 +186,8 @@
       "cover": "/data/cover/儒教中国及其现代命运.jpg",
       "tags": [
         "儒教研究",
-        "中国历史",
-        "文化命运",
-        "社科著作"
+        "历史文化",
+        "社会思想"
       ],
       "formattedSize": "5.25 MB"
     },
@@ -266,6 +280,20 @@
       "formattedSize": "8.66 MB"
     },
     {
+      "originalName": "将无同 中古史研究论文集【文字版】 (胡宝国) (Z-Library).pdf",
+      "displayName": "将无同 中古史研究论文集【文字版】 (胡宝国) (Z-Library)",
+      "path": "/data/将无同 中古史研究论文集【文字版】 (胡宝国) (Z-Library).pdf",
+      "size": 11387435,
+      "isDuplicate": false,
+      "cover": "/data/cover/将无同.jpg",
+      "tags": [
+        "中古史",
+        "历史研究",
+        "论文集"
+      ],
+      "formattedSize": "10.86 MB"
+    },
+    {
       "originalName": "小岛经济学(文字版)(带目录)(同类最佳) (彼得·希夫  安德鲁·希夫) (Z-Library).pdf",
       "displayName": "小岛经济学(文字版)(带目录)(同类最佳) (彼得·希夫  安德鲁·希夫) (Z-Library)",
       "path": "/data/小岛经济学(文字版)(带目录)(同类最佳) (彼得·希夫  安德鲁·希夫) (Z-Library).pdf",
@@ -275,7 +303,7 @@
       "tags": [
         "经济学",
         "经济科普",
-        "经济读物"
+        "小岛经济"
       ],
       "formattedSize": "20.8 MB"
     },
@@ -290,7 +318,7 @@
         "历史",
         "政治",
         "小民命运",
-        "州县史"
+        "州县治理"
       ],
       "formattedSize": "9.88 MB"
     },
@@ -321,6 +349,35 @@
         "政治学原理"
       ],
       "formattedSize": "20.11 MB"
+    },
+    {
+      "originalName": "晚期帝制中国的科举文化史 (索恩系列)【文字版】 ([美]艾尔曼) (Z-Library).pdf",
+      "displayName": "晚期帝制中国的科举文化史 (索恩系列)【文字版】 ([美]艾尔曼) (Z-Library)",
+      "path": "/data/晚期帝制中国的科举文化史 (索恩系列)【文字版】 ([美]艾尔曼) (Z-Library).pdf",
+      "size": 27210249,
+      "isDuplicate": false,
+      "cover": "/data/cover/晚期帝制中国的科举文化史.jpg",
+      "tags": [
+        "历史",
+        "科举",
+        "文化",
+        "中国史"
+      ],
+      "formattedSize": "25.95 MB"
+    },
+    {
+      "originalName": "正统与华夷：中国传统政治文化研究 (刘浦江) (Z-Library).pdf",
+      "displayName": "正统与华夷：中国传统政治文化研究 (刘浦江) (Z-Library)",
+      "path": "/data/正统与华夷：中国传统政治文化研究 (刘浦江) (Z-Library).pdf",
+      "size": 6508987,
+      "isDuplicate": false,
+      "cover": "/data/cover/正统与华夷.jpg",
+      "tags": [
+        "历史",
+        "政治",
+        "文化研究"
+      ],
+      "formattedSize": "6.21 MB"
     },
     {
       "originalName": "毛泽东文集 (毛泽东) (Z-Library).pdf",
