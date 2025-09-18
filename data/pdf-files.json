@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2025-09-17T08:22:06.898Z",
-  "totalFiles": 46,
+  "generatedAt": "2025-09-18T03:32:02.116Z",
+  "totalFiles": 50,
   "directory": "/data",
   "files": [
     {
@@ -142,8 +142,7 @@
       "tags": [
         "历史",
         "乡村研究",
-        "帝国控制",
-        "中国史"
+        "帝国控制"
       ],
       "formattedSize": "27.6 MB"
     },
@@ -178,6 +177,20 @@
       "formattedSize": "5.34 MB"
     },
     {
+      "originalName": "人间值得 (中村恒子, 奥田弘美) (Z-Library).pdf",
+      "displayName": "人间值得 (中村恒子, 奥田弘美) (Z-Library)",
+      "path": "/data/人间值得 (中村恒子, 奥田弘美) (Z-Library).pdf",
+      "size": 6318299,
+      "isDuplicate": false,
+      "cover": "/data/cover/人间值得.jpg",
+      "tags": [
+        "心理励志",
+        "人生哲理",
+        "心灵成长"
+      ],
+      "formattedSize": "6.03 MB"
+    },
+    {
       "originalName": "儒教中国及其现代命运（三部曲） ([美]约瑟夫·列文森) (Z-Library).pdf",
       "displayName": "儒教中国及其现代命运（三部曲） ([美]约瑟夫·列文森) (Z-Library)",
       "path": "/data/儒教中国及其现代命运（三部曲） ([美]约瑟夫·列文森) (Z-Library).pdf",
@@ -208,19 +221,19 @@
       "formattedSize": "6.33 MB"
     },
     {
-      "originalName": "共产党宣言 ( etc.) (Z-Library).pdf",
-      "displayName": "共产党宣言 ( etc.) (Z-Library)",
-      "path": "/data/共产党宣言 ( etc.) (Z-Library).pdf",
-      "size": 41639663,
+      "originalName": "共产党宣言 (马克思，恩格斯) (Z-Library).pdf",
+      "displayName": "共产党宣言 (马克思，恩格斯) (Z-Library)",
+      "path": "/data/共产党宣言 (马克思，恩格斯) (Z-Library).pdf",
+      "size": 4511649,
       "isDuplicate": false,
       "cover": "/data/cover/共产党宣言.jpg",
       "tags": [
         "政治",
+        "哲学",
         "社科",
-        "思想",
-        "理论"
+        "经典"
       ],
-      "formattedSize": "39.71 MB"
+      "formattedSize": "4.3 MB"
     },
     {
       "originalName": "农民进城防骗手册 (马文胜，蔡建文) (Z-Library) (1).pdf",
@@ -276,7 +289,7 @@
       "tags": [
         "阅读方法",
         "学习指南",
-        "知识科普"
+        "知识读物"
       ],
       "formattedSize": "2.56 MB"
     },
@@ -331,9 +344,9 @@
       "isDuplicate": false,
       "cover": "/data/cover/小岛经济学.jpg",
       "tags": [
-        "经济",
-        "金融",
-        "经济学"
+        "经济学",
+        "经济科普",
+        "经济读物"
       ],
       "formattedSize": "20.8 MB"
     },
@@ -353,6 +366,20 @@
       "formattedSize": "9.88 MB"
     },
     {
+      "originalName": "底层逻辑：看清这个世界的底牌 (刘润) (Z-Library).pdf",
+      "displayName": "底层逻辑：看清这个世界的底牌 (刘润) (Z-Library)",
+      "path": "/data/底层逻辑：看清这个世界的底牌 (刘润) (Z-Library).pdf",
+      "size": 15132690,
+      "isDuplicate": false,
+      "cover": "/data/cover/底层逻辑.jpg",
+      "tags": [
+        "商业思维",
+        "社科知识",
+        "逻辑思考"
+      ],
+      "formattedSize": "14.43 MB"
+    },
+    {
       "originalName": "思考,快与慢 (丹尼尔 · 卡尼曼 (Daniel Kahneman)) (Z-Library).pdf",
       "displayName": "思考,快与慢 (丹尼尔 · 卡尼曼 (Daniel Kahneman)) (Z-Library)",
       "path": "/data/思考,快与慢 (丹尼尔 · 卡尼曼 (Daniel Kahneman)) (Z-Library).pdf",
@@ -370,16 +397,16 @@
       "originalName": "我与地坛 (史铁生) (Z-Library).pdf",
       "displayName": "我与地坛 (史铁生) (Z-Library)",
       "path": "/data/我与地坛 (史铁生) (Z-Library).pdf",
-      "size": 3023920,
+      "size": 8527502,
       "isDuplicate": false,
       "cover": "/data/cover/我与地坛.jpg",
       "tags": [
         "散文",
         "文学",
-        "哲理",
-        "自传"
+        "人生感悟",
+        "哲理思考"
       ],
-      "formattedSize": "2.88 MB"
+      "formattedSize": "8.13 MB"
     },
     {
       "originalName": "政治的逻辑--马克思主义政治学原理 (王沪宁, 林尚立, 孙关宏) (Z-Library).pdf",
@@ -417,9 +444,10 @@
       "isDuplicate": false,
       "cover": "/data/cover/正统与华夷.jpg",
       "tags": [
-        "历史",
-        "政治",
-        "文化研究"
+        "历史研究",
+        "政治文化",
+        "正统华夷",
+        "传统政治"
       ],
       "formattedSize": "6.21 MB"
     },
@@ -566,7 +594,7 @@
         "经济",
         "政府",
         "发展",
-        "中国经济"
+        "国情"
       ],
       "formattedSize": "4.66 MB"
     },
@@ -613,6 +641,21 @@
       "formattedSize": "52.73 MB"
     },
     {
+      "originalName": "资本家剥削工人的形形色色 (靳边) (Z-Library).pdf",
+      "displayName": "资本家剥削工人的形形色色 (靳边) (Z-Library)",
+      "path": "/data/资本家剥削工人的形形色色 (靳边) (Z-Library).pdf",
+      "size": 11771604,
+      "isDuplicate": false,
+      "cover": "/data/cover/资本家剥削工人的.jpg",
+      "tags": [
+        "经济",
+        "剥削",
+        "社会",
+        "劳工"
+      ],
+      "formattedSize": "11.23 MB"
+    },
+    {
       "originalName": "资本论（全三卷） (卡尔·马克思,中共中央马克思恩格斯列宁斯大林著作编译局) (Z-Library).pdf",
       "displayName": "资本论（全三卷） (卡尔·马克思,中共中央马克思恩格斯列宁斯大林著作编译局) (Z-Library)",
       "path": "/data/资本论（全三卷） (卡尔·马克思,中共中央马克思恩格斯列宁斯大林著作编译局) (Z-Library).pdf",
@@ -657,6 +700,20 @@
       "formattedSize": "11.45 MB"
     },
     {
+      "originalName": "金瓶梅詞話 夢梅館校本(第一册)(修訂一版)(扫描版)(有目录) (蘭陵笑笑生, 梅節) (Z-Library).pdf",
+      "displayName": "金瓶梅詞話 夢梅館校本(第一册)(修訂一版)(扫描版)(有目录) (蘭陵笑笑生, 梅節) (Z-Library)",
+      "path": "/data/金瓶梅詞話 夢梅館校本(第一册)(修訂一版)(扫描版)(有目录) (蘭陵笑笑生, 梅節) (Z-Library).pdf",
+      "size": 90109493,
+      "isDuplicate": false,
+      "cover": "/data/cover/金瓶梅.jpg",
+      "tags": [
+        "古典文学",
+        "世情小说",
+        "明清文学"
+      ],
+      "formattedSize": "85.94 MB"
+    },
+    {
       "originalName": "额尔古纳河右岸 (迟子建) (Z-Library).pdf",
       "displayName": "额尔古纳河右岸 (迟子建) (Z-Library)",
       "path": "/data/额尔古纳河右岸 (迟子建) (Z-Library).pdf",
@@ -665,8 +722,8 @@
       "cover": "/data/cover/额尔古纳河右岸.jpg",
       "tags": [
         "文学",
-        "民族",
         "历史",
+        "民族",
         "小说"
       ],
       "formattedSize": "3.72 MB"
