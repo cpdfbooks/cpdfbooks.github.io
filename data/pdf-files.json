@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-09-18T03:32:02.116Z",
+  "generatedAt": "2025-09-23T07:12:53.812Z",
   "totalFiles": 50,
   "directory": "/data",
   "files": [
@@ -124,12 +124,7 @@
       "size": 11971477,
       "isDuplicate": false,
       "cover": "/data/cover/中华帝国晚期.jpg",
-      "tags": [
-        "历史",
-        "法律",
-        "社会",
-        "性学"
-      ],
+      "tags": [],
       "formattedSize": "11.42 MB"
     },
     {
@@ -139,11 +134,7 @@
       "size": 28938869,
       "isDuplicate": false,
       "cover": "/data/cover/中国乡村.jpg",
-      "tags": [
-        "历史",
-        "乡村研究",
-        "帝国控制"
-      ],
+      "tags": [],
       "formattedSize": "27.6 MB"
     },
     {
@@ -183,11 +174,7 @@
       "size": 6318299,
       "isDuplicate": false,
       "cover": "/data/cover/人间值得.jpg",
-      "tags": [
-        "心理励志",
-        "人生哲理",
-        "心灵成长"
-      ],
+      "tags": [],
       "formattedSize": "6.03 MB"
     },
     {
@@ -197,12 +184,7 @@
       "size": 5503154,
       "isDuplicate": false,
       "cover": "/data/cover/儒教中国及其现代命运.jpg",
-      "tags": [
-        "儒教研究",
-        "中国历史",
-        "文化命运",
-        "社科研究"
-      ],
+      "tags": [],
       "formattedSize": "5.25 MB"
     },
     {
@@ -227,12 +209,7 @@
       "size": 4511649,
       "isDuplicate": false,
       "cover": "/data/cover/共产党宣言.jpg",
-      "tags": [
-        "政治",
-        "哲学",
-        "社科",
-        "经典"
-      ],
+      "tags": [],
       "formattedSize": "4.3 MB"
     },
     {
@@ -286,11 +263,7 @@
       "size": 2681856,
       "isDuplicate": false,
       "cover": "/data/cover/如何阅读一本书.jpg",
-      "tags": [
-        "阅读方法",
-        "学习指南",
-        "知识读物"
-      ],
+      "tags": [],
       "formattedSize": "2.56 MB"
     },
     {
@@ -329,11 +302,7 @@
       "size": 11387435,
       "isDuplicate": false,
       "cover": "/data/cover/将无同.jpg",
-      "tags": [
-        "中古史",
-        "历史研究",
-        "论文集"
-      ],
+      "tags": [],
       "formattedSize": "10.86 MB"
     },
     {
@@ -343,11 +312,7 @@
       "size": 21811060,
       "isDuplicate": false,
       "cover": "/data/cover/小岛经济学.jpg",
-      "tags": [
-        "经济学",
-        "经济科普",
-        "经济读物"
-      ],
+      "tags": [],
       "formattedSize": "20.8 MB"
     },
     {
@@ -357,12 +322,7 @@
       "size": 10360211,
       "isDuplicate": false,
       "cover": "/data/cover/州县之民.jpg",
-      "tags": [
-        "历史",
-        "政治",
-        "小民命运",
-        "州县治理"
-      ],
+      "tags": [],
       "formattedSize": "9.88 MB"
     },
     {
@@ -372,11 +332,7 @@
       "size": 15132690,
       "isDuplicate": false,
       "cover": "/data/cover/底层逻辑.jpg",
-      "tags": [
-        "商业思维",
-        "社科知识",
-        "逻辑思考"
-      ],
+      "tags": [],
       "formattedSize": "14.43 MB"
     },
     {
@@ -400,12 +356,7 @@
       "size": 8527502,
       "isDuplicate": false,
       "cover": "/data/cover/我与地坛.jpg",
-      "tags": [
-        "散文",
-        "文学",
-        "人生感悟",
-        "哲理思考"
-      ],
+      "tags": [],
       "formattedSize": "8.13 MB"
     },
     {
@@ -429,11 +380,7 @@
       "size": 27210249,
       "isDuplicate": false,
       "cover": "/data/cover/晚期帝制中国的科举文化史.jpg",
-      "tags": [
-        "历史",
-        "科举",
-        "文化"
-      ],
+      "tags": [],
       "formattedSize": "25.95 MB"
     },
     {
@@ -443,12 +390,7 @@
       "size": 6508987,
       "isDuplicate": false,
       "cover": "/data/cover/正统与华夷.jpg",
-      "tags": [
-        "历史研究",
-        "政治文化",
-        "正统华夷",
-        "传统政治"
-      ],
+      "tags": [],
       "formattedSize": "6.21 MB"
     },
     {
@@ -532,11 +474,7 @@
       "size": 12231161,
       "isDuplicate": false,
       "cover": "/data/cover/百年孤独.jpg",
-      "tags": [
-        "文学",
-        "魔幻现实",
-        "小说"
-      ],
+      "tags": [],
       "formattedSize": "11.66 MB"
     },
     {
@@ -590,12 +528,7 @@
       "size": 4886303,
       "isDuplicate": false,
       "cover": "/data/cover/置身事内.jpg",
-      "tags": [
-        "经济",
-        "政府",
-        "发展",
-        "国情"
-      ],
+      "tags": [],
       "formattedSize": "4.66 MB"
     },
     {
@@ -633,11 +566,7 @@
       "size": 55289570,
       "isDuplicate": false,
       "cover": "/data/cover/若干重大决策.jpg",
-      "tags": [
-        "历史",
-        "政治",
-        "决策回顾"
-      ],
+      "tags": [],
       "formattedSize": "52.73 MB"
     },
     {
@@ -647,12 +576,7 @@
       "size": 11771604,
       "isDuplicate": false,
       "cover": "/data/cover/资本家剥削工人的.jpg",
-      "tags": [
-        "经济",
-        "剥削",
-        "社会",
-        "劳工"
-      ],
+      "tags": [],
       "formattedSize": "11.23 MB"
     },
     {
@@ -706,11 +630,7 @@
       "size": 90109493,
       "isDuplicate": false,
       "cover": "/data/cover/金瓶梅.jpg",
-      "tags": [
-        "古典文学",
-        "世情小说",
-        "明清文学"
-      ],
+      "tags": [],
       "formattedSize": "85.94 MB"
     },
     {
@@ -720,12 +640,7 @@
       "size": 3896377,
       "isDuplicate": false,
       "cover": "/data/cover/额尔古纳河右岸.jpg",
-      "tags": [
-        "文学",
-        "历史",
-        "民族",
-        "小说"
-      ],
+      "tags": [],
       "formattedSize": "3.72 MB"
     }
   ]
