@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2025-09-23T07:12:53.812Z",
-  "totalFiles": 50,
+  "generatedAt": "2025-09-25T09:10:41.910Z",
+  "totalFiles": 56,
   "directory": "/data",
   "files": [
     {
@@ -28,6 +28,16 @@
         "未知类别"
       ],
       "formattedSize": "146 KB"
+    },
+    {
+      "originalName": "Georg Wilhelm Friedrich Hegel The Phenomenology of Spirit (Georg Wilhelm Fredrich Hegel, Terry Pinkard etc.) (Z-Library).pdf",
+      "displayName": "Georg Wilhelm Friedrich Hegel The Phenomenology of Spirit (Georg Wilhelm Fredrich Hegel, Terry Pinkard etc.) (Z-Library)",
+      "path": "/data/Georg Wilhelm Friedrich Hegel The Phenomenology of Spirit (Georg Wilhelm Fredrich Hegel, Terry Pinkard etc.) (Z-Library).pdf",
+      "size": 2662989,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "formattedSize": "2.54 MB"
     },
     {
       "originalName": "zhaoziyang回忆录.pdf",
@@ -72,6 +82,16 @@
         "杂文"
       ],
       "formattedSize": "1.53 MB"
+    },
+    {
+      "originalName": "《精神现象学》义解（上下卷） (庄振华) (Z-Library).pdf",
+      "displayName": "《精神现象学》义解（上下卷） (庄振华) (Z-Library)",
+      "path": "/data/《精神现象学》义解（上下卷） (庄振华) (Z-Library).pdf",
+      "size": 40244377,
+      "isDuplicate": false,
+      "cover": "/data/cover/精神现象学》义解.jpg",
+      "tags": [],
+      "formattedSize": "38.38 MB"
     },
     {
       "originalName": "一看就懂的经济常识全图解 (斯凯恩编著) (Z-Library).pdf",
@@ -227,6 +247,16 @@
       "formattedSize": "10.96 MB"
     },
     {
+      "originalName": "包法利夫人（名著名译丛书） (福楼拜) (Z-Library).pdf",
+      "displayName": "包法利夫人（名著名译丛书） (福楼拜) (Z-Library)",
+      "path": "/data/包法利夫人（名著名译丛书） (福楼拜) (Z-Library).pdf",
+      "size": 21500802,
+      "isDuplicate": false,
+      "cover": "/data/cover/包法利夫人.jpg",
+      "tags": [],
+      "formattedSize": "20.5 MB"
+    },
+    {
       "originalName": "反杜林论 ([德] 弗里德里希·恩格斯) (Z-Library).pdf",
       "displayName": "反杜林论 ([德] 弗里德里希·恩格斯) (Z-Library)",
       "path": "/data/反杜林论 ([德] 弗里德里希·恩格斯) (Z-Library).pdf",
@@ -240,6 +270,16 @@
         "思想"
       ],
       "formattedSize": "56.72 MB"
+    },
+    {
+      "originalName": "哲学要义 (叶秀山) (Z-Library).pdf",
+      "displayName": "哲学要义 (叶秀山) (Z-Library)",
+      "path": "/data/哲学要义 (叶秀山) (Z-Library).pdf",
+      "size": 39148944,
+      "isDuplicate": false,
+      "cover": "/data/cover/哲学要义.jpg",
+      "tags": [],
+      "formattedSize": "37.34 MB"
     },
     {
       "originalName": "国家与革命 (列宁) (Z-Library).pdf",
@@ -326,6 +366,16 @@
       "formattedSize": "9.88 MB"
     },
     {
+      "originalName": "工作、消费主义和新穷人 (SoBooKs.cc  (英)齐格蒙特·鲍曼) (Z-Library).pdf",
+      "displayName": "工作、消费主义和新穷人 (SoBooKs.cc  (英)齐格蒙特·鲍曼) (Z-Library)",
+      "path": "/data/工作、消费主义和新穷人 (SoBooKs.cc  (英)齐格蒙特·鲍曼) (Z-Library).pdf",
+      "size": 11115820,
+      "isDuplicate": false,
+      "cover": "/data/cover/消费主义和新穷人.jpg",
+      "tags": [],
+      "formattedSize": "10.6 MB"
+    },
+    {
       "originalName": "底层逻辑：看清这个世界的底牌 (刘润) (Z-Library).pdf",
       "displayName": "底层逻辑：看清这个世界的底牌 (刘润) (Z-Library)",
       "path": "/data/底层逻辑：看清这个世界的底牌 (刘润) (Z-Library).pdf",
@@ -358,6 +408,16 @@
       "cover": "/data/cover/我与地坛.jpg",
       "tags": [],
       "formattedSize": "8.13 MB"
+    },
+    {
+      "originalName": "战争与和平 (列夫·托尔斯泰) (Z-Library).pdf",
+      "displayName": "战争与和平 (列夫·托尔斯泰) (Z-Library)",
+      "path": "/data/战争与和平 (列夫·托尔斯泰) (Z-Library).pdf",
+      "size": 19886464,
+      "isDuplicate": false,
+      "cover": "/data/cover/战争与和平.jpg",
+      "tags": [],
+      "formattedSize": "18.97 MB"
     },
     {
       "originalName": "政治的逻辑--马克思主义政治学原理 (王沪宁, 林尚立, 孙关宏) (Z-Library).pdf",
