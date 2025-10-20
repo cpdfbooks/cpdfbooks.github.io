@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2025-10-15T10:11:46.199Z",
-  "totalFiles": 62,
+  "generatedAt": "2025-10-20T09:53:05.480Z",
+  "totalFiles": 64,
   "filesWithPdf": 58,
   "directory": "/data",
   "type": "txt",
@@ -115,7 +115,7 @@
       "originalName": "《精神现象学》义解（上下卷） (庄振华) (Z-Library).txt",
       "displayName": "《精神现象学》义解（上下卷） (庄振华) (Z-Library)",
       "path": "/data/《精神现象学》义解（上下卷） (庄振华) (Z-Library).txt",
-      "size": 2572754,
+      "size": 2459612,
       "isDuplicate": false,
       "cover": "/data/cover/精神现象学》义解.jpg",
       "tags": [
@@ -126,9 +126,9 @@
       ],
       "pdfPath": "/data/《精神现象学》义解（上下卷） (庄振华) (Z-Library).pdf",
       "hasPdf": true,
-      "preview": "=== 第 1 页 ===\r\n\r\n\r\n=== 第 2 页 ===\r\n\u0000\u0000\u0000\u0000\r\n书\u0000\u0000《精\u0000现\u0000\u0000》义\u0000\r\n作者\u0000\u0000\u0000华\r\n\u0000\u0000\u0000\u0000中国\u0000\u0000⼤\u0000\u0000\u0000\u0000\r\n\u0000\u0000⽇期\u0000 2019-08-01\r\nISBN： 978-7-300-27168-2\r\n\u0000格\u0000 188.00 元\r\n\r\n=== 第 3 页 ===\r\n⽬录 \r\nCONTENTS\r\n国\u0000\u0000科基 ⾦ \u0000期资助项⽬\u0000\u0000说明\r\n绪论 《精\u0000现\u0000\u0000》研\u0000再\u0000...",
+      "preview": "版权信息\n\n\n\n书名：《精神现象学》义解\n\n\n作者：庄振华\n\n\n出版社：中国人民大学出版社\n\n\n出版日期：2019-08-01\n\n\nISBN：978-7-300-27168-2\n\n\n价格：188.00元\n\n\n\n\n\n目录\n\nCONTENTS\n\n\n国家社科基金后期资助项目出版说明\n\n绪论　《精神现象学》研究再出发 一　世界的合理性——近现代之争\n\n二　《精神现象学》的出版过程、前期构思与题旨简论\n\n三...",
       "type": "txt",
-      "formattedSize": "2.45 MB"
+      "formattedSize": "2.35 MB"
     },
     {
       "originalName": "一看就懂的经济常识全图解 (斯凯恩编著) (Z-Library).txt",
@@ -317,6 +317,20 @@
       "formattedSize": "1.19 MB"
     },
     {
+      "originalName": "八次危机中国的真实经验 (温铁军) (Z-Library).txt",
+      "displayName": "八次危机中国的真实经验 (温铁军) (Z-Library)",
+      "path": "/data/八次危机中国的真实经验 (温铁军) (Z-Library).txt",
+      "size": 659684,
+      "isDuplicate": false,
+      "cover": "/data/cover/八次危机.jpg",
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "八次危机\n\nEIGHT CRISES\n\n中国的真实经验 1949-2009\n\nLESSONS FROM CHINA，1949-2009\n\n温铁军 等著\n\n\n\n\n\n东方出版社\n\n2013年1月\n\n\n\n\n\n图书在版编目（CIP）数据\n\n\n八次危机/温铁军 等著. —北京：东方出版社，2012.10\n\nISBN 978-7-5060-5557-4\n\nⅠ.①八… Ⅱ.①温… Ⅲ.①中国经济—经济危机—研究...",
+      "type": "txt",
+      "formattedSize": "644.22 KB"
+    },
+    {
       "originalName": "共产主义运动中的“左派”幼稚病 (列宁) (Z-Library).txt",
       "displayName": "共产主义运动中的“左派”幼稚病 (列宁) (Z-Library)",
       "path": "/data/共产主义运动中的“左派”幼稚病 (列宁) (Z-Library).txt",
@@ -407,6 +421,20 @@
       "preview": "恩\n榜\n斯\n反\n杜\n林\n论\n\n全世 界 无 产 者  , 联 合起来 !\n\n恩\n格\n斯\n反杜林  论\nj\n大\n口\n克\n恆\n恺\n格\n斯\n中坤目 舀  刑 “ 宁 斯 大 林 著作 编诙局诙\nAk & 廉 -潮\n\n编\n辑\n说\n明\n自  《 马 克思 怡 格 按 全 集》 、  《 列 宁 全 集》 、  《 马 克 思 恩 格 斯选\n集 》、  《 列 宁 选 集 》问 世 以 来 , 广 大 读 者...",
       "type": "txt",
       "formattedSize": "979.04 KB"
+    },
+    {
+      "originalName": "告别百年激进：中国的现代化问题 (温铁军) (Z-Library).txt",
+      "displayName": "告别百年激进：中国的现代化问题 (温铁军) (Z-Library)",
+      "path": "/data/告别百年激进：中国的现代化问题 (温铁军) (Z-Library).txt",
+      "size": 931935,
+      "isDuplicate": false,
+      "cover": "/data/cover/告别百年激进.jpg",
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "告别百年激进\n\n\n温铁军 著\n\n\n\n\n\n图书在版编目（CIP）数据\n\n\n告别百年激进 / 温铁军 著. — 北京:东方出版社, 2015.12\n\nISBN 978-7-5060-8852-7\n\nⅠ.①告…　Ⅱ.①温…　Ⅲ.①改革开放－经验－中国　Ⅳ. ①D61\n\n中国版本图书馆CIP数据核字（2015）第292708号\n\n\n\n\n\n告别百年激进\n\n( GAOBIE BAINIAN JIJIN )\n\n...",
+      "type": "txt",
+      "formattedSize": "910.09 KB"
     },
     {
       "originalName": "哲学要义 (叶秀山) (Z-Library).txt",
@@ -1027,7 +1055,7 @@
       "path": "/data/解构现代化：温铁军演讲录（《告别百年激进》之“前传”，自《八次危机》《去依附》之后又一力作） (温铁军) (Z-Library).txt",
       "size": 652961,
       "isDuplicate": false,
-      "cover": "/data/cover/解构现代化.jpg",
+      "cover": "/data/cover/八次危机.jpg",
       "tags": [
         "社会学",
         "现代化",
