@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2025-10-20T09:55:21.915Z",
-  "totalFiles": 64,
+  "generatedAt": "2025-10-21T09:57:16.809Z",
+  "totalFiles": 68,
   "filesWithPdf": 58,
   "directory": "/data",
   "type": "txt",
@@ -186,6 +186,25 @@
       "formattedSize": "688.79 KB"
     },
     {
+      "originalName": "世界的逻辑 ([美] 大卫·哈维 [[美] 大卫·哈维]) (Z-Library).txt",
+      "displayName": "世界的逻辑 ([美] 大卫·哈维 [[美] 大卫·哈维]) (Z-Library)",
+      "path": "/data/世界的逻辑 ([美] 大卫·哈维 [[美] 大卫·哈维]) (Z-Library).txt",
+      "size": 722946,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "社科",
+        "经济",
+        "哲学",
+        "学术"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "世界的逻辑\n\n\n\n\n\n[美] 大卫·哈维 著\n\n周大昕 译\n\n\n\n\n\n中信出版社\n\n\n\n\n\n目录\n\n\n推荐序 “世界的逻辑”之独特解释\n\n[s书籍 免费 分享 微信j n z t x y] 序言\n\n引言\n\n第一章 城市危机的起源\n\n第二章 资本积累与流通 马克思理论的重建\n\n第三章 资本积累与城市化进程\n\n第四章 从巴黎圣心堂的建造看城市历史\n\n第五章 时空压缩与后现代状况\n\n第六章 从管理主义到...",
+      "type": "txt",
+      "formattedSize": "706 KB"
+    },
+    {
       "originalName": "中华帝国晚期的性、法律与社会【文字版】 (苏成捷) (Z-Library).txt",
       "displayName": "中华帝国晚期的性、法律与社会【文字版】 (苏成捷) (Z-Library)",
       "path": "/data/中华帝国晚期的性、法律与社会【文字版】 (苏成捷) (Z-Library).txt",
@@ -324,10 +343,10 @@
       "isDuplicate": false,
       "cover": "/data/cover/八次危机.jpg",
       "tags": [
-        "经济",
-        "危机",
-        "中国史",
-        "经验总结"
+        "经济危机",
+        "中国经验",
+        "经济史",
+        "社会经济"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -428,6 +447,25 @@
       "formattedSize": "979.04 KB"
     },
     {
+      "originalName": "反资本世界简史 (大卫·哈维 David Harvey) (Z-Library).txt",
+      "displayName": "反资本世界简史 (大卫·哈维 David Harvey) (Z-Library)",
+      "path": "/data/反资本世界简史 (大卫·哈维 David Harvey) (Z-Library).txt",
+      "size": 561324,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "历史",
+        "反资本",
+        "经济",
+        "社会批判"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "=== 第 1 页 ===\n区 标 ( 长 春 跃\n\nne (3) * 忠\n沛 Some\nTHE\nANTI-CAPITALIST\n\nCHRONICLES\n\n=1=M| 广 东 人 史 口 奶 赳\n\n\n=== 第 2 页 ===\n上 架 建 议 : 社 科 - 思 想\n\nSBN 978-7-218-16121-1\n\n9 787218 16 12 11\n\n定 价 : 78.00 元\n\nieee\n\nn\n...",
+      "type": "txt",
+      "formattedSize": "548.17 KB"
+    },
+    {
       "originalName": "告别百年激进：中国的现代化问题 (温铁军) (Z-Library).txt",
       "displayName": "告别百年激进：中国的现代化问题 (温铁军) (Z-Library)",
       "path": "/data/告别百年激进：中国的现代化问题 (温铁军) (Z-Library).txt",
@@ -435,10 +473,10 @@
       "isDuplicate": false,
       "cover": "/data/cover/告别百年激进.jpg",
       "tags": [
-        "中国历史",
+        "历史",
         "现代化",
         "社会研究",
-        "经济政治 "
+        "政治经济"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -741,6 +779,25 @@
       "preview": "PDF处理结果\n\n文件: 政治的逻辑--马克思主义政治学原理 (王沪宁, 林尚立, 孙关宏) (Z-Library).pdf\n处理方式: ocr_failed\n提取文本长度: 0 字符\n\nOCR错误: 所有OCR方法都失败了\n\n\n\n注意: 此PDF文件可能是扫描版或包含复杂格式，文本提取效果有限。建议使用专业OCR软件进行处理。",
       "type": "txt",
       "formattedSize": "351 B"
+    },
+    {
+      "originalName": "新自由主义简史.txt",
+      "displayName": "新自由主义简史",
+      "path": "/data/新自由主义简史.txt",
+      "size": 449836,
+      "isDuplicate": false,
+      "cover": "/data/cover/新自由主义简史.jpg",
+      "tags": [
+        "经济",
+        "政治",
+        "新自由主义",
+        "历史"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "目录\n\nDigital Lab简介\n\n致谢\n\n导论\n\n第一章 自由只是个代名词……\n\n第二章 建立赞同\n\n第三章 新自由主义国家\n\n第四章 不均衡地理发展\n\n第五章 “有中国特色的”新自由主义\n\n第六章 试验中的新自由主义\n\n第七章 自由的前景\n\n参考文献\n\n译后记\n\n\n\n\n\n本书由“ePUBw.COM”整理，ePUBw.COM 提供最新最全的优质电子书下载！！！\n\n\n\n\n\nDigital Lab...",
+      "type": "txt",
+      "formattedSize": "439.29 KB"
     },
     {
       "originalName": "新自由主义评析 (居安思危•世界社会主义小丛书) (何秉孟，李千著) (Z-Library).txt",
@@ -1096,6 +1153,25 @@
       "preview": "",
       "type": "txt",
       "formattedSize": "0 B"
+    },
+    {
+      "originalName": "资本社会的17个矛盾 ([美]大卫·哈维) (Z-Library).txt",
+      "displayName": "资本社会的17个矛盾 ([美]大卫·哈维) (Z-Library)",
+      "path": "/data/资本社会的17个矛盾 ([美]大卫·哈维) (Z-Library).txt",
+      "size": 568734,
+      "isDuplicate": false,
+      "cover": "/data/cover/资本社会的17个矛盾.jpg",
+      "tags": [
+        "经济学",
+        "社会学",
+        "资本论",
+        "社会矛盾"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "版权信息\n\n\n书名:资本社会的17个矛盾\n\n作者:[美]大卫·哈维\n\n译者:许瑞宋\n\nISBN:9787508671062\n\n中信出版集团制作发行\n\n版权所有•侵权必究\n\n\n\n\n\n推荐序\n\n\n韩毓海\n\n北京大学教授，《一篇读罢头飞雪，重读马克思》作者\n\n自2008年以来，世界资本主义陷入了深刻的危机，但是，我们同时也必须看到，对资本主义的迷信却似乎并没有陷入危机，而这在很大程度上是因为主流的经济学...",
+      "type": "txt",
+      "formattedSize": "555.4 KB"
     },
     {
       "originalName": "资本论（全三卷） (卡尔·马克思,中共中央马克思恩格斯列宁斯大林著作编译局) (Z-Library).txt",
