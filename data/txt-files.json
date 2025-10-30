@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2025-10-21T09:57:16.809Z",
-  "totalFiles": 68,
+  "generatedAt": "2025-10-30T09:43:11.746Z",
+  "totalFiles": 72,
   "filesWithPdf": 58,
   "directory": "/data",
   "type": "txt",
@@ -195,8 +195,8 @@
       "tags": [
         "社科",
         "经济",
-        "哲学",
-        "学术"
+        "学术",
+        "世界研究"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -240,6 +240,25 @@
       "preview": "出版说明\n《中国乡村——19世纪的帝国控制》（Rural China：Imperial\nControl in the Nineteenth Century）是萧公权先生的学术名著，初版于\n1960年。此书资料丰富，论断允当，至今仍极具参考价值，为研究中\n国近代政治史尤其是地方政治史的重要文献。\n此书原由英文写就，卷帙庞大，其中引用官书、方志、族谱、笔\n记等资料无数，以致翻译工程浩大艰巨。问世四十余...",
       "type": "txt",
       "formattedSize": "1.62 MB"
+    },
+    {
+      "originalName": "中国历代政治得失 (钱穆) (Z-Library).txt",
+      "displayName": "中国历代政治得失 (钱穆) (Z-Library)",
+      "path": "/data/中国历代政治得失 (钱穆) (Z-Library).txt",
+      "size": 293364,
+      "isDuplicate": false,
+      "cover": "/data/cover/中国历代政治得失.jpg",
+      "tags": [
+        "历史",
+        "政治",
+        "中国史",
+        "政治史"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "钱穆 著\n\n\n\n\n\n内容简介\n\n\n\n《中国历代政治得失》为钱穆先生的专题演讲合集，分别就中国汉、唐、宋、明、清五代的政府组织、百官职权、考试监察、财经赋税、兵役义务等种种政治制度作了提要勾玄的概观与比照，叙述因革演变，指陈利害得失。既高屋建瓴地总括了中国历史与政治的精要大义，又点明了近现代国人对传统文化和精神的种种误解。言简意赅，语重心长，实不失为一部简明的“中国政治制度史”。\n\n\n\n\n\n版权信息...",
+      "type": "txt",
+      "formattedSize": "286.49 KB"
     },
     {
       "originalName": "中国教育的危机与批判.txt",
@@ -457,7 +476,7 @@
         "历史",
         "反资本",
         "经济",
-        "社会批判"
+        "社科"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -476,7 +495,7 @@
         "历史",
         "现代化",
         "社会研究",
-        "政治经济"
+        "经济政治"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -789,7 +808,6 @@
       "cover": "/data/cover/新自由主义简史.jpg",
       "tags": [
         "经济",
-        "政治",
         "新自由主义",
         "历史"
       ],
@@ -1136,6 +1154,42 @@
       "formattedSize": "637.66 KB"
     },
     {
+      "originalName": "论再生产（豆瓣评分9.7！） (路易·阿尔都塞) (Z-Library).txt",
+      "displayName": "论再生产（豆瓣评分9.7！） (路易·阿尔都塞) (Z-Library)",
+      "path": "/data/论再生产（豆瓣评分9.7！） (路易·阿尔都塞) (Z-Library).txt",
+      "size": 989264,
+      "isDuplicate": false,
+      "cover": "/data/cover/论再生产.jpg",
+      "tags": [
+        "哲学",
+        "理论著作",
+        "学术研究"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "著作权合同登记号：陕版出图字25-2012-222\n\n\n图书在版编目（CIP）数据\n\n\n论再生产／（法）路易·阿尔都塞著；吴子枫译．—西安：西北大学出版社，2019.7\n\nISBN 978-7-5604-4396-6\n\n\nI．①论…　II．①路…②吴…　III．①马克思主义－政治哲学－研究　IV．①A811.64\n\n\n中国版本图书馆CIP数据核字（2019）第143177号\n\n\n\n\n\n论再生产\n\n...",
+      "type": "txt",
+      "formattedSize": "966.08 KB"
+    },
+    {
+      "originalName": "读《资本论》(路易·阿尔都塞,艾蒂安·巴里巴尔) (Z-Library).txt",
+      "displayName": "读《资本论》(路易·阿尔都塞,艾蒂安·巴里巴尔) (Z-Library)",
+      "path": "/data/读《资本论》(路易·阿尔都塞,艾蒂安·巴里巴尔) (Z-Library).txt",
+      "size": 847782,
+      "isDuplicate": false,
+      "cover": "/data/cover/读《资本论.jpg",
+      "tags": [
+        "哲学",
+        "政治经济",
+        "学术著作"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "目录\n\n在学习借鉴中发展21世纪马克思主义和当代中国马克思主义\n\n读《资本论》中文版简评\n\n致读者\n\n从《资本论》到马克思的哲学\n\n《资本论》的对象 一、引言\n\n二、马克思和他的发现\n\n三、古典经济学的功绩\n\n四、古典经济学的缺陷\n\n五、马克思主义不是历史主义\n\n六、(马克思、恩格斯)《资本论》的认识论命题\n\n七、政治经济学的对象\n\n八、马克思的批判\n\n九、马克思的巨大的理论革命\n\n\n\n附录：关于...",
+      "type": "txt",
+      "formattedSize": "827.91 KB"
+    },
+    {
       "originalName": "资本家剥削工人的形形色色 (靳边) (Z-Library).txt",
       "displayName": "资本家剥削工人的形形色色 (靳边) (Z-Library)",
       "path": "/data/资本家剥削工人的形形色色 (靳边) (Z-Library).txt",
@@ -1265,6 +1319,24 @@
       "preview": "作者简介\n迟子建，女，中国作家协会第六届全委会委员，黑⻰江省作家协\n会副主席，一级作家。1964年元宵节出生于中国的北极村——漠河，\n童年在黑⻰江畔度过。1984年毕业于大兴安岭师范学校，1987年人北\n京师范大学与鲁迅文学院联办的研究生班学习。1990年毕业后到黑⻰\n江省作家协会工作至今。\n1983年开始写作，至今已发表文学作品五百万字，出版单行本四\n十余部。主要作品有：⻓篇小说《树下》、《晨钟...",
       "type": "txt",
       "formattedSize": "498.85 KB"
+    },
+    {
+      "originalName": "马克思与《资本论》 (大卫·哈维) (Z-Library).txt",
+      "displayName": "马克思与《资本论》 (大卫·哈维) (Z-Library)",
+      "path": "/data/马克思与《资本论》 (大卫·哈维) (Z-Library).txt",
+      "size": 396065,
+      "isDuplicate": false,
+      "cover": "/data/cover/资本论.jpg",
+      "tags": [
+        "哲学",
+        "政治经济",
+        "学术著作"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "马克思与《资本论》\n\n\n\n[美] 大卫·哈维 著\n\n周大昕 译\n\n\n中信出版集团\n\n\n\n\n\n目录\n\n前言\n\n第一章 资本作为价值运动的示意图\n\n第二章 《资本论》介绍\n\n第三章 作为价值代表的货币\n\n第四章 反价值：贬值理论\n\n第五章 无价值的价格\n\n第六章 技术问题\n\n第七章 价值的空间和时间\n\n第八章 价值体系的生产\n\n第九章 经济逻辑的疯狂\n\n后记\n\n注释\n\n\n\n\n\n疯狂的世界！疯狂的国王！...",
+      "type": "txt",
+      "formattedSize": "386.78 KB"
     }
   ]
 }
