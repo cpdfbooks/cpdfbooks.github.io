@@ -1,5 +1,5 @@
 // Service Worker for Steam Price Monitor
-const CACHE_NAME = 'pdfbooks-cache-v3';
+const CACHE_NAME = 'pdfbooks-cache-v4';
 const OFFLINE_URL = '/offline.html';
 
 // 需要缓存的资源
@@ -57,7 +57,7 @@ self.addEventListener('fetch', (event) => {
   }
 
   // 对于pdf请求，使用网络优先策略
-  if (event.request.url.includes('pdf')|| event.request.url.includes('pdfbooks.youseeyou1daydayde.uk/')) {
+  if (event.request.url.includes('txt')|| event.request.url.includes('pdfbooks.youseeyou1daydayde.uk/')) {
     event.respondWith(
       fetch(event.request)
         .then((response) => {

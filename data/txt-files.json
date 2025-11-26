@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-10-30T09:43:11.746Z",
+  "generatedAt": "2025-11-26T01:20:25.942Z",
   "totalFiles": 72,
   "filesWithPdf": 58,
   "directory": "/data",
@@ -195,8 +195,8 @@
       "tags": [
         "社科",
         "经济",
-        "学术",
-        "世界研究"
+        "理论",
+        "学术"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -362,10 +362,10 @@
       "isDuplicate": false,
       "cover": "/data/cover/八次危机.jpg",
       "tags": [
-        "经济危机",
+        "经济",
+        "危机",
         "中国经验",
-        "经济史",
-        "社会经济"
+        "历史经济"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -474,9 +474,9 @@
       "cover": null,
       "tags": [
         "历史",
-        "反资本",
-        "经济",
-        "社科"
+        "批判理论",
+        "资本研究",
+        "社会批判"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -493,9 +493,9 @@
       "cover": "/data/cover/告别百年激进.jpg",
       "tags": [
         "历史",
+        "政治",
         "现代化",
-        "社会研究",
-        "经济政治"
+        "社会研究"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -808,6 +808,7 @@
       "cover": "/data/cover/新自由主义简史.jpg",
       "tags": [
         "经济",
+        "政治",
         "新自由主义",
         "历史"
       ],
@@ -1162,8 +1163,8 @@
       "cover": "/data/cover/论再生产.jpg",
       "tags": [
         "哲学",
-        "理论著作",
-        "学术研究"
+        "理论研究",
+        "学术著作"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1329,8 +1330,9 @@
       "cover": "/data/cover/资本论.jpg",
       "tags": [
         "哲学",
-        "政治经济",
-        "学术著作"
+        "政治",
+        "经济",
+        "历史"
       ],
       "pdfPath": null,
       "hasPdf": false,
