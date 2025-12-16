@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-12-16T08:10:37.675Z",
+  "generatedAt": "2025-12-16T09:39:55.321Z",
   "totalFiles": 72,
   "filesWithPdf": 58,
   "directory": "/data",
@@ -363,9 +363,9 @@
       "cover": "/data/cover/八次危机.jpg",
       "tags": [
         "经济危机",
-        "中国经济",
+        "中国经验",
         "经济史",
-        "社会经济"
+        "国情研究"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -492,10 +492,10 @@
       "isDuplicate": false,
       "cover": "/data/cover/告别百年激进.jpg",
       "tags": [
-        "历史",
-        "政治",
+        "中国历史",
         "现代化",
-        "社会研究"
+        "政治经济",
+        "社会发展"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -808,9 +808,8 @@
       "cover": "/data/cover/新自由主义简史.jpg",
       "tags": [
         "经济",
-        "政治",
         "新自由主义",
-        "简史"
+        "历史"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1182,7 +1181,7 @@
       "tags": [
         "哲学",
         "政治经济",
-        "理论著作"
+        "学术研究"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1329,10 +1328,9 @@
       "isDuplicate": false,
       "cover": "/data/cover/资本论.jpg",
       "tags": [
-        "经济",
-        "哲学",
-        "政治",
-        "社科"
+        "政治经济学",
+        "马克思主义",
+        "学术研究"
       ],
       "pdfPath": null,
       "hasPdf": false,
