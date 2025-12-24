@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-12-16T09:43:10.252Z",
+  "generatedAt": "2025-12-24T02:33:19.795Z",
   "totalFiles": 72,
   "filesWithPdf": 58,
   "directory": "/data",
@@ -362,10 +362,10 @@
       "isDuplicate": false,
       "cover": "/data/cover/八次危机.jpg",
       "tags": [
-        "经济",
-        "危机",
+        "经济危机",
         "中国经验",
-        "历史经济"
+        "经济史",
+        "社会经济"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -473,8 +473,8 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "历史",
         "经济",
+        "历史",
         "反资本",
         "社科"
       ],
@@ -493,9 +493,9 @@
       "cover": "/data/cover/告别百年激进.jpg",
       "tags": [
         "历史",
-        "政治",
         "现代化",
-        "社科"
+        "社会研究",
+        "政治经济"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -808,7 +808,6 @@
       "cover": "/data/cover/新自由主义简史.jpg",
       "tags": [
         "经济",
-        "政治",
         "新自由主义",
         "历史"
       ],
@@ -1085,7 +1084,7 @@
       "originalName": "美国反对美国 (王沪宁) (Z-Library).txt",
       "displayName": "美国反对美国 (王沪宁) (Z-Library)",
       "path": "/data/美国反对美国 (王沪宁) (Z-Library).txt",
-      "size": 300,
+      "size": 676397,
       "isDuplicate": false,
       "cover": "/data/cover/美国反对美国.jpg",
       "tags": [
@@ -1095,9 +1094,9 @@
       ],
       "pdfPath": "/data/美国反对美国 (王沪宁) (Z-Library).pdf",
       "hasPdf": true,
-      "preview": "PDF处理结果\n\n文件: 美国反对美国 (王沪宁) (Z-Library).pdf\n处理方式: ocr_failed\n提取文本长度: 0 字符\n\nOCR错误: 所有OCR方法都失败了\n\n\n\n注意: 此PDF文件可能是扫描版或包含复杂格式，文本提取效果有限。建议使用专业OCR软件进行处理。",
+      "preview": "美国反对美国（America against America）\n\n\n作者：王沪宁\n\n发行时间：1991\n\n注：经网友提醒 issues6，against 从词义上来说远比原项目名称中的 Oppose 更加合适因此未来我都会以 America against America 作为它的英文译名。\n\n\n\n\n\n序\n\n\n从 1988 年 8 月下旬起，我应邀去美国做学术访问，前前后后六个月时间。在这期间，我...",
       "type": "txt",
-      "formattedSize": "300 B"
+      "formattedSize": "660.54 KB"
     },
     {
       "originalName": "自控力：斯坦福大学最受欢迎心理学课程 = The Willpower Instinct How Self-control Works, Why it Matters, and What You Can do to Get More of It ([美] 凯利 · 麦格尼格尔 (Kelly... (Z-Library).txt",
@@ -1217,10 +1216,10 @@
       "isDuplicate": false,
       "cover": "/data/cover/资本社会的17个矛盾.jpg",
       "tags": [
-        "社会科学",
         "经济学",
+        "社会学",
         "资本论",
-        "社会学"
+        "社会矛盾"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1331,8 +1330,7 @@
       "tags": [
         "哲学",
         "政治经济",
-        "马克思主义",
-        "理论著作"
+        "马克思主义"
       ],
       "pdfPath": null,
       "hasPdf": false,
