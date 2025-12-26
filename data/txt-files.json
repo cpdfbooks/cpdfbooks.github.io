@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-12-26T03:27:08.114Z",
+  "generatedAt": "2025-12-26T09:41:11.773Z",
   "totalFiles": 72,
   "filesWithPdf": 58,
   "directory": "/data",
@@ -195,8 +195,8 @@
       "tags": [
         "社科",
         "经济",
-        "理论",
-        "学术"
+        "学术",
+        "理论"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -365,7 +365,7 @@
         "经济危机",
         "中国经济",
         "经济史",
-        "国情研究"
+        "经济研究"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -808,9 +808,9 @@
       "cover": "/data/cover/新自由主义简史.jpg",
       "tags": [
         "经济",
-        "新自由主义",
+        "政治",
         "历史",
-        "理论研究"
+        "主义研究"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1217,10 +1217,10 @@
       "isDuplicate": false,
       "cover": "/data/cover/资本社会的17个矛盾.jpg",
       "tags": [
-        "经济",
-        "社会",
-        "资本论",
-        "矛盾分析"
+        "经济学",
+        "社会学",
+        "资本主义",
+        "社会矛盾"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1329,10 +1329,10 @@
       "isDuplicate": false,
       "cover": "/data/cover/资本论.jpg",
       "tags": [
+        "经济",
         "哲学",
-        "政治经济",
-        "学术著作",
-        "马克思主义"
+        "政治",
+        "社科"
       ],
       "pdfPath": null,
       "hasPdf": false,
