@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2025-12-26T09:41:11.773Z",
-  "totalFiles": 72,
+  "generatedAt": "2026-01-27T09:05:17.596Z",
+  "totalFiles": 75,
   "filesWithPdf": 58,
   "directory": "/data",
   "type": "txt",
@@ -195,8 +195,8 @@
       "tags": [
         "社科",
         "经济",
-        "学术",
-        "理论"
+        "理论",
+        "学术"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -363,9 +363,9 @@
       "cover": "/data/cover/八次危机.jpg",
       "tags": [
         "经济危机",
-        "中国经济",
+        "中国经验",
         "经济史",
-        "经济研究"
+        "社会经济"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -448,6 +448,24 @@
       "formattedSize": "620.38 KB"
     },
     {
+      "originalName": "十日谈 (薄伽丘) (Z-Library).txt",
+      "displayName": "十日谈 (薄伽丘) (Z-Library)",
+      "path": "/data/十日谈 (薄伽丘) (Z-Library).txt",
+      "size": 1197770,
+      "isDuplicate": false,
+      "cover": "/data/cover/十日谈.jpg",
+      "tags": [
+        "文学",
+        "小说",
+        "人文"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "Giovanni Boccàccio\n\nDECAMERON\n\n图书在版编目（CIP）数据\n\n十日谈/（意）薄伽丘著；王永年译.—北京：人民文学出版社\n\n（名著名译丛书）\n\nISBN 978-7-02-010440-6\n\nⅠ.①十… Ⅱ.①薄…②王… Ⅲ.①短篇小说—小说集—意大利—中世纪 Ⅳ.①I546.43\n\n中国版本图书馆CIP数据核字（2014）第108297号\n\n责任编辑 欧阳韬\n\n装帧设...",
+      "type": "txt",
+      "formattedSize": "1.14 MB"
+    },
+    {
       "originalName": "反杜林论 ([德] 弗里德里希·恩格斯) (Z-Library).txt",
       "displayName": "反杜林论 ([德] 弗里德里希·恩格斯) (Z-Library)",
       "path": "/data/反杜林论 ([德] 弗里德里希·恩格斯) (Z-Library).txt",
@@ -473,9 +491,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
+        "经济",
         "历史",
         "反资本",
-        "经济",
         "社科"
       ],
       "pdfPath": null,
@@ -707,6 +725,25 @@
       "formattedSize": "389.02 KB"
     },
     {
+      "originalName": "德伯家的苔丝 ([英]托马斯·哈代 [张谷若译]) (Z-Library).txt",
+      "displayName": "德伯家的苔丝 ([英]托马斯·哈代 [张谷若译]) (Z-Library)",
+      "path": "/data/德伯家的苔丝 ([英]托马斯·哈代 [张谷若译]) (Z-Library).txt",
+      "size": 1052284,
+      "isDuplicate": false,
+      "cover": "/data/cover/德伯家的苔丝 ([英]托马斯·哈代 [张谷若译]) (Z-Library).jpg",
+      "tags": [
+        "文学",
+        "小说",
+        "悲剧",
+        "乡村题材"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "德伯家的苔丝\n\n[英]托马斯·哈代\n\n张谷若 译\n\n\n\n\n\n人民文学出版社\n\n\n\n\n\n内容简介\n\n\n《德伯家的苔丝》是哈代著称于世的“威塞克斯系列”中的一部力作。小说描述了一位纯洁姑娘的不幸命运。主人公苔丝是一位美丽的农家少女，因受假冒的少爷亚历克诱迫而失身怀孕。她后来和安奇尔结婚,说给了她听,她丈夫觉得这是不可接受的事情,离开了她.从此，这一耻辱的事实剥夺了她接受，她重见亚历克,亚历克当了牧师....",
+      "type": "txt",
+      "formattedSize": "1 MB"
+    },
+    {
       "originalName": "思考,快与慢 (丹尼尔 · 卡尼曼 (Daniel Kahneman)) (Z-Library).txt",
       "displayName": "思考,快与慢 (丹尼尔 · 卡尼曼 (Daniel Kahneman)) (Z-Library)",
       "path": "/data/思考,快与慢 (丹尼尔 · 卡尼曼 (Daniel Kahneman)) (Z-Library).txt",
@@ -809,8 +846,8 @@
       "tags": [
         "经济",
         "政治",
-        "历史",
-        "主义研究"
+        "理论",
+        "新自由主义"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1163,8 +1200,8 @@
       "cover": "/data/cover/论再生产.jpg",
       "tags": [
         "哲学",
-        "理论研究",
-        "学术著作"
+        "理论著作",
+        "学术研究"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1182,7 +1219,8 @@
       "tags": [
         "哲学",
         "政治经济",
-        "学术著作"
+        "学术著作",
+        "理论研究"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1329,16 +1367,33 @@
       "isDuplicate": false,
       "cover": "/data/cover/资本论.jpg",
       "tags": [
-        "经济",
         "哲学",
-        "政治",
-        "社科"
+        "政治经济",
+        "学术著作"
       ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "马克思与《资本论》\n\n\n\n[美] 大卫·哈维 著\n\n周大昕 译\n\n\n中信出版集团\n\n\n\n\n\n目录\n\n前言\n\n第一章 资本作为价值运动的示意图\n\n第二章 《资本论》介绍\n\n第三章 作为价值代表的货币\n\n第四章 反价值：贬值理论\n\n第五章 无价值的价格\n\n第六章 技术问题\n\n第七章 价值的空间和时间\n\n第八章 价值体系的生产\n\n第九章 经济逻辑的疯狂\n\n后记\n\n注释\n\n\n\n\n\n疯狂的世界！疯狂的国王！...",
       "type": "txt",
       "formattedSize": "386.78 KB"
+    },
+    {
+      "originalName": "麦田里的守望者 (罗姆•大卫•塞林格) (Z-Library).txt",
+      "displayName": "麦田里的守望者 (罗姆•大卫•塞林格) (Z-Library)",
+      "path": "/data/麦田里的守望者 (罗姆•大卫•塞林格) (Z-Library).txt",
+      "size": 387494,
+      "isDuplicate": false,
+      "cover": "/data/cover/麦田里的.jpg",
+      "tags": [
+        "文学",
+        "成长小说",
+        "青春文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "序言\n\n\n《麦田里的守望者》是塞林格唯一的一部长篇，虽然只有十几万字，它却在美国社会上和文学界产生过巨大影响。1951年，这部小说一问世，立即引起轰动。主人公的经历和思想在青少年中引起强烈共鸣，受到读者，特别是大中学生的热烈欢迎。他们纷纷模仿主人公霍尔顿的装束打扮，讲“霍尔顿式”的语言，因为这部小说道出了他们的心声，反映了他们的理想、苦闷和愿望。家长们和文学界也对这本书展开厂争论。有认为它能使青少...",
+      "type": "txt",
+      "formattedSize": "378.41 KB"
     }
   ]
 }
