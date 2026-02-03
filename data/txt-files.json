@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-01-27T09:05:17.596Z",
-  "totalFiles": 75,
+  "generatedAt": "2026-02-03T02:11:07.841Z",
+  "totalFiles": 76,
   "filesWithPdf": 58,
   "directory": "/data",
   "type": "txt",
@@ -363,9 +363,9 @@
       "cover": "/data/cover/八次危机.jpg",
       "tags": [
         "经济危机",
-        "中国经验",
-        "经济史",
-        "社会经济"
+        "中国经济",
+        "历史经验",
+        "经济研究"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -457,6 +457,7 @@
       "tags": [
         "文学",
         "小说",
+        "名著",
         "人文"
       ],
       "pdfPath": null,
@@ -491,9 +492,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "经济",
         "历史",
         "反资本",
+        "经济",
         "社科"
       ],
       "pdfPath": null,
@@ -845,8 +846,7 @@
       "cover": "/data/cover/新自由主义简史.jpg",
       "tags": [
         "经济",
-        "政治",
-        "理论",
+        "历史",
         "新自由主义"
       ],
       "pdfPath": null,
@@ -1100,6 +1100,25 @@
       "formattedSize": "1.04 MB"
     },
     {
+      "originalName": "红与黑 (司汤达) (Z-Library).txt",
+      "displayName": "红与黑 (司汤达) (Z-Library)",
+      "path": "/data/红与黑 (司汤达) (Z-Library).txt",
+      "size": 933224,
+      "isDuplicate": false,
+      "cover": "/data/cover/红与黑.jpg",
+      "tags": [
+        "文学",
+        "小说",
+        "经典",
+        "批判现实"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "目录\n\n\n扉页\n\n\n上卷 1 小城\n\n2 市长\n\n3 穷人的福星\n\n4 父与子\n\n5 讨价还价\n\n6 烦闷\n\n7 缘分\n\n8 小小风波\n\n9 乡野一夕\n\n10 立巍巍壮志 发区区小财\n\n11 长夜悠悠\n\n12 出门访友\n\n13 网眼长袜\n\n14 英国剪刀\n\n15 鸡叫\n\n16 新的一天\n\n17 首席助理\n\n18 国王驾幸维璃叶\n\n19 多思则多忧\n\n20 匿名信\n\n21 与主人的谈话\n\n22 一八...",
+      "type": "txt",
+      "formattedSize": "911.35 KB"
+    },
+    {
       "originalName": "置身事内：中国政府与经济发展 (兰小欢) (Z-Library).txt",
       "displayName": "置身事内：中国政府与经济发展 (兰小欢) (Z-Library)",
       "path": "/data/置身事内：中国政府与经济发展 (兰小欢) (Z-Library).txt",
@@ -1219,8 +1238,7 @@
       "tags": [
         "哲学",
         "政治经济",
-        "学术著作",
-        "理论研究"
+        "学术研究"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1257,7 +1275,7 @@
       "tags": [
         "经济学",
         "社会学",
-        "资本主义",
+        "资本论",
         "社会矛盾"
       ],
       "pdfPath": null,
@@ -1367,9 +1385,10 @@
       "isDuplicate": false,
       "cover": "/data/cover/资本论.jpg",
       "tags": [
+        "经济",
         "哲学",
-        "政治经济",
-        "学术著作"
+        "政治",
+        "社科"
       ],
       "pdfPath": null,
       "hasPdf": false,
