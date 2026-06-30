@@ -1,10 +1,440 @@
 {
-  "generatedAt": "2026-02-03T02:11:07.841Z",
-  "totalFiles": 76,
+  "generatedAt": "2026-06-30T06:45:49.706Z",
+  "totalFiles": 100,
   "filesWithPdf": 58,
+  "epubFiles": 24,
   "directory": "/data",
   "type": "txt",
   "files": [
+    {
+      "originalName": "10996572_主角.epub",
+      "displayName": "主角",
+      "path": "/data/10996572_主角.epub",
+      "size": 1271790,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "小说",
+        "当代文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.21 MB"
+    },
+    {
+      "originalName": "11032365_富爸爸商学院+富爸爸致富需要做的6件事+富爸爸穷爸爸+富爸爸提高你的财商+富爸爸财务自由之路(修订版)(套装共5册).epub",
+      "displayName": "富爸爸商学院+富爸爸致富需要做的6件事+富爸爸穷爸爸+富爸爸提高你的财商+富爸爸财务自由之路(修订版)(套装共5册)",
+      "path": "/data/11032365_富爸爸商学院+富爸爸致富需要做的6件事+富爸爸穷爸爸+富爸爸提高你的财商+富爸爸财务自由之路(修订版)(套装共5册).epub",
+      "size": 11250012,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "经管商业类",
+        "理财入门",
+        "个人成长"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "10.73 MB"
+    },
+    {
+      "originalName": "11466431_嫌疑人X的献身.epub",
+      "displayName": "嫌疑人X的献身",
+      "path": "/data/11466431_嫌疑人X的献身.epub",
+      "size": 419851,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "悬疑推理",
+        "本格推理",
+        "外国名著"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "410.01 KB"
+    },
+    {
+      "originalName": "118770634_荒野植被.epub",
+      "displayName": "荒野植被",
+      "path": "/data/118770634_荒野植被.epub",
+      "size": 450394,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "言情情感类",
+        "言情向",
+        "破镜重圆"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "439.84 KB"
+    },
+    {
+      "originalName": "11930655_小狗钱钱 _ 轻松享有成功与富裕 = Money oder das 1 x 1 des Geldes. Spielerisch zu Erfolg und Wo.epub",
+      "displayName": "小狗钱钱 _ 轻松享有成功与富裕 = Money oder das 1 x 1 des Geldes. Spielerisch zu Erfolg und Wo",
+      "path": "/data/11930655_小狗钱钱 _ 轻松享有成功与富裕 = Money oder das 1 x 1 des Geldes. Spielerisch zu Erfolg und Wo.epub",
+      "size": 402242,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "经管商业类",
+        "理财入门",
+        "个人成长"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "392.81 KB"
+    },
+    {
+      "originalName": "122356915_咸的玩笑.epub",
+      "displayName": "咸的玩笑",
+      "path": "/data/122356915_咸的玩笑.epub",
+      "size": 2714953,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "小说",
+        "短篇小说集",
+        "当代文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "2.59 MB"
+    },
+    {
+      "originalName": "13892835_沧浪之水.epub",
+      "displayName": "沧浪之水",
+      "path": "/data/13892835_沧浪之水.epub",
+      "size": 758075,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "小说",
+        "当代文学",
+        "个人成长"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "740.31 KB"
+    },
+    {
+      "originalName": "14003399_认知觉醒 _ 开启自我改变的原动力.epub",
+      "displayName": "认知觉醒 _ 开启自我改变的原动力",
+      "path": "/data/14003399_认知觉醒 _ 开启自我改变的原动力.epub",
+      "size": 1165286,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "成功励志",
+        "个人成长",
+        "自我提升"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.11 MB"
+    },
+    {
+      "originalName": "16876320_我与地坛.epub",
+      "displayName": "我与地坛",
+      "path": "/data/16876320_我与地坛.epub",
+      "size": 13016904,
+      "isDuplicate": false,
+      "cover": "/data/cover/我与地坛.jpg",
+      "tags": [
+        "散文",
+        "散文集",
+        "经典文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "12.41 MB"
+    },
+    {
+      "originalName": "16878067_明朝那些事儿（图文增补版）.epub",
+      "displayName": "明朝那些事儿（图文增补版）",
+      "path": "/data/16878067_明朝那些事儿（图文增补版）.epub",
+      "size": 2316566,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "社科历史类",
+        "古代史"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "2.21 MB"
+    },
+    {
+      "originalName": "16886331_金瓶梅：崇祯本.epub",
+      "displayName": "金瓶梅：崇祯本",
+      "path": "/data/16886331_金瓶梅：崇祯本.epub",
+      "size": 1399044,
+      "isDuplicate": false,
+      "cover": "/data/cover/金瓶梅.jpg",
+      "tags": [
+        "经典名著",
+        "经典文学",
+        "市井"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.33 MB"
+    },
+    {
+      "originalName": "17335137_素食者 = 채식주의자.epub",
+      "displayName": "素食者 = 채식주의자",
+      "path": "/data/17335137_素食者 = 채식주의자.epub",
+      "size": 439605,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "小说",
+        "外国文学",
+        "女性文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "429.3 KB"
+    },
+    {
+      "originalName": "18009325_挽救计划 = Project Hail Mary_ A Novel.epub",
+      "displayName": "挽救计划 = Project Hail Mary_ A Novel",
+      "path": "/data/18009325_挽救计划 = Project Hail Mary_ A Novel.epub",
+      "size": 2212309,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "科幻",
+        "外国名著",
+        "星际"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "2.11 MB"
+    },
+    {
+      "originalName": "21623847_纳瓦尔宝典：财富与幸福指南 = The Almanack of Naval Ravikant_ A Guide to Wealth and Happiness.epub",
+      "displayName": "纳瓦尔宝典：财富与幸福指南 = The Almanack of Naval Ravikant_ A Guide to Wealth and Happiness",
+      "path": "/data/21623847_纳瓦尔宝典：财富与幸福指南 = The Almanack of Naval Ravikant_ A Guide to Wealth and Happiness.epub",
+      "size": 651241,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "经管商业类",
+        "个人成长",
+        "价值投资"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "635.98 KB"
+    },
+    {
+      "originalName": "23127216_克林索尔的最后夏天（黑塞自传式作品）(果麦经典).epub",
+      "displayName": "克林索尔的最后夏天（黑塞自传式作品）(果麦经典)",
+      "path": "/data/23127216_克林索尔的最后夏天（黑塞自传式作品）(果麦经典).epub",
+      "size": 242609,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "自传",
+        "经典文学",
+        "外国名著"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "236.92 KB"
+    },
+    {
+      "originalName": "24126585_毛泽东选集(1-7卷,包括后续两卷静火版).epub",
+      "displayName": "毛泽东选集(1-7卷,包括后续两卷静火版)",
+      "path": "/data/24126585_毛泽东选集(1-7卷,包括后续两卷静火版).epub",
+      "size": 2950327,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "政治学",
+        "思想史",
+        "近代史"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "2.81 MB"
+    },
+    {
+      "originalName": "3644725_明朝那些事儿.epub",
+      "displayName": "明朝那些事儿",
+      "path": "/data/3644725_明朝那些事儿.epub",
+      "size": 2316566,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "社科历史类",
+        "中国历史",
+        "古代史"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "2.21 MB"
+    },
+    {
+      "originalName": "3651647_看人的艺术 _ 11种以物识人术, 看人看到骨子里 = Snoop_ What Your Stuff Says About You.epub",
+      "displayName": "看人的艺术 _ 11种以物识人术, 看人看到骨子里 = Snoop_ What Your Stuff Says About You",
+      "path": "/data/3651647_看人的艺术 _ 11种以物识人术, 看人看到骨子里 = Snoop_ What Your Stuff Says About You.epub",
+      "size": 1184457,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "社科历史类",
+        "大众心理学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.13 MB"
+    },
+    {
+      "originalName": "5285211_你当像鸟飞往你的山.epub",
+      "displayName": "你当像鸟飞往你的山",
+      "path": "/data/5285211_你当像鸟飞往你的山.epub",
+      "size": 397053,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "自传",
+        "原生家庭",
+        "女性成长"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "387.75 KB"
+    },
+    {
+      "originalName": "5411413_毛泽东选集 一至七卷 含静火版.epub",
+      "displayName": "毛泽东选集 一至七卷 含静火版",
+      "path": "/data/5411413_毛泽东选集 一至七卷 含静火版.epub",
+      "size": 2950327,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "社科历史类",
+        "近代史",
+        "思想史"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "2.81 MB"
+    },
+    {
+      "originalName": "5719972_窄门.epub",
+      "displayName": "窄门",
+      "path": "/data/5719972_窄门.epub",
+      "size": 199291,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "小说",
+        "外国名著",
+        "经典文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "194.62 KB"
+    },
+    {
+      "originalName": "5731855_被讨厌的勇气：“自我启发之父”阿德勒的哲学课 = 嫌われる勇気：自己啓発の源流「アドラー」の教え.epub",
+      "displayName": "被讨厌的勇气：“自我启发之父”阿德勒的哲学课 = 嫌われる勇気：自己啓発の源流「アドラー」の教え",
+      "path": "/data/5731855_被讨厌的勇气：“自我启发之父”阿德勒的哲学课 = 嫌われる勇気：自己啓発の源流「アドラー」の教え.epub",
+      "size": 5970988,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "心理学",
+        "大众心理学",
+        "自我提升"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "5.69 MB"
+    },
+    {
+      "originalName": "5731859_百年孤独 = Cien años de soledad.epub",
+      "displayName": "百年孤独 = Cien años de soledad",
+      "path": "/data/5731859_百年孤独 = Cien años de soledad.epub",
+      "size": 479088,
+      "isDuplicate": false,
+      "cover": "/data/cover/百年孤独.jpg",
+      "tags": [
+        "小说",
+        "外国名著",
+        "经典文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "467.86 KB"
+    },
+    {
+      "originalName": "6070294_蛤蟆先生去看心理医生 = Counselling For Toads_ A Psychological Adventure.epub",
+      "displayName": "蛤蟆先生去看心理医生 = Counselling For Toads_ A Psychological Adventure",
+      "path": "/data/6070294_蛤蟆先生去看心理医生 = Counselling For Toads_ A Psychological Adventure.epub",
+      "size": 235461,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "心理学",
+        "大众心理学",
+        "治愈"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "229.94 KB"
+    },
     {
       "originalName": "1186929-狂热分子：群众运动圣经【小力盘www.xiaolipan.com】.txt",
       "displayName": "1186929-狂热分子：群众运动圣经【小力盘www.xiaolipan.com】",
@@ -193,10 +623,8 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "社科",
-        "经济",
-        "理论",
-        "学术"
+        "社科历史类",
+        "思想史"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -249,10 +677,9 @@
       "isDuplicate": false,
       "cover": "/data/cover/中国历代政治得失.jpg",
       "tags": [
-        "历史",
-        "政治",
-        "中国史",
-        "政治史"
+        "社科历史类",
+        "古代史",
+        "国学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -362,10 +789,8 @@
       "isDuplicate": false,
       "cover": "/data/cover/八次危机.jpg",
       "tags": [
-        "经济危机",
-        "中国经济",
-        "历史经验",
-        "经济研究"
+        "社科历史类",
+        "近代史"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -455,10 +880,9 @@
       "isDuplicate": false,
       "cover": "/data/cover/十日谈.jpg",
       "tags": [
-        "文学",
-        "小说",
-        "名著",
-        "人文"
+        "文学类",
+        "外国名著",
+        "经典文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -492,10 +916,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "历史",
-        "反资本",
-        "经济",
-        "社科"
+        "社科历史类",
+        "世界史",
+        "思想史"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -511,10 +934,9 @@
       "isDuplicate": false,
       "cover": "/data/cover/告别百年激进.jpg",
       "tags": [
-        "历史",
-        "政治",
-        "现代化",
-        "社会研究"
+        "社科历史类",
+        "近代史",
+        "社会学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -733,10 +1155,9 @@
       "isDuplicate": false,
       "cover": "/data/cover/德伯家的苔丝 ([英]托马斯·哈代 [张谷若译]) (Z-Library).jpg",
       "tags": [
-        "文学",
         "小说",
-        "悲剧",
-        "乡村题材"
+        "外国名著",
+        "女性文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -845,9 +1266,9 @@
       "isDuplicate": false,
       "cover": "/data/cover/新自由主义简史.jpg",
       "tags": [
-        "经济",
-        "历史",
-        "新自由主义"
+        "经济学",
+        "思想史",
+        "经济学入门"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1107,10 +1528,9 @@
       "isDuplicate": false,
       "cover": "/data/cover/红与黑.jpg",
       "tags": [
-        "文学",
         "小说",
-        "经典",
-        "批判现实"
+        "外国名著",
+        "经典文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1219,8 +1639,7 @@
       "cover": "/data/cover/论再生产.jpg",
       "tags": [
         "哲学",
-        "理论著作",
-        "学术研究"
+        "思想史"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1236,9 +1655,9 @@
       "isDuplicate": false,
       "cover": "/data/cover/读《资本论.jpg",
       "tags": [
-        "哲学",
-        "政治经济",
-        "学术研究"
+        "社科历史类",
+        "思想史",
+        "哲学随笔"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1274,9 +1693,8 @@
       "cover": "/data/cover/资本社会的17个矛盾.jpg",
       "tags": [
         "经济学",
-        "社会学",
-        "资本论",
-        "社会矛盾"
+        "经济学入门",
+        "思想史"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1385,10 +1803,9 @@
       "isDuplicate": false,
       "cover": "/data/cover/资本论.jpg",
       "tags": [
-        "经济",
-        "哲学",
-        "政治",
-        "社科"
+        "社科历史类",
+        "思想史",
+        "经济学入门"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1404,9 +1821,9 @@
       "isDuplicate": false,
       "cover": "/data/cover/麦田里的.jpg",
       "tags": [
-        "文学",
-        "成长小说",
-        "青春文学"
+        "小说",
+        "外国名著",
+        "经典文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
