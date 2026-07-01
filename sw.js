@@ -3,8 +3,10 @@ const CACHE_NAME = 'pdfbooks-cache-v5';
 const OFFLINE_URL = '/offline.html';
 
 // 需要缓存的资源
+// 缓存lib/foliate-js
 const CACHE_URLS = [
   '/',
+  '/lib/foliate-js',
     '/data',
   '/index.html',
     '/offline.html'
