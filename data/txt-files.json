@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-01T01:48:56.173Z",
-  "totalFiles": 100,
+  "generatedAt": "2026-07-01T08:03:45.490Z",
+  "totalFiles": 109,
   "filesWithPdf": 58,
-  "epubFiles": 24,
+  "epubFiles": 33,
   "directory": "/data",
   "type": "txt",
   "files": [
@@ -22,6 +22,24 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "1.21 MB"
+    },
+    {
+      "originalName": "11000042_人性的弱点_增订全译版.epub",
+      "displayName": "人性的弱点_增订全译版",
+      "path": "/data/11000042_人性的弱点_增订全译版.epub",
+      "size": 462335,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "成功励志",
+        "大众心理学",
+        "自我提升"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "451.5 KB"
     },
     {
       "originalName": "11032365_富爸爸商学院+富爸爸致富需要做的6件事+富爸爸穷爸爸+富爸爸提高你的财商+富爸爸财务自由之路(修订版)(套装共5册).epub",
@@ -96,6 +114,24 @@
       "formattedSize": "392.81 KB"
     },
     {
+      "originalName": "119718967_干涸地.epub",
+      "displayName": "干涸地",
+      "path": "/data/119718967_干涸地.epub",
+      "size": 1059232,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "言情情感类",
+        "末世",
+        "女强"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.01 MB"
+    },
+    {
       "originalName": "122356915_咸的玩笑.epub",
       "displayName": "咸的玩笑",
       "path": "/data/122356915_咸的玩笑.epub",
@@ -112,6 +148,23 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "2.59 MB"
+    },
+    {
+      "originalName": "12287450_资本论(1-3)(套装共3册).epub",
+      "displayName": "资本论(1-3)(套装共3册)",
+      "path": "/data/12287450_资本论(1-3)(套装共3册).epub",
+      "size": 8152292,
+      "isDuplicate": false,
+      "cover": "/data/cover/资本论.jpg",
+      "tags": [
+        "经管商业类",
+        "经济学入门"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "7.77 MB"
     },
     {
       "originalName": "13892835_沧浪之水.epub",
@@ -148,6 +201,24 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "1.11 MB"
+    },
+    {
+      "originalName": "16740993_龙族全套 共七册（龙族Ⅰ-龙族Ⅳ 龙族前传）.epub",
+      "displayName": "龙族全套 共七册（龙族Ⅰ-龙族Ⅳ 龙族前传）",
+      "path": "/data/16740993_龙族全套 共七册（龙族Ⅰ-龙族Ⅳ 龙族前传）.epub",
+      "size": 5340998,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "悬疑幻想类",
+        "奇幻",
+        "青春文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "5.09 MB"
     },
     {
       "originalName": "16876320_我与地坛.epub",
@@ -328,6 +399,42 @@
       "formattedSize": "1.13 MB"
     },
     {
+      "originalName": "3653869_穷查理宝典 = Poor Charlie’s Almanack_ The Wit and Wisdom of Charlie T. Munger.epub",
+      "displayName": "穷查理宝典 = Poor Charlie’s Almanack_ The Wit and Wisdom of Charlie T. Munger",
+      "path": "/data/3653869_穷查理宝典 = Poor Charlie’s Almanack_ The Wit and Wisdom of Charlie T. Munger.epub",
+      "size": 3528889,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "经管商业类",
+        "价值投资",
+        "个人成长"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "3.37 MB"
+    },
+    {
+      "originalName": "3656642_思考, 快与慢 = Thinking, Fast and Slow.epub",
+      "displayName": "思考, 快与慢 = Thinking, Fast and Slow",
+      "path": "/data/3656642_思考, 快与慢 = Thinking, Fast and Slow.epub",
+      "size": 844340,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "心理学",
+        "大众心理学",
+        "认知心理学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "824.55 KB"
+    },
+    {
       "originalName": "5285211_你当像鸟飞往你的山.epub",
       "displayName": "你当像鸟飞往你的山",
       "path": "/data/5285211_你当像鸟飞往你的山.epub",
@@ -382,6 +489,42 @@
       "formattedSize": "194.62 KB"
     },
     {
+      "originalName": "5723231_傲慢与偏见.epub",
+      "displayName": "傲慢与偏见",
+      "path": "/data/5723231_傲慢与偏见.epub",
+      "size": 5697840,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "经典名著",
+        "外国名著",
+        "女性文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "5.43 MB"
+    },
+    {
+      "originalName": "5724066_撒哈拉的故事.epub",
+      "displayName": "撒哈拉的故事",
+      "path": "/data/5724066_撒哈拉的故事.epub",
+      "size": 708201,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "散文、随笔",
+        "旅行随笔",
+        "经典文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "691.6 KB"
+    },
+    {
       "originalName": "5731855_被讨厌的勇气：“自我启发之父”阿德勒的哲学课 = 嫌われる勇気：自己啓発の源流「アドラー」の教え.epub",
       "displayName": "被讨厌的勇气：“自我启发之父”阿德勒的哲学课 = 嫌われる勇気：自己啓発の源流「アドラー」の教え",
       "path": "/data/5731855_被讨厌的勇气：“自我启发之父”阿德勒的哲学课 = 嫌われる勇気：自己啓発の源流「アドラー」の教え.epub",
@@ -416,6 +559,24 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "467.86 KB"
+    },
+    {
+      "originalName": "5731866_恶意.epub",
+      "displayName": "恶意",
+      "path": "/data/5731866_恶意.epub",
+      "size": 189626,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "悬疑推理",
+        "社会派",
+        "反转"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "185.18 KB"
     },
     {
       "originalName": "6070294_蛤蟆先生去看心理医生 = Counselling For Toads_ A Psychological Adventure.epub",
