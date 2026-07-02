@@ -1,5 +1,5 @@
 // Service Worker for Steam Price Monitor
-const CACHE_NAME = 'pdfbooks-cache-v5';
+const CACHE_NAME = 'pdfbooks-cache-v6';
 const OFFLINE_URL = '/offline.html';
 
 // 需要缓存的资源
@@ -82,35 +82,50 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
-  // 对于静态资源，使用缓存优先策略
-  event.respondWith(
-    caches.match(event.request)
-      .then((response) => {
-        if (response) {
-          return response;
-        }
-
-        // 如果缓存中没有，从网络获取
-        return fetch(event.request)
-          .then((response) => {
-            // 只缓存成功的响应
-            if (response.ok && !response.url.includes("chrome-extension")) {
-              const responseClone = response.clone();
-              caches.open(CACHE_NAME)
-                .then((cache) => {
-                  cache.put(event.request, responseClone);
-                });
-            }
-            return response;
-          })
-          .catch(() => {
-            // 如果是导航请求且网络失败，返回离线页面
-            if (event.request.mode === 'navigate') {
-              return caches.match(OFFLINE_URL);
-            }
-            throw new Error('Network failed and no cache available');
+  // 仅拦截图片请求
+  if (event.request.destination === 'image') {
+    event.respondWith(
+      caches.open(CACHE_NAME).then((cache) => {
+        return cache.match(event.request).then((cachedResponse) => {
+          // 如果命中缓存，直接返回；否则发起网络请求并存入缓存
+          return cachedResponse || fetch(event.request).then((networkResponse) => {
+            cache.put(event.request, networkResponse.clone());
+            return networkResponse;
           });
+        });
       })
-  );
+    );
+  }
+  else{  // 对于静态资源，使用缓存优先策略
+    event.respondWith(
+      caches.match(event.request)
+        .then((response) => {
+          if (response) {
+            return response;
+          }
+
+          // 如果缓存中没有，从网络获取
+          return fetch(event.request)
+            .then((response) => {
+              // 只缓存成功的响应
+              if (response.ok && !response.url.includes("chrome-extension")) {
+                const responseClone = response.clone();
+                caches.open(CACHE_NAME)
+                  .then((cache) => {
+                    cache.put(event.request, responseClone);
+                  });
+              }
+              return response;
+            })
+            .catch(() => {
+              // 如果是导航请求且网络失败，返回离线页面
+              if (event.request.mode === 'navigate') {
+                return caches.match(OFFLINE_URL);
+              }
+              throw new Error('Network failed and no cache available');
+            });
+        })
+    );
+  }
 });
 console.log('Service Worker script loaded');

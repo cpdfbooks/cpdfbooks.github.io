@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T08:03:45.490Z",
+  "generatedAt": "2026-07-02T07:16:59.936Z",
   "totalFiles": 109,
   "filesWithPdf": 58,
   "epubFiles": 33,
@@ -31,7 +31,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "成功励志",
+        "社科历史类",
         "大众心理学",
         "自我提升"
       ],
@@ -123,7 +123,7 @@
       "tags": [
         "言情情感类",
         "末世",
-        "女强"
+        "言情向"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -157,8 +157,8 @@
       "isDuplicate": false,
       "cover": "/data/cover/资本论.jpg",
       "tags": [
-        "经管商业类",
-        "经济学入门"
+        "经济学",
+        "思想史"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -212,7 +212,7 @@
       "tags": [
         "悬疑幻想类",
         "奇幻",
-        "青春文学"
+        "大男主"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -497,7 +497,7 @@
       "cover": null,
       "tags": [
         "经典名著",
-        "外国名著",
+        "外国文学",
         "女性文学"
       ],
       "pdfPath": null,
