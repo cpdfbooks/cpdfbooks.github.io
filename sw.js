@@ -60,7 +60,7 @@ self.addEventListener('fetch', (event) => {
   }
 
   // 对于pdf请求，使用网络优先策略
-  if (event.request.url.includes('txt')|| event.request.url.includes('pdfbooks.youseeyou1daydayde.uk/')) {
+  if (event.request.url.includes('txt')||event.request.url.includes('epub')|| event.request.url.includes('pdfbooks.youseeyou1daydayde.uk/')) {
     event.respondWith(
       fetch(event.request)
         .then((response) => {
