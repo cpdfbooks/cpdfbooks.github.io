@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-24T06:43:26.363Z",
-  "totalFiles": 109,
+  "generatedAt": "2026-07-25T11:10:50.672Z",
+  "totalFiles": 115,
   "filesWithPdf": 58,
-  "epubFiles": 33,
+  "epubFiles": 39,
   "directory": "/data",
   "type": "txt",
   "files": [
@@ -31,7 +31,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "心理学大众心理",
+        "心理学、大众心理",
         "大众心理学",
         "自我提升"
       ],
@@ -78,6 +78,24 @@
       "formattedSize": "410.01 KB"
     },
     {
+      "originalName": "11747112_别想太多啦 _ 在复杂的世界里, 做一个简单的人 = 気にしない練習 _ 不安,怒り, 煩悩を&quot;放念&quot;するヒント_[日] 名取芳彦 著 ; 范宏涛 译.epub",
+      "displayName": "别想太多啦 _ 在复杂的世界里, 做一个简单的人 = 気にしない練習 _ 不安,怒り, 煩悩を&quot;放念&quot;するヒント_[日] 名取芳彦 著 ; 范宏涛 译",
+      "path": "/data/11747112_别想太多啦 _ 在复杂的世界里, 做一个简单的人 = 気にしない練習 _ 不安,怒り, 煩悩を&quot;放念&quot;するヒント_[日] 名取芳彦 著 ; 范宏涛 译.epub",
+      "size": 288448,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "心理学、大众心理",
+        "心灵治愈",
+        "反内耗"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "281.69 KB"
+    },
+    {
       "originalName": "118770634_荒野植被.epub",
       "displayName": "荒野植被",
       "path": "/data/118770634_荒野植被.epub",
@@ -114,6 +132,24 @@
       "formattedSize": "392.81 KB"
     },
     {
+      "originalName": "11959979_白鹿原_陈忠实.epub",
+      "displayName": "白鹿原_陈忠实",
+      "path": "/data/11959979_白鹿原_陈忠实.epub",
+      "size": 821547,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "小说",
+        "经典文学",
+        "乡土文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "802.29 KB"
+    },
+    {
       "originalName": "119718967_干涸地.epub",
       "displayName": "干涸地",
       "path": "/data/119718967_干涸地.epub",
@@ -121,8 +157,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "悬疑幻想类",
-        "末世"
+        "言情情感类",
+        "末世",
+        "女强"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -157,7 +194,8 @@
       "cover": "/data/cover/资本论.jpg",
       "tags": [
         "经济学",
-        "思想史"
+        "经典名著",
+        "经济学入门"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -211,7 +249,7 @@
       "tags": [
         "悬疑幻想类",
         "奇幻",
-        "大男主"
+        "校园"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -271,6 +309,24 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "1.33 MB"
+    },
+    {
+      "originalName": "17131000_也许你该找个人聊聊 = Maybe You Should Talk to Someone_ A Therapist, HER Therapist, and Ou_[美] 洛莉 · 戈特利布 (Lori Gottlieb) 著 ; 张含笑 译.epub",
+      "displayName": "也许你该找个人聊聊 = Maybe You Should Talk to Someone_ A Therapist, HER Therapist, and Ou_[美] 洛莉 · 戈特利布 (Lori Gottlieb) 著 ; 张含笑 译",
+      "path": "/data/17131000_也许你该找个人聊聊 = Maybe You Should Talk to Someone_ A Therapist, HER Therapist, and Ou_[美] 洛莉 · 戈特利布 (Lori Gottlieb) 著 ; 张含笑 译.epub",
+      "size": 900128,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "心理学",
+        "大众心理学",
+        "心灵治愈"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "879.03 KB"
     },
     {
       "originalName": "17335137_素食者 = 채식주의자.epub",
@@ -363,6 +419,24 @@
       "formattedSize": "2.81 MB"
     },
     {
+      "originalName": "28955826_全球高考_木苏里.epub",
+      "displayName": "全球高考_木苏里",
+      "path": "/data/28955826_全球高考_木苏里.epub",
+      "size": 1415644,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "悬疑幻想类",
+        "无限流",
+        "爽文"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.35 MB"
+    },
+    {
       "originalName": "3644725_明朝那些事儿.epub",
       "displayName": "明朝那些事儿",
       "path": "/data/3644725_明朝那些事儿.epub",
@@ -423,7 +497,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "心理学、大众心理",
+        "心理学",
         "认知心理学",
         "大众心理学"
       ],
@@ -495,8 +569,8 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "外国文学",
-        "经典文学",
+        "经典名著",
+        "外国名著",
         "女性文学"
       ],
       "pdfPath": null,
@@ -513,9 +587,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "散文",
+        "散文随笔",
         "旅行随笔",
-        "经典文学"
+        "女性文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -594,6 +668,42 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "229.94 KB"
+    },
+    {
+      "originalName": "6185507_刻意练习：如何从新手到大师_安德斯·艾利克森（Anders Ericsson） &amp; 罗伯特·普尔（Robert Pool）.epub",
+      "displayName": "刻意练习：如何从新手到大师_安德斯·艾利克森（Anders Ericsson） &amp; 罗伯特·普尔（Robert Pool）",
+      "path": "/data/6185507_刻意练习：如何从新手到大师_安德斯·艾利克森（Anders Ericsson） &amp; 罗伯特·普尔（Robert Pool）.epub",
+      "size": 6815656,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "教育学习类",
+        "学习方法",
+        "自我提升"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "6.5 MB"
+    },
+    {
+      "originalName": "68439085_不被大风吹倒_莫言.epub",
+      "displayName": "不被大风吹倒_莫言",
+      "path": "/data/68439085_不被大风吹倒_莫言.epub",
+      "size": 4284651,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "散文、随笔",
+        "当代文学",
+        "心灵治愈"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "4.09 MB"
     },
     {
       "originalName": "1186929-狂热分子：群众运动圣经【小力盘www.xiaolipan.com】.txt",
