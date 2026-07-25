@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-25T11:10:50.672Z",
-  "totalFiles": 115,
+  "generatedAt": "2026-07-25T11:25:26.631Z",
+  "totalFiles": 123,
   "filesWithPdf": 58,
-  "epubFiles": 39,
+  "epubFiles": 47,
   "directory": "/data",
   "type": "txt",
   "files": [
@@ -78,6 +78,24 @@
       "formattedSize": "410.01 KB"
     },
     {
+      "originalName": "11685768_法医秦明系列（全8册）_法医秦明 [法医秦明].epub",
+      "displayName": "法医秦明系列（全8册）_法医秦明 [法医秦明]",
+      "path": "/data/11685768_法医秦明系列（全8册）_法医秦明 [法医秦明].epub",
+      "size": 6132140,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "悬疑推理、刑侦犯罪",
+        "刑侦",
+        "罪案纪实"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "5.85 MB"
+    },
+    {
       "originalName": "11747112_别想太多啦 _ 在复杂的世界里, 做一个简单的人 = 気にしない練習 _ 不安,怒り, 煩悩を&quot;放念&quot;するヒント_[日] 名取芳彦 著 ; 范宏涛 译.epub",
       "displayName": "别想太多啦 _ 在复杂的世界里, 做一个简单的人 = 気にしない練習 _ 不安,怒り, 煩悩を&quot;放念&quot;するヒント_[日] 名取芳彦 著 ; 范宏涛 译",
       "path": "/data/11747112_别想太多啦 _ 在复杂的世界里, 做一个简单的人 = 気にしない練習 _ 不安,怒り, 煩悩を&quot;放念&quot;するヒント_[日] 名取芳彦 著 ; 范宏涛 译.epub",
@@ -139,7 +157,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
+        "中国现当代文学",
         "经典文学",
         "乡土文学"
       ],
@@ -159,7 +177,7 @@
       "tags": [
         "言情情感类",
         "末世",
-        "女强"
+        "虐恋"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -194,7 +212,7 @@
       "cover": "/data/cover/资本论.jpg",
       "tags": [
         "经济学",
-        "经典名著",
+        "思想史",
         "经济学入门"
       ],
       "pdfPath": null,
@@ -202,6 +220,24 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "7.77 MB"
+    },
+    {
+      "originalName": "125973254_秦二世必须死_马伯庸.epub",
+      "displayName": "秦二世必须死_马伯庸",
+      "path": "/data/125973254_秦二世必须死_马伯庸.epub",
+      "size": 778065,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "小说",
+        "架空历史",
+        "权谋"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "759.83 KB"
     },
     {
       "originalName": "13892835_沧浪之水.epub",
@@ -248,8 +284,7 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
-        "奇幻",
-        "校园"
+        "奇幻"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -365,6 +400,24 @@
       "formattedSize": "2.11 MB"
     },
     {
+      "originalName": "18335602_道德经_张景, 张松辉.epub",
+      "displayName": "道德经_张景, 张松辉",
+      "path": "/data/18335602_道德经_张景, 张松辉.epub",
+      "size": 1188122,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "宗教思想 & 工具书",
+        "国学",
+        "传统文化"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.13 MB"
+    },
+    {
       "originalName": "21623847_纳瓦尔宝典：财富与幸福指南 = The Almanack of Naval Ravikant_ A Guide to Wealth and Happiness.epub",
       "displayName": "纳瓦尔宝典：财富与幸福指南 = The Almanack of Naval Ravikant_ A Guide to Wealth and Happiness",
       "path": "/data/21623847_纳瓦尔宝典：财富与幸福指南 = The Almanack of Naval Ravikant_ A Guide to Wealth and Happiness.epub",
@@ -453,6 +506,24 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "2.21 MB"
+    },
+    {
+      "originalName": "3645275_深度思考_不断逼近问题的本质_莫琳·希凯, 孔锐才.epub",
+      "displayName": "深度思考_不断逼近问题的本质_莫琳·希凯, 孔锐才",
+      "path": "/data/3645275_深度思考_不断逼近问题的本质_莫琳·希凯, 孔锐才.epub",
+      "size": 363542,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "经管商业类",
+        "个人成长",
+        "自我提升"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "355.02 KB"
     },
     {
       "originalName": "3651647_看人的艺术 _ 11种以物识人术, 看人看到骨子里 = Snoop_ What Your Stuff Says About You.epub",
@@ -544,6 +615,60 @@
       "formattedSize": "2.81 MB"
     },
     {
+      "originalName": "5450864_中国历代政治得失_钱穆.epub",
+      "displayName": "中国历代政治得失_钱穆",
+      "path": "/data/5450864_中国历代政治得失_钱穆.epub",
+      "size": 665116,
+      "isDuplicate": false,
+      "cover": "/data/cover/中国历代政治得失.jpg",
+      "tags": [
+        "社科历史类",
+        "古代史",
+        "国学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "649.53 KB"
+    },
+    {
+      "originalName": "5578690_罪与罚_陀思妥耶夫斯基.epub",
+      "displayName": "罪与罚_陀思妥耶夫斯基",
+      "path": "/data/5578690_罪与罚_陀思妥耶夫斯基.epub",
+      "size": 1660083,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "外国文学",
+        "经典文学",
+        "外国名著"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.58 MB"
+    },
+    {
+      "originalName": "5706575_杀死一只知更鸟_哈珀·李(美) 著, 高红梅 译.epub",
+      "displayName": "杀死一只知更鸟_哈珀·李(美) 著, 高红梅 译",
+      "path": "/data/5706575_杀死一只知更鸟_哈珀·李(美) 著, 高红梅 译.epub",
+      "size": 356837,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "外国文学",
+        "外国名著",
+        "经典文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "348.47 KB"
+    },
+    {
       "originalName": "5719972_窄门.epub",
       "displayName": "窄门",
       "path": "/data/5719972_窄门.epub",
@@ -562,6 +687,24 @@
       "formattedSize": "194.62 KB"
     },
     {
+      "originalName": "5721328_夏天、烟火和我的尸体_乙一.epub",
+      "displayName": "夏天、烟火和我的尸体_乙一",
+      "path": "/data/5721328_夏天、烟火和我的尸体_乙一.epub",
+      "size": 396430,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "悬疑幻想类",
+        "悬疑惊悚",
+        "短篇小说集"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "387.14 KB"
+    },
+    {
       "originalName": "5723231_傲慢与偏见.epub",
       "displayName": "傲慢与偏见",
       "path": "/data/5723231_傲慢与偏见.epub",
@@ -569,9 +712,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "经典名著",
+        "小说",
         "外国名著",
-        "女性文学"
+        "经典文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -588,8 +731,8 @@
       "cover": null,
       "tags": [
         "散文随笔",
-        "旅行随笔",
-        "女性文学"
+        "女性文学",
+        "旅行随笔"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -679,7 +822,7 @@
       "tags": [
         "教育学习类",
         "学习方法",
-        "自我提升"
+        "个人成长"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -695,7 +838,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "散文、随笔",
+        "散文随笔",
         "当代文学",
         "心灵治愈"
       ],
