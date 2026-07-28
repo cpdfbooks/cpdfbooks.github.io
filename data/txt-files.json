@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-25T11:25:26.631Z",
-  "totalFiles": 123,
+  "generatedAt": "2026-07-28T11:20:32.348Z",
+  "totalFiles": 127,
   "filesWithPdf": 58,
-  "epubFiles": 47,
+  "epubFiles": 51,
   "directory": "/data",
   "type": "txt",
   "files": [
@@ -85,7 +85,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "悬疑推理、刑侦犯罪",
+        "悬疑推理",
         "刑侦",
         "罪案纪实"
       ],
@@ -103,8 +103,8 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "心理学、大众心理",
-        "心灵治愈",
+        "成功励志、心灵治愈",
+        "情绪管理",
         "反内耗"
       ],
       "pdfPath": null,
@@ -157,7 +157,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "中国现当代文学",
+        "小说",
         "经典文学",
         "乡土文学"
       ],
@@ -177,7 +177,7 @@
       "tags": [
         "言情情感类",
         "末世",
-        "虐恋"
+        "女强"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -211,9 +211,9 @@
       "isDuplicate": false,
       "cover": "/data/cover/资本论.jpg",
       "tags": [
-        "经济学",
-        "思想史",
-        "经济学入门"
+        "经管商业类",
+        "经济学入门",
+        "思想史"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -229,9 +229,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
+        "悬疑幻想类",
         "架空历史",
-        "权谋"
+        "悬疑推理"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -407,9 +407,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "宗教思想 & 工具书",
         "国学",
-        "传统文化"
+        "传统文化",
+        "古籍解读"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -472,6 +472,24 @@
       "formattedSize": "2.81 MB"
     },
     {
+      "originalName": "27493586_红楼梦_曹雪芹 &amp; 无名氏 &amp; 程伟元 &amp; 高鹗 &amp; 中国艺术研究院红楼梦研究所.epub",
+      "displayName": "红楼梦_曹雪芹 &amp; 无名氏 &amp; 程伟元 &amp; 高鹗 &amp; 中国艺术研究院红楼梦研究所",
+      "path": "/data/27493586_红楼梦_曹雪芹 &amp; 无名氏 &amp; 程伟元 &amp; 高鹗 &amp; 中国艺术研究院红楼梦研究所.epub",
+      "size": 2727724,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "经典名著",
+        "经典文学",
+        "国学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "2.6 MB"
+    },
+    {
       "originalName": "28955826_全球高考_木苏里.epub",
       "displayName": "全球高考_木苏里",
       "path": "/data/28955826_全球高考_木苏里.epub",
@@ -480,8 +498,7 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
-        "无限流",
-        "爽文"
+        "无限流"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -568,9 +585,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "心理学",
-        "认知心理学",
-        "大众心理学"
+        "社科历史类",
+        "大众心理学",
+        "认知心理学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -633,6 +650,24 @@
       "formattedSize": "649.53 KB"
     },
     {
+      "originalName": "5472094_影响力 (经典版) = Influence_ The Psychology of Persuasion_[美] 西奥迪尼 (Robert B. Cialdini) 著 ; 闾佳 译.epub",
+      "displayName": "影响力 (经典版) = Influence_ The Psychology of Persuasion_[美] 西奥迪尼 (Robert B. Cialdini) 著 ; 闾佳 译",
+      "path": "/data/5472094_影响力 (经典版) = Influence_ The Psychology of Persuasion_[美] 西奥迪尼 (Robert B. Cialdini) 著 ; 闾佳 译.epub",
+      "size": 3730437,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "社科历史类",
+        "社会心理学",
+        "大众心理学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "3.56 MB"
+    },
+    {
       "originalName": "5578690_罪与罚_陀思妥耶夫斯基.epub",
       "displayName": "罪与罚_陀思妥耶夫斯基",
       "path": "/data/5578690_罪与罚_陀思妥耶夫斯基.epub",
@@ -640,9 +675,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "外国文学",
-        "经典文学",
-        "外国名著"
+        "小说",
+        "外国名著",
+        "经典文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -687,6 +722,24 @@
       "formattedSize": "194.62 KB"
     },
     {
+      "originalName": "5720632_月亮与六便士 = The Moon and Sixpence_[英] 毛姆 (William Somerset Maugham) 著 ; 姚锦清 译.epub",
+      "displayName": "月亮与六便士 = The Moon and Sixpence_[英] 毛姆 (William Somerset Maugham) 著 ; 姚锦清 译",
+      "path": "/data/5720632_月亮与六便士 = The Moon and Sixpence_[英] 毛姆 (William Somerset Maugham) 著 ; 姚锦清 译.epub",
+      "size": 4914507,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "小说",
+        "外国名著",
+        "经典文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "4.69 MB"
+    },
+    {
       "originalName": "5721328_夏天、烟火和我的尸体_乙一.epub",
       "displayName": "夏天、烟火和我的尸体_乙一",
       "path": "/data/5721328_夏天、烟火和我的尸体_乙一.epub",
@@ -696,7 +749,7 @@
       "tags": [
         "悬疑幻想类",
         "悬疑惊悚",
-        "短篇小说集"
+        "外国文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -712,9 +765,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
+        "经典名著",
         "外国名著",
-        "经典文学"
+        "女性文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -730,9 +783,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "散文随笔",
-        "女性文学",
-        "旅行随笔"
+        "散文、随笔",
+        "旅行随笔",
+        "女性文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -811,6 +864,24 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "229.94 KB"
+    },
+    {
+      "originalName": "6163433_一个叫欧维的男人决定去死_弗雷德里克·巴克曼 [fuleidelike·bakeman].epub",
+      "displayName": "一个叫欧维的男人决定去死_弗雷德里克·巴克曼 [fuleidelike·bakeman]",
+      "path": "/data/6163433_一个叫欧维的男人决定去死_弗雷德里克·巴克曼 [fuleidelike·bakeman].epub",
+      "size": 791851,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "小说",
+        "外国名著",
+        "心灵治愈"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "773.29 KB"
     },
     {
       "originalName": "6185507_刻意练习：如何从新手到大师_安德斯·艾利克森（Anders Ericsson） &amp; 罗伯特·普尔（Robert Pool）.epub",
