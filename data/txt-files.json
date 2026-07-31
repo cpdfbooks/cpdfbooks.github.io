@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-28T11:20:32.348Z",
-  "totalFiles": 127,
+  "generatedAt": "2026-07-31T11:24:13.511Z",
+  "totalFiles": 130,
   "filesWithPdf": 58,
-  "epubFiles": 51,
+  "epubFiles": 54,
   "directory": "/data",
   "type": "txt",
   "files": [
@@ -31,9 +31,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "心理学、大众心理",
+        "社科历史类",
         "大众心理学",
-        "自我提升"
+        "成功励志"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -78,6 +78,24 @@
       "formattedSize": "410.01 KB"
     },
     {
+      "originalName": "11675546_第七天_余华.epub",
+      "displayName": "第七天_余华",
+      "path": "/data/11675546_第七天_余华.epub",
+      "size": 1350852,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "小说",
+        "当代文学",
+        "经典文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.29 MB"
+    },
+    {
       "originalName": "11685768_法医秦明系列（全8册）_法医秦明 [法医秦明].epub",
       "displayName": "法医秦明系列（全8册）_法医秦明 [法医秦明]",
       "path": "/data/11685768_法医秦明系列（全8册）_法医秦明 [法医秦明].epub",
@@ -85,7 +103,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "悬疑推理",
+        "悬疑推理、刑侦犯罪",
         "刑侦",
         "罪案纪实"
       ],
@@ -103,8 +121,8 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "成功励志、心灵治愈",
-        "情绪管理",
+        "心理学、大众心理",
+        "心灵治愈",
         "反内耗"
       ],
       "pdfPath": null,
@@ -112,6 +130,24 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "281.69 KB"
+    },
+    {
+      "originalName": "118326019_一颗苹果_孟还.epub",
+      "displayName": "一颗苹果_孟还",
+      "path": "/data/118326019_一颗苹果_孟还.epub",
+      "size": 1264307,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "小说",
+        "当代文学",
+        "短篇小说集"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.21 MB"
     },
     {
       "originalName": "118770634_荒野植被.epub",
@@ -177,7 +213,7 @@
       "tags": [
         "言情情感类",
         "末世",
-        "女强"
+        "虐恋"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -211,7 +247,7 @@
       "isDuplicate": false,
       "cover": "/data/cover/资本论.jpg",
       "tags": [
-        "经管商业类",
+        "经济学",
         "经济学入门",
         "思想史"
       ],
@@ -229,9 +265,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "悬疑幻想类",
+        "小说",
         "架空历史",
-        "悬疑推理"
+        "古代史"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -353,7 +389,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "心理学",
+        "社科历史类",
         "大众心理学",
         "心灵治愈"
       ],
@@ -362,6 +398,24 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "879.03 KB"
+    },
+    {
+      "originalName": "17276890_焦虑的人 = Folk Med Ångest_[瑞典] 弗雷德里克 · 巴克曼 (Fredrik Backman) 著 ; 孙璐 译.epub",
+      "displayName": "焦虑的人 = Folk Med Ångest_[瑞典] 弗雷德里克 · 巴克曼 (Fredrik Backman) 著 ; 孙璐 译",
+      "path": "/data/17276890_焦虑的人 = Folk Med Ångest_[瑞典] 弗雷德里克 · 巴克曼 (Fredrik Backman) 著 ; 孙璐 译.epub",
+      "size": 433898,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "小说",
+        "外国名著",
+        "心灵治愈"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "423.73 KB"
     },
     {
       "originalName": "17335137_素食者 = 채식주의자.epub",
@@ -498,7 +552,8 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
-        "无限流"
+        "无限流",
+        "爽文"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -585,7 +640,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "社科历史类",
+        "心理学",
         "大众心理学",
         "认知心理学"
       ],
@@ -693,7 +748,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "外国文学",
+        "小说",
         "外国名著",
         "经典文学"
       ],
@@ -749,7 +804,7 @@
       "tags": [
         "悬疑幻想类",
         "悬疑惊悚",
-        "外国文学"
+        "反转"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -765,9 +820,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "经典名著",
+        "外国文学",
         "外国名著",
-        "女性文学"
+        "经典文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -893,7 +948,7 @@
       "tags": [
         "教育学习类",
         "学习方法",
-        "个人成长"
+        "自我提升"
       ],
       "pdfPath": null,
       "hasPdf": false,
