@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-31T11:24:13.511Z",
-  "totalFiles": 130,
+  "generatedAt": "2026-08-01T11:31:17.265Z",
+  "totalFiles": 137,
   "filesWithPdf": 58,
-  "epubFiles": 54,
+  "epubFiles": 61,
   "directory": "/data",
   "type": "txt",
   "files": [
@@ -31,9 +31,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "社科历史类",
+        "成功励志",
         "大众心理学",
-        "成功励志"
+        "自我提升"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -121,15 +121,33 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "心理学、大众心理",
-        "心灵治愈",
-        "反内耗"
+        "成功励志、心灵治愈",
+        "反内耗",
+        "情绪管理"
       ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
       "type": "epub",
       "formattedSize": "281.69 KB"
+    },
+    {
+      "originalName": "11773507_高效能人士的七个习惯 (30周年纪念版)：打造一套全新的思维方式和原则体系 = The 7 Habits of Highly Effective People__[美] 史蒂芬 · 柯维 (Stephen R.Covey) 著 ; 高新勇, 王亦兵, 葛雪蕾 译.epub",
+      "displayName": "高效能人士的七个习惯 (30周年纪念版)：打造一套全新的思维方式和原则体系 = The 7 Habits of Highly Effective People__[美] 史蒂芬 · 柯维 (Stephen R.Covey) 著 ; 高新勇, 王亦兵, 葛雪蕾 译",
+      "path": "/data/11773507_高效能人士的七个习惯 (30周年纪念版)：打造一套全新的思维方式和原则体系 = The 7 Habits of Highly Effective People__[美] 史蒂芬 · 柯维 (Stephen R.Covey) 著 ; 高新勇, 王亦兵, 葛雪蕾 译.epub",
+      "size": 3495676,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "经管商业类",
+        "个人成长",
+        "高效自律"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "3.33 MB"
     },
     {
       "originalName": "118326019_一颗苹果_孟还.epub",
@@ -141,7 +159,7 @@
       "tags": [
         "小说",
         "当代文学",
-        "短篇小说集"
+        "女性文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -211,9 +229,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "言情情感类",
+        "悬疑幻想类",
         "末世",
-        "虐恋"
+        "无限流"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -248,8 +266,7 @@
       "cover": "/data/cover/资本论.jpg",
       "tags": [
         "经济学",
-        "经济学入门",
-        "思想史"
+        "经典名著"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -267,7 +284,7 @@
       "tags": [
         "小说",
         "架空历史",
-        "古代史"
+        "权谋"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -320,7 +337,8 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
-        "奇幻"
+        "奇幻",
+        "青春文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -389,9 +407,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "社科历史类",
+        "心理学",
         "大众心理学",
-        "心灵治愈"
+        "治愈"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -407,9 +425,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
-        "外国名著",
-        "心灵治愈"
+        "外国文学",
+        "心灵治愈",
+        "外国名著"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -461,15 +479,33 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
+        "宗教思想 & 工具书",
         "国学",
-        "传统文化",
-        "古籍解读"
+        "传统文化"
       ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
       "type": "epub",
       "formattedSize": "1.13 MB"
+    },
+    {
+      "originalName": "18590001_略萨作品（精装珍藏版） - 酒吧长谈_马里奥·巴尔加斯·略萨, 孙家孟 译.epub",
+      "displayName": "略萨作品（精装珍藏版） - 酒吧长谈_马里奥·巴尔加斯·略萨, 孙家孟 译",
+      "path": "/data/18590001_略萨作品（精装珍藏版） - 酒吧长谈_马里奥·巴尔加斯·略萨, 孙家孟 译.epub",
+      "size": 638419,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "外国文学",
+        "外国名著",
+        "经典文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "623.46 KB"
     },
     {
       "originalName": "21623847_纳瓦尔宝典：财富与幸福指南 = The Almanack of Naval Ravikant_ A Guide to Wealth and Happiness.epub",
@@ -535,7 +571,7 @@
       "tags": [
         "经典名著",
         "经典文学",
-        "国学"
+        "传统文化"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -552,8 +588,7 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
-        "无限流",
-        "爽文"
+        "无限流"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -641,14 +676,32 @@
       "cover": null,
       "tags": [
         "心理学",
-        "大众心理学",
-        "认知心理学"
+        "认知心理学",
+        "大众心理学"
       ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
       "type": "epub",
       "formattedSize": "824.55 KB"
+    },
+    {
+      "originalName": "3689456_围城 (出版七十周年纪念版)_钱锺书.epub",
+      "displayName": "围城 (出版七十周年纪念版)_钱锺书",
+      "path": "/data/3689456_围城 (出版七十周年纪念版)_钱锺书.epub",
+      "size": 1268115,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "小说",
+        "经典文学",
+        "中国现当代文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.21 MB"
     },
     {
       "originalName": "5285211_你当像鸟飞往你的山.epub",
@@ -667,6 +720,24 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "387.75 KB"
+    },
+    {
+      "originalName": "5395983_苏菲的世界_Jostein Gaarder, 戈德尔, 萧宝森.epub",
+      "displayName": "苏菲的世界_Jostein Gaarder, 戈德尔, 萧宝森",
+      "path": "/data/5395983_苏菲的世界_Jostein Gaarder, 戈德尔, 萧宝森.epub",
+      "size": 516449,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "外国文学",
+        "经典文学",
+        "哲学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "504.34 KB"
     },
     {
       "originalName": "5411413_毛泽东选集 一至七卷 含静火版.epub",
@@ -696,7 +767,7 @@
       "tags": [
         "社科历史类",
         "古代史",
-        "国学"
+        "历史考据"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -730,7 +801,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
+        "文学类",
         "外国名著",
         "经典文学"
       ],
@@ -741,6 +812,42 @@
       "formattedSize": "1.58 MB"
     },
     {
+      "originalName": "5581420_你当像鸟飞往你的山_塔拉．韦斯特弗 (Tara Westover).epub",
+      "displayName": "你当像鸟飞往你的山_塔拉．韦斯特弗 (Tara Westover)",
+      "path": "/data/5581420_你当像鸟飞往你的山_塔拉．韦斯特弗 (Tara Westover).epub",
+      "size": 411630,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "传记、自传",
+        "女性文学",
+        "原生家庭"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "401.98 KB"
+    },
+    {
+      "originalName": "5592631_人生海海_麦家.epub",
+      "displayName": "人生海海_麦家",
+      "path": "/data/5592631_人生海海_麦家.epub",
+      "size": 403422,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "小说",
+        "当代文学",
+        "经典文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "393.97 KB"
+    },
+    {
       "originalName": "5706575_杀死一只知更鸟_哈珀·李(美) 著, 高红梅 译.epub",
       "displayName": "杀死一只知更鸟_哈珀·李(美) 著, 高红梅 译",
       "path": "/data/5706575_杀死一只知更鸟_哈珀·李(美) 著, 高红梅 译.epub",
@@ -748,7 +855,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
+        "文学类",
         "外国名著",
         "经典文学"
       ],
@@ -804,7 +911,7 @@
       "tags": [
         "悬疑幻想类",
         "悬疑惊悚",
-        "反转"
+        "外国文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -820,7 +927,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "外国文学",
+        "文学类",
         "外国名著",
         "经典文学"
       ],
@@ -903,6 +1010,24 @@
       "formattedSize": "185.18 KB"
     },
     {
+      "originalName": "5742015_毛泽东选集（1-5卷）_毛泽东 [毛泽东].epub",
+      "displayName": "毛泽东选集（1-5卷）_毛泽东 [毛泽东]",
+      "path": "/data/5742015_毛泽东选集（1-5卷）_毛泽东 [毛泽东].epub",
+      "size": 1451958,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "政治学",
+        "思想史",
+        "近代史"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.38 MB"
+    },
+    {
       "originalName": "6070294_蛤蟆先生去看心理医生 = Counselling For Toads_ A Psychological Adventure.epub",
       "displayName": "蛤蟆先生去看心理医生 = Counselling For Toads_ A Psychological Adventure",
       "path": "/data/6070294_蛤蟆先生去看心理医生 = Counselling For Toads_ A Psychological Adventure.epub",
@@ -948,7 +1073,7 @@
       "tags": [
         "教育学习类",
         "学习方法",
-        "自我提升"
+        "个人成长"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -964,7 +1089,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "散文随笔",
+        "散文",
         "当代文学",
         "心灵治愈"
       ],
