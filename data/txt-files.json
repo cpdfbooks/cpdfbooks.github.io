@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-01T11:31:17.265Z",
-  "totalFiles": 137,
+  "generatedAt": "2026-08-07T11:55:22.568Z",
+  "totalFiles": 147,
   "filesWithPdf": 58,
-  "epubFiles": 61,
+  "epubFiles": 71,
   "directory": "/data",
   "type": "txt",
   "files": [
@@ -121,9 +121,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "成功励志、心灵治愈",
-        "反内耗",
-        "情绪管理"
+        "心理学、大众心理",
+        "心灵治愈",
+        "反内耗"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -150,6 +150,24 @@
       "formattedSize": "3.33 MB"
     },
     {
+      "originalName": "117815699_The Knight and the Moth_Rachel Gillig.epub",
+      "displayName": "The Knight and the Moth_Rachel Gillig",
+      "path": "/data/117815699_The Knight and the Moth_Rachel Gillig.epub",
+      "size": 4922665,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "悬疑幻想类",
+        "奇幻",
+        "西幻"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "4.69 MB"
+    },
+    {
       "originalName": "118326019_一颗苹果_孟还.epub",
       "displayName": "一颗苹果_孟还",
       "path": "/data/118326019_一颗苹果_孟还.epub",
@@ -159,7 +177,7 @@
       "tags": [
         "小说",
         "当代文学",
-        "女性文学"
+        "短篇小说集"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -211,7 +229,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
+        "长篇小说",
         "经典文学",
         "乡土文学"
       ],
@@ -229,9 +247,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "悬疑幻想类",
-        "末世",
-        "无限流"
+        "言情情感类",
+        "虐恋",
+        "现言"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -265,14 +283,33 @@
       "isDuplicate": false,
       "cover": "/data/cover/资本论.jpg",
       "tags": [
-        "经济学",
-        "经典名著"
+        "经管商业类",
+        "经济学入门",
+        "思想史"
       ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
       "type": "epub",
       "formattedSize": "7.77 MB"
+    },
+    {
+      "originalName": "123573198_The Poet Empress_Shen Tao.epub",
+      "displayName": "The Poet Empress_Shen Tao",
+      "path": "/data/123573198_The Poet Empress_Shen Tao.epub",
+      "size": 573487,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "传记",
+        "人物传记",
+        "女性文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "560.05 KB"
     },
     {
       "originalName": "125973254_秦二世必须死_马伯庸.epub",
@@ -291,6 +328,24 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "759.83 KB"
+    },
+    {
+      "originalName": "126616122_Fury Bound_Sable Sorensen.epub",
+      "displayName": "Fury Bound_Sable Sorensen",
+      "path": "/data/126616122_Fury Bound_Sable Sorensen.epub",
+      "size": 5599156,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "言情情感类",
+        "言情向",
+        "奇幻"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "5.34 MB"
     },
     {
       "originalName": "13892835_沧浪之水.epub",
@@ -337,8 +392,7 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
-        "奇幻",
-        "青春文学"
+        "奇幻"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -407,9 +461,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "心理学",
+        "社科历史类",
         "大众心理学",
-        "治愈"
+        "心灵治愈"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -479,9 +533,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "宗教思想 & 工具书",
         "国学",
-        "传统文化"
+        "传统文化",
+        "哲学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -497,8 +551,8 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
+        "小说",
         "外国文学",
-        "外国名著",
         "经典文学"
       ],
       "pdfPath": null,
@@ -524,6 +578,24 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "635.98 KB"
+    },
+    {
+      "originalName": "22860677_The Seven Husbands of Evelyn Hugo_Taylor Jenkins Reid.epub",
+      "displayName": "The Seven Husbands of Evelyn Hugo_Taylor Jenkins Reid",
+      "path": "/data/22860677_The Seven Husbands of Evelyn Hugo_Taylor Jenkins Reid.epub",
+      "size": 914057,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "小说",
+        "女性文学",
+        "女性成长"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "892.63 KB"
     },
     {
       "originalName": "23127216_克林索尔的最后夏天（黑塞自传式作品）(果麦经典).epub",
@@ -562,6 +634,24 @@
       "formattedSize": "2.81 MB"
     },
     {
+      "originalName": "25344064_The Eye of the Bedlam Bride_Matt Dinniman.epub",
+      "displayName": "The Eye of the Bedlam Bride_Matt Dinniman",
+      "path": "/data/25344064_The Eye of the Bedlam Bride_Matt Dinniman.epub",
+      "size": 2134342,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "悬疑幻想类",
+        "奇幻",
+        "无限流"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "2.04 MB"
+    },
+    {
       "originalName": "27493586_红楼梦_曹雪芹 &amp; 无名氏 &amp; 程伟元 &amp; 高鹗 &amp; 中国艺术研究院红楼梦研究所.epub",
       "displayName": "红楼梦_曹雪芹 &amp; 无名氏 &amp; 程伟元 &amp; 高鹗 &amp; 中国艺术研究院红楼梦研究所",
       "path": "/data/27493586_红楼梦_曹雪芹 &amp; 无名氏 &amp; 程伟元 &amp; 高鹗 &amp; 中国艺术研究院红楼梦研究所.epub",
@@ -571,13 +661,49 @@
       "tags": [
         "经典名著",
         "经典文学",
-        "传统文化"
+        "国学"
       ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
       "type": "epub",
       "formattedSize": "2.6 MB"
+    },
+    {
+      "originalName": "27567070_攻玉_凝陇.epub",
+      "displayName": "攻玉_凝陇",
+      "path": "/data/27567070_攻玉_凝陇.epub",
+      "size": 1665932,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "言情情感类",
+        "灵异",
+        "古言"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.59 MB"
+    },
+    {
+      "originalName": "28893227_Martyr!_Kaveh Akbar.epub",
+      "displayName": "Martyr!_Kaveh Akbar",
+      "path": "/data/28893227_Martyr!_Kaveh Akbar.epub",
+      "size": 5767546,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "小说",
+        "当代文学",
+        "外国文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "5.5 MB"
     },
     {
       "originalName": "28955826_全球高考_木苏里.epub",
@@ -595,6 +721,24 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "1.35 MB"
+    },
+    {
+      "originalName": "29417352_A Little Life_Hanya Yanagihara.epub",
+      "displayName": "A Little Life_Hanya Yanagihara",
+      "path": "/data/29417352_A Little Life_Hanya Yanagihara.epub",
+      "size": 2563042,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "小说",
+        "外国名著",
+        "心灵治愈"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "2.44 MB"
     },
     {
       "originalName": "3644725_明朝那些事儿.epub",
@@ -675,9 +819,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "心理学",
-        "认知心理学",
-        "大众心理学"
+        "社科历史类",
+        "大众心理学",
+        "认知心理学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -702,6 +846,42 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "1.21 MB"
+    },
+    {
+      "originalName": "44907036_Taiwan Travelogue_Yáng Shuāng-zǐ, Lin King (translator).epub",
+      "displayName": "Taiwan Travelogue_Yáng Shuāng-zǐ, Lin King (translator)",
+      "path": "/data/44907036_Taiwan Travelogue_Yáng Shuāng-zǐ, Lin King (translator).epub",
+      "size": 6044681,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "旅行游记",
+        "旅行随笔",
+        "地域风物"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "5.76 MB"
+    },
+    {
+      "originalName": "4781829_The Cruel Prince (B&amp;N Exclusive Edition) (Folk of the Air Series #1)_Holly Black.epub",
+      "displayName": "The Cruel Prince (B&amp;N Exclusive Edition) (Folk of the Air Series #1)_Holly Black",
+      "path": "/data/4781829_The Cruel Prince (B&amp;N Exclusive Edition) (Folk of the Air Series #1)_Holly Black.epub",
+      "size": 2186673,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "奇幻",
+        "外国文学",
+        "西幻"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "2.09 MB"
     },
     {
       "originalName": "5285211_你当像鸟飞往你的山.epub",
@@ -731,7 +911,7 @@
       "tags": [
         "外国文学",
         "经典文学",
-        "哲学"
+        "外国名著"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -767,7 +947,7 @@
       "tags": [
         "社科历史类",
         "古代史",
-        "历史考据"
+        "国学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -801,7 +981,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "文学类",
+        "小说",
         "外国名著",
         "经典文学"
       ],
@@ -839,7 +1019,7 @@
       "tags": [
         "小说",
         "当代文学",
-        "经典文学"
+        "心灵治愈"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -855,9 +1035,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "文学类",
-        "外国名著",
-        "经典文学"
+        "外国文学",
+        "经典文学",
+        "外国名著"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -909,9 +1089,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "悬疑幻想类",
-        "悬疑惊悚",
-        "外国文学"
+        "恐怖惊悚",
+        "短篇小说集",
+        "悬疑惊悚"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -927,7 +1107,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "文学类",
+        "小说",
         "外国名著",
         "经典文学"
       ],
@@ -945,7 +1125,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "散文、随笔",
+        "散文随笔",
         "旅行随笔",
         "女性文学"
       ],
@@ -1017,7 +1197,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "政治学",
+        "社科历史类",
         "思想史",
         "近代史"
       ],
@@ -1054,7 +1234,7 @@
       "cover": null,
       "tags": [
         "小说",
-        "外国名著",
+        "外国文学",
         "心灵治愈"
       ],
       "pdfPath": null,
@@ -1089,7 +1269,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "散文",
+        "散文随笔",
         "当代文学",
         "心灵治愈"
       ],
