@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-07T11:55:22.568Z",
-  "totalFiles": 147,
+  "generatedAt": "2026-08-10T11:59:22.398Z",
+  "totalFiles": 151,
   "filesWithPdf": 58,
-  "epubFiles": 71,
+  "epubFiles": 75,
   "directory": "/data",
   "type": "txt",
   "files": [
@@ -31,7 +31,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "成功励志",
+        "心理学、大众心理",
         "大众心理学",
         "自我提升"
       ],
@@ -78,6 +78,24 @@
       "formattedSize": "410.01 KB"
     },
     {
+      "originalName": "116456200_Sunrise on the Reaping (A Hunger Games Novel)_Suzanne Collins.epub",
+      "displayName": "Sunrise on the Reaping (A Hunger Games Novel)_Suzanne Collins",
+      "path": "/data/116456200_Sunrise on the Reaping (A Hunger Games Novel)_Suzanne Collins.epub",
+      "size": 5749049,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "悬疑幻想类",
+        "科幻",
+        "奇幻"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "5.48 MB"
+    },
+    {
       "originalName": "11675546_第七天_余华.epub",
       "displayName": "第七天_余华",
       "path": "/data/11675546_第七天_余华.epub",
@@ -122,8 +140,8 @@
       "cover": null,
       "tags": [
         "心理学、大众心理",
-        "心灵治愈",
-        "反内耗"
+        "反内耗",
+        "心灵治愈"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -158,7 +176,7 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
-        "奇幻",
+        "外国文学",
         "西幻"
       ],
       "pdfPath": null,
@@ -175,9 +193,8 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
-        "当代文学",
-        "短篇小说集"
+        "短篇小说",
+        "当代文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -202,6 +219,24 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "439.84 KB"
+    },
+    {
+      "originalName": "1189762_And Then There Were None_Agatha Christie.epub",
+      "displayName": "And Then There Were None_Agatha Christie",
+      "path": "/data/1189762_And Then There Were None_Agatha Christie.epub",
+      "size": 774765,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "悬疑推理",
+        "本格推理",
+        "外国名著"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "756.61 KB"
     },
     {
       "originalName": "11930655_小狗钱钱 _ 轻松享有成功与富裕 = Money oder das 1 x 1 des Geldes. Spielerisch zu Erfolg und Wo.epub",
@@ -229,7 +264,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "长篇小说",
+        "小说",
         "经典文学",
         "乡土文学"
       ],
@@ -247,9 +282,8 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "言情情感类",
-        "虐恋",
-        "现言"
+        "悬疑幻想类",
+        "末世"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -283,8 +317,7 @@
       "isDuplicate": false,
       "cover": "/data/cover/资本论.jpg",
       "tags": [
-        "经管商业类",
-        "经济学入门",
+        "经济学",
         "思想史"
       ],
       "pdfPath": null,
@@ -301,9 +334,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "传记",
-        "人物传记",
-        "女性文学"
+        "传记、自传",
+        "女性文学",
+        "人物传记"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -337,9 +370,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "言情情感类",
-        "言情向",
-        "奇幻"
+        "悬疑幻想类",
+        "奇幻",
+        "言情向"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -461,7 +494,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "社科历史类",
+        "心理学",
         "大众心理学",
         "心灵治愈"
       ],
@@ -479,9 +512,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
+        "小说",
         "外国文学",
-        "心灵治愈",
-        "外国名著"
+        "心灵治愈"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -533,9 +566,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
+        "宗教思想 & 工具书",
         "国学",
-        "传统文化",
-        "哲学"
+        "古籍解读"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -551,15 +584,33 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
         "外国文学",
-        "经典文学"
+        "经典文学",
+        "外国名著"
       ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
       "type": "epub",
       "formattedSize": "623.46 KB"
+    },
+    {
+      "originalName": "1897874_The Stranger_Albert Camus.epub",
+      "displayName": "The Stranger_Albert Camus",
+      "path": "/data/1897874_The Stranger_Albert Camus.epub",
+      "size": 114348,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "小说",
+        "外国名著",
+        "经典文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "111.67 KB"
     },
     {
       "originalName": "21623847_纳瓦尔宝典：财富与幸福指南 = The Almanack of Naval Ravikant_ A Guide to Wealth and Happiness.epub",
@@ -587,7 +638,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
+        "言情情感类",
         "女性文学",
         "女性成长"
       ],
@@ -643,7 +694,7 @@
       "tags": [
         "悬疑幻想类",
         "奇幻",
-        "无限流"
+        "西幻"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -678,8 +729,8 @@
       "cover": null,
       "tags": [
         "言情情感类",
-        "灵异",
-        "古言"
+        "古言",
+        "灵异"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -714,7 +765,8 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
-        "无限流"
+        "无限流",
+        "爽文"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -730,8 +782,8 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
-        "外国名著",
+        "外国文学",
+        "经典文学",
         "心灵治愈"
       ],
       "pdfPath": null,
@@ -873,9 +925,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
+        "悬疑幻想类",
         "奇幻",
-        "外国文学",
-        "西幻"
+        "外国文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -964,8 +1016,8 @@
       "cover": null,
       "tags": [
         "社科历史类",
-        "社会心理学",
-        "大众心理学"
+        "大众心理学",
+        "社会心理学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -981,9 +1033,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
-        "外国名著",
-        "经典文学"
+        "外国文学",
+        "经典名著",
+        "社会派"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -999,7 +1051,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "传记、自传",
+        "传记自传",
         "女性文学",
         "原生家庭"
       ],
@@ -1071,9 +1123,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
-        "外国名著",
-        "经典文学"
+        "外国文学",
+        "经典文学",
+        "外国名著"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1089,9 +1141,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "恐怖惊悚",
-        "短篇小说集",
-        "悬疑惊悚"
+        "悬疑幻想类",
+        "悬疑惊悚",
+        "外国文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1107,7 +1159,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
+        "经典名著",
         "外国名著",
         "经典文学"
       ],
@@ -1234,7 +1286,7 @@
       "cover": null,
       "tags": [
         "小说",
-        "外国文学",
+        "外国名著",
         "心灵治愈"
       ],
       "pdfPath": null,
@@ -1278,6 +1330,24 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "4.09 MB"
+    },
+    {
+      "originalName": "837315_The Count of Monte Cristo (Penguin Classics)_Alexandre Dumas.epub",
+      "displayName": "The Count of Monte Cristo (Penguin Classics)_Alexandre Dumas",
+      "path": "/data/837315_The Count of Monte Cristo (Penguin Classics)_Alexandre Dumas.epub",
+      "size": 1344876,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "小说",
+        "外国名著",
+        "经典文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.28 MB"
     },
     {
       "originalName": "1186929-狂热分子：群众运动圣经【小力盘www.xiaolipan.com】.txt",
