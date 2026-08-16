@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-13T11:48:13.136Z",
-  "totalFiles": 156,
+  "generatedAt": "2026-08-16T11:38:27.582Z",
+  "totalFiles": 160,
   "filesWithPdf": 58,
-  "epubFiles": 80,
+  "epubFiles": 84,
   "directory": "/data",
   "type": "txt",
   "files": [
@@ -31,9 +31,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "心理学、大众心理",
+        "成功励志",
         "大众心理学",
-        "个人成长"
+        "自我提升"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -85,9 +85,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
-        "外国文学",
-        "科幻"
+        "悬疑幻想类",
+        "科幻",
+        "奇幻"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -123,13 +123,47 @@
       "tags": [
         "悬疑推理、刑侦犯罪",
         "刑侦",
-        "罪案纪实"
+        "烧脑"
       ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
       "type": "epub",
       "formattedSize": "5.85 MB"
+    },
+    {
+      "originalName": "117128349_The Bright Years_Sarah Damoff.epub",
+      "displayName": "The Bright Years_Sarah Damoff",
+      "path": "/data/117128349_The Bright Years_Sarah Damoff.epub",
+      "size": 4368307,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "青春文学",
+        "外国文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "4.17 MB"
+    },
+    {
+      "originalName": "117471080_My Friends_Fredrik Backman.epub",
+      "displayName": "My Friends_Fredrik Backman",
+      "path": "/data/117471080_My Friends_Fredrik Backman.epub",
+      "size": 1071232,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "外国文学",
+        "心灵治愈"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.02 MB"
     },
     {
       "originalName": "11747112_别想太多啦 _ 在复杂的世界里, 做一个简单的人 = 気にしない練習 _ 不安,怒り, 煩悩を&quot;放念&quot;するヒント_[日] 名取芳彦 著 ; 范宏涛 译.epub",
@@ -140,8 +174,8 @@
       "cover": null,
       "tags": [
         "心理学、大众心理",
-        "心灵治愈",
-        "反内耗"
+        "反内耗",
+        "心灵治愈"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -193,9 +227,8 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
-        "当代文学",
-        "短篇小说集"
+        "短篇小说",
+        "当代文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -229,7 +262,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "悬疑幻想类",
+        "悬疑推理",
         "本格推理",
         "外国名著"
       ],
@@ -265,7 +298,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "中国现当代文学",
+        "小说",
         "经典文学",
         "乡土文学"
       ],
@@ -283,9 +316,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "悬疑幻想类",
+        "言情情感类",
         "末世",
-        "无限流"
+        "言情向"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -301,7 +334,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "心理学",
+        "社科历史类",
         "大众心理学",
         "治愈"
       ],
@@ -338,8 +371,8 @@
       "cover": "/data/cover/资本论.jpg",
       "tags": [
         "经济学",
-        "经济学入门",
-        "思想史"
+        "思想史",
+        "经济学入门"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -355,9 +388,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "言情情感类",
         "古言",
-        "大女主"
+        "女强",
+        "女性文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -375,7 +408,7 @@
       "tags": [
         "小说",
         "架空历史",
-        "权谋"
+        "悬疑推理"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -392,14 +425,49 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
-        "奇幻",
-        "言情向"
+        "奇幻"
       ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
       "type": "epub",
       "formattedSize": "5.34 MB"
+    },
+    {
+      "originalName": "126859873_The Ballad of Falling Dragons_Sarah A. Parker.epub",
+      "displayName": "The Ballad of Falling Dragons_Sarah A. Parker",
+      "path": "/data/126859873_The Ballad of Falling Dragons_Sarah A. Parker.epub",
+      "size": 7312711,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "悬疑幻想类",
+        "奇幻",
+        "西幻"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "6.97 MB"
+    },
+    {
+      "originalName": "126863240_Fever Dream_Elsie Silver.epub",
+      "displayName": "Fever Dream_Elsie Silver",
+      "path": "/data/126863240_Fever Dream_Elsie Silver.epub",
+      "size": 8410408,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "言情情感类",
+        "言情向",
+        "甜宠"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "8.02 MB"
     },
     {
       "originalName": "13892835_沧浪之水.epub",
@@ -446,7 +514,8 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
-        "奇幻"
+        "奇幻",
+        "校园"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -515,7 +584,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "社科历史类",
+        "心理学",
         "大众心理学",
         "心灵治愈"
       ],
@@ -605,9 +674,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
+        "宗教思想 & 工具书",
         "国学",
-        "传统文化",
-        "哲学"
+        "古籍解读"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -641,9 +710,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
-        "外国名著",
-        "经典文学"
+        "外国文学",
+        "经典文学",
+        "外国名著"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -714,8 +783,8 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
-        "奇幻",
-        "西幻"
+        "西幻",
+        "奇幻"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -750,8 +819,7 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
-        "奇幻",
-        "无限流"
+        "奇幻"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -767,9 +835,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "外国文学",
         "小说",
-        "当代文学"
+        "外国文学",
+        "奇幻"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -787,7 +855,7 @@
       "tags": [
         "经典名著",
         "经典文学",
-        "传统文化"
+        "国学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -804,8 +872,8 @@
       "cover": null,
       "tags": [
         "言情情感类",
-        "灵异",
-        "古言"
+        "古言",
+        "灵异"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -856,8 +924,8 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "外国文学",
-        "经典文学",
+        "小说",
+        "外国名著",
         "心灵治愈"
       ],
       "pdfPath": null,
@@ -892,7 +960,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "经管商业类",
+        "经管商业",
         "个人成长",
         "自我提升"
       ],
@@ -965,7 +1033,7 @@
       "tags": [
         "小说",
         "经典文学",
-        "中国现当代文学"
+        "当代文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1000,8 +1068,8 @@
       "cover": null,
       "tags": [
         "言情情感类",
-        "言情向",
-        "校园"
+        "校园",
+        "甜宠"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1017,9 +1085,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
+        "悬疑幻想类",
         "奇幻",
-        "西幻",
-        "外国文学"
+        "西幻"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1053,9 +1121,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "外国文学",
+        "小说",
         "外国名著",
-        "哲学"
+        "经典文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1091,7 +1159,7 @@
       "tags": [
         "社科历史类",
         "古代史",
-        "政治学"
+        "国学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1125,7 +1193,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
+        "外国文学",
         "外国名著",
         "经典文学"
       ],
@@ -1143,7 +1211,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "自传",
+        "传记自传",
         "女性文学",
         "原生家庭"
       ],
@@ -1179,7 +1247,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
+        "外国文学",
         "外国名著",
         "经典文学"
       ],
@@ -1235,7 +1303,7 @@
       "tags": [
         "悬疑幻想类",
         "悬疑惊悚",
-        "短篇小说集"
+        "外国文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1251,7 +1319,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
+        "文学类",
         "外国名著",
         "经典文学"
       ],
@@ -1269,7 +1337,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "散文、随笔",
+        "散文随笔",
         "旅行随笔",
         "女性文学"
       ],
@@ -1341,8 +1409,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "社科历史类",
-        "思想史"
+        "政治学",
+        "思想史",
+        "近代史"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1376,9 +1445,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
         "外国文学",
-        "心灵治愈"
+        "心灵治愈",
+        "经典文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1394,9 +1463,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "教育学习类",
+        "学习方法",
         "个人成长",
-        "学习方法"
+        "自我提升"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1412,7 +1481,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "散文随笔",
+        "散文、随笔",
         "当代文学",
         "心灵治愈"
       ],
