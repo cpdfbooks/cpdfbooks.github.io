@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-16T11:38:27.582Z",
-  "totalFiles": 160,
+  "generatedAt": "2026-08-19T11:35:45.986Z",
+  "totalFiles": 165,
   "filesWithPdf": 58,
-  "epubFiles": 84,
+  "epubFiles": 89,
   "directory": "/data",
   "type": "txt",
   "files": [
@@ -31,7 +31,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "成功励志",
+        "心理学、大众心理",
         "大众心理学",
         "自我提升"
       ],
@@ -87,7 +87,7 @@
       "tags": [
         "悬疑幻想类",
         "科幻",
-        "奇幻"
+        "外国名著"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -104,8 +104,8 @@
       "cover": null,
       "tags": [
         "小说",
-        "经典文学",
-        "当代文学"
+        "当代文学",
+        "经典文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -121,9 +121,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "悬疑推理、刑侦犯罪",
+        "悬疑推理",
         "刑侦",
-        "烧脑"
+        "罪案纪实"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -139,8 +139,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "青春文学",
-        "外国文学"
+        "小说",
+        "外国文学",
+        "青春文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -156,6 +157,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
+        "小说",
         "外国文学",
         "心灵治愈"
       ],
@@ -228,6 +230,7 @@
       "cover": null,
       "tags": [
         "短篇小说",
+        "短篇小说集",
         "当代文学"
       ],
       "pdfPath": null,
@@ -298,7 +301,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
+        "中国现当代文学",
         "经典文学",
         "乡土文学"
       ],
@@ -317,8 +320,8 @@
       "cover": null,
       "tags": [
         "言情情感类",
-        "末世",
-        "言情向"
+        "虐恋",
+        "末世"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -334,7 +337,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "社科历史类",
+        "心理学",
         "大众心理学",
         "治愈"
       ],
@@ -370,9 +373,9 @@
       "isDuplicate": false,
       "cover": "/data/cover/资本论.jpg",
       "tags": [
-        "经济学",
-        "思想史",
-        "经济学入门"
+        "经管商业类",
+        "经济学入门",
+        "思想史"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -388,8 +391,8 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "古言",
-        "女强",
+        "传记",
+        "人物传记",
         "女性文学"
       ],
       "pdfPath": null,
@@ -406,9 +409,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
+        "悬疑幻想类",
         "架空历史",
-        "悬疑推理"
+        "权谋"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -424,7 +427,8 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "悬疑幻想类",
+        "言情情感类",
+        "言情向",
         "奇幻"
       ],
       "pdfPath": null,
@@ -442,8 +446,7 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
-        "奇幻",
-        "西幻"
+        "奇幻"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -468,6 +471,23 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "8.02 MB"
+    },
+    {
+      "originalName": "127850644_AI Agents in Action, Second Edition_ Intelligent workflows with LLMs, MCP, A2A, _Micheal Lanham.epub",
+      "displayName": "AI Agents in Action, Second Edition_ Intelligent workflows with LLMs, MCP, A2A, _Micheal Lanham",
+      "path": "/data/127850644_AI Agents in Action, Second Edition_ Intelligent workflows with LLMs, MCP, A2A, _Micheal Lanham.epub",
+      "size": 10171062,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "科技计算机类",
+        "AI"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "9.7 MB"
     },
     {
       "originalName": "13892835_沧浪之水.epub",
@@ -515,7 +535,7 @@
       "tags": [
         "悬疑幻想类",
         "奇幻",
-        "校园"
+        "大男主"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -656,7 +676,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
+        "经典名著",
         "外国名著",
         "经典文学"
       ],
@@ -710,9 +730,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "外国文学",
-        "经典文学",
-        "外国名著"
+        "小说",
+        "外国名著",
+        "经典文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -748,7 +768,7 @@
       "tags": [
         "小说",
         "女性文学",
-        "女性成长"
+        "娱乐圈"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -783,14 +803,32 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
-        "西幻",
-        "奇幻"
+        "奇幻",
+        "西幻"
       ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
       "type": "epub",
       "formattedSize": "579.03 KB"
+    },
+    {
+      "originalName": "23899708_Windy City 02.0 - The Right Move_Liz Tomforde.epub",
+      "displayName": "Windy City 02.0 - The Right Move_Liz Tomforde",
+      "path": "/data/23899708_Windy City 02.0 - The Right Move_Liz Tomforde.epub",
+      "size": 1367654,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "言情情感类",
+        "言情向",
+        "甜宠"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.3 MB"
     },
     {
       "originalName": "24126585_毛泽东选集(1-7卷,包括后续两卷静火版).epub",
@@ -819,13 +857,32 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
-        "奇幻"
+        "奇幻",
+        "西幻"
       ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
       "type": "epub",
       "formattedSize": "2.04 MB"
+    },
+    {
+      "originalName": "2639909_Sapiens_Yuval Noah Harari.epub",
+      "displayName": "Sapiens_Yuval Noah Harari",
+      "path": "/data/2639909_Sapiens_Yuval Noah Harari.epub",
+      "size": 14134137,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "人类学",
+        "通史",
+        "科普"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "13.48 MB"
     },
     {
       "originalName": "26763871_Babel_R. F. Kuang.epub",
@@ -835,9 +892,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
         "外国文学",
-        "奇幻"
+        "当代文学",
+        "女性主义"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -872,8 +929,8 @@
       "cover": null,
       "tags": [
         "言情情感类",
-        "古言",
-        "灵异"
+        "灵异",
+        "古言"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -889,7 +946,6 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
         "外国文学",
         "当代文学"
       ],
@@ -908,13 +964,32 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
-        "无限流"
+        "无限流",
+        "爽文"
       ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
       "type": "epub",
       "formattedSize": "1.35 MB"
+    },
+    {
+      "originalName": "29209959_The God of the Woods_Liz Moore.epub",
+      "displayName": "The God of the Woods_Liz Moore",
+      "path": "/data/29209959_The God of the Woods_Liz Moore.epub",
+      "size": 824869,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "悬疑推理",
+        "外国文学",
+        "当代文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "805.54 KB"
     },
     {
       "originalName": "29417352_A Little Life_Hanya Yanagihara.epub",
@@ -960,7 +1035,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "经管商业",
+        "经管商业类",
         "个人成长",
         "自我提升"
       ],
@@ -1013,9 +1088,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "心理学",
-        "认知心理学",
-        "大众心理学"
+        "社科历史类",
+        "大众心理学",
+        "认知心理学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1032,8 +1107,7 @@
       "cover": null,
       "tags": [
         "小说",
-        "经典文学",
-        "当代文学"
+        "经典文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1096,6 +1170,24 @@
       "formattedSize": "2.09 MB"
     },
     {
+      "originalName": "4805624_Madonna in a Fur Coat_Sabahattin Ali.epub",
+      "displayName": "Madonna in a Fur Coat_Sabahattin Ali",
+      "path": "/data/4805624_Madonna in a Fur Coat_Sabahattin Ali.epub",
+      "size": 1332841,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "外国文学",
+        "外国名著",
+        "经典文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.27 MB"
+    },
+    {
       "originalName": "5285211_你当像鸟飞往你的山.epub",
       "displayName": "你当像鸟飞往你的山",
       "path": "/data/5285211_你当像鸟飞往你的山.epub",
@@ -1121,7 +1213,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
+        "哲学",
         "外国名著",
         "经典文学"
       ],
@@ -1193,7 +1285,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "外国文学",
+        "小说",
         "外国名著",
         "经典文学"
       ],
@@ -1247,7 +1339,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "外国文学",
+        "小说",
         "外国名著",
         "经典文学"
       ],
@@ -1301,7 +1393,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "悬疑幻想类",
+        "悬疑推理",
         "悬疑惊悚",
         "外国文学"
       ],
@@ -1319,9 +1411,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "文学类",
+        "经典名著",
         "外国名著",
-        "经典文学"
+        "女性文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1337,7 +1429,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "散文随笔",
+        "散文、随笔",
         "旅行随笔",
         "女性文学"
       ],
@@ -1409,7 +1501,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "政治学",
+        "社科历史类",
         "思想史",
         "近代史"
       ],
@@ -1445,9 +1537,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
+        "小说",
         "外国文学",
-        "心灵治愈",
-        "经典文学"
+        "心灵治愈"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1463,9 +1555,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "学习方法",
+        "教育学习类",
         "个人成长",
-        "自我提升"
+        "学习方法"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1481,7 +1573,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "散文、随笔",
+        "散文",
         "当代文学",
         "心灵治愈"
       ],
@@ -1499,7 +1591,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
+        "经典名著",
         "外国名著",
         "经典文学"
       ],
