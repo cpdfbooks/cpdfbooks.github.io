@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-19T11:35:45.986Z",
-  "totalFiles": 165,
+  "generatedAt": "2026-08-22T11:32:57.771Z",
+  "totalFiles": 170,
   "filesWithPdf": 58,
-  "epubFiles": 89,
+  "epubFiles": 94,
   "directory": "/data",
   "type": "txt",
   "files": [
@@ -78,6 +78,24 @@
       "formattedSize": "410.01 KB"
     },
     {
+      "originalName": "116155448_Between Two Fires_Christopher Buehlman.epub",
+      "displayName": "Between Two Fires_Christopher Buehlman",
+      "path": "/data/116155448_Between Two Fires_Christopher Buehlman.epub",
+      "size": 716602,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "悬疑幻想类",
+        "恐怖惊悚",
+        "奇幻"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "699.81 KB"
+    },
+    {
       "originalName": "116456200_Sunrise on the Reaping (A Hunger Games Novel)_Suzanne Collins.epub",
       "displayName": "Sunrise on the Reaping (A Hunger Games Novel)_Suzanne Collins",
       "path": "/data/116456200_Sunrise on the Reaping (A Hunger Games Novel)_Suzanne Collins.epub",
@@ -87,7 +105,7 @@
       "tags": [
         "悬疑幻想类",
         "科幻",
-        "外国名著"
+        "外国文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -121,9 +139,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "悬疑推理",
+        "悬疑幻想类",
         "刑侦",
-        "罪案纪实"
+        "悬疑推理"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -141,7 +159,7 @@
       "tags": [
         "小说",
         "外国文学",
-        "青春文学"
+        "女性文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -175,9 +193,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "心理学、大众心理",
-        "反内耗",
-        "心灵治愈"
+        "心灵治愈",
+        "情绪管理",
+        "反内耗"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -229,9 +247,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "短篇小说",
-        "短篇小说集",
-        "当代文学"
+        "小说",
+        "当代文学",
+        "短篇小说集"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -301,7 +319,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "中国现当代文学",
+        "小说",
         "经典文学",
         "乡土文学"
       ],
@@ -319,9 +337,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "言情情感类",
-        "虐恋",
-        "末世"
+        "悬疑幻想类",
+        "末世",
+        "大女主"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -373,9 +391,8 @@
       "isDuplicate": false,
       "cover": "/data/cover/资本论.jpg",
       "tags": [
-        "经管商业类",
-        "经济学入门",
-        "思想史"
+        "经济学",
+        "经典名著"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -391,9 +408,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "传记",
-        "人物传记",
-        "女性文学"
+        "诗歌、诗词",
+        "女性文学",
+        "外国文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -409,7 +426,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "悬疑幻想类",
+        "小说",
         "架空历史",
         "权谋"
       ],
@@ -420,6 +437,24 @@
       "formattedSize": "759.83 KB"
     },
     {
+      "originalName": "126164076_Midnight Message_Avina St. Graves.epub",
+      "displayName": "Midnight Message_Avina St. Graves",
+      "path": "/data/126164076_Midnight Message_Avina St. Graves.epub",
+      "size": 3407545,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "悬疑幻想类",
+        "悬疑推理",
+        "外国文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "3.25 MB"
+    },
+    {
       "originalName": "126616122_Fury Bound_Sable Sorensen.epub",
       "displayName": "Fury Bound_Sable Sorensen",
       "path": "/data/126616122_Fury Bound_Sable Sorensen.epub",
@@ -427,9 +462,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "言情情感类",
-        "言情向",
-        "奇幻"
+        "悬疑幻想类",
+        "奇幻",
+        "言情向"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -446,7 +481,8 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
-        "奇幻"
+        "奇幻",
+        "外国文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -463,8 +499,7 @@
       "cover": null,
       "tags": [
         "言情情感类",
-        "言情向",
-        "甜宠"
+        "言情向"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -481,13 +516,31 @@
       "cover": null,
       "tags": [
         "科技计算机类",
-        "AI"
+        "AI",
+        "人工智能"
       ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
       "type": "epub",
       "formattedSize": "9.7 MB"
+    },
+    {
+      "originalName": "128209465_The Shampoo Effect_ A Novel_Jenny Jackson.epub",
+      "displayName": "The Shampoo Effect_ A Novel_Jenny Jackson",
+      "path": "/data/128209465_The Shampoo Effect_ A Novel_Jenny Jackson.epub",
+      "size": 425005,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "小说",
+        "外国文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "415.04 KB"
     },
     {
       "originalName": "13892835_沧浪之水.epub",
@@ -604,7 +657,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "心理学",
+        "社科历史类",
         "大众心理学",
         "心灵治愈"
       ],
@@ -676,9 +729,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "经典名著",
-        "外国名著",
-        "经典文学"
+        "小说",
+        "经典文学",
+        "外国名著"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -759,6 +812,24 @@
       "formattedSize": "635.98 KB"
     },
     {
+      "originalName": "2205753_How to Win Friends &amp; Influence People_Dale Carnegie.epub",
+      "displayName": "How to Win Friends &amp; Influence People_Dale Carnegie",
+      "path": "/data/2205753_How to Win Friends &amp; Influence People_Dale Carnegie.epub",
+      "size": 349833,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "经管商业类",
+        "沟通表达",
+        "个人成长"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "341.63 KB"
+    },
+    {
       "originalName": "22860677_The Seven Husbands of Evelyn Hugo_Taylor Jenkins Reid.epub",
       "displayName": "The Seven Husbands of Evelyn Hugo_Taylor Jenkins Reid",
       "path": "/data/22860677_The Seven Husbands of Evelyn Hugo_Taylor Jenkins Reid.epub",
@@ -768,7 +839,7 @@
       "tags": [
         "小说",
         "女性文学",
-        "娱乐圈"
+        "女性主义"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -803,8 +874,8 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
-        "奇幻",
-        "西幻"
+        "西幻",
+        "奇幻"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -821,8 +892,8 @@
       "cover": null,
       "tags": [
         "言情情感类",
-        "言情向",
-        "甜宠"
+        "都市言情",
+        "外国文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -867,6 +938,24 @@
       "formattedSize": "2.04 MB"
     },
     {
+      "originalName": "2563156_Meditations_Marcus Aurelius.epub",
+      "displayName": "Meditations_Marcus Aurelius",
+      "path": "/data/2563156_Meditations_Marcus Aurelius.epub",
+      "size": 265357,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "哲学",
+        "外国名著",
+        "哲学随笔"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "259.14 KB"
+    },
+    {
       "originalName": "2639909_Sapiens_Yuval Noah Harari.epub",
       "displayName": "Sapiens_Yuval Noah Harari",
       "path": "/data/2639909_Sapiens_Yuval Noah Harari.epub",
@@ -874,9 +963,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "人类学",
+        "社科历史类",
         "通史",
-        "科普"
+        "思想史"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -892,9 +981,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "外国文学",
-        "当代文学",
-        "女性主义"
+        "小说",
+        "外国名著",
+        "奇幻"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -930,7 +1019,7 @@
       "tags": [
         "言情情感类",
         "灵异",
-        "古言"
+        "重生"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -946,8 +1035,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "外国文学",
-        "当代文学"
+        "小说",
+        "当代文学",
+        "外国文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -981,9 +1071,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "悬疑推理",
         "外国文学",
-        "当代文学"
+        "当代文学",
+        "悬疑惊悚"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1088,9 +1178,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "社科历史类",
-        "大众心理学",
-        "认知心理学"
+        "心理学",
+        "认知心理学",
+        "大众心理学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1106,8 +1196,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
-        "经典文学"
+        "经典名著",
+        "经典文学",
+        "当代文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1160,8 +1251,7 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
-        "奇幻",
-        "西幻"
+        "奇幻"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1178,8 +1268,8 @@
       "cover": null,
       "tags": [
         "外国文学",
-        "外国名著",
-        "经典文学"
+        "经典文学",
+        "外国名著"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1268,8 +1358,8 @@
       "cover": null,
       "tags": [
         "社科历史类",
-        "社会心理学",
-        "大众心理学"
+        "大众心理学",
+        "社会心理学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1285,9 +1375,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
-        "外国名著",
-        "经典文学"
+        "外国文学",
+        "经典文学",
+        "外国名著"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1303,7 +1393,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "传记自传",
+        "自传",
         "女性文学",
         "原生家庭"
       ],
@@ -1393,9 +1483,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "悬疑推理",
+        "悬疑幻想类",
         "悬疑惊悚",
-        "外国文学"
+        "短篇小说集"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1537,7 +1627,6 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
         "外国文学",
         "心灵治愈"
       ],
@@ -1556,8 +1645,8 @@
       "cover": null,
       "tags": [
         "教育学习类",
-        "个人成长",
-        "学习方法"
+        "学习方法",
+        "个人成长"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1591,7 +1680,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "经典名著",
+        "小说",
         "外国名著",
         "经典文学"
       ],
