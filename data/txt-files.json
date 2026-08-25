@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T11:32:57.771Z",
+  "generatedAt": "2026-08-25T07:50:43.929Z",
   "totalFiles": 170,
   "filesWithPdf": 58,
   "epubFiles": 94,
@@ -31,7 +31,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "心理学、大众心理",
+        "成功励志",
         "大众心理学",
         "自我提升"
       ],
@@ -86,8 +86,8 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
-        "恐怖惊悚",
-        "奇幻"
+        "奇幻",
+        "恐怖惊悚"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -105,7 +105,7 @@
       "tags": [
         "悬疑幻想类",
         "科幻",
-        "外国文学"
+        "奇幻"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -139,9 +139,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "悬疑幻想类",
+        "悬疑推理、刑侦犯罪",
         "刑侦",
-        "悬疑推理"
+        "罪案纪实"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -159,7 +159,7 @@
       "tags": [
         "小说",
         "外国文学",
-        "女性文学"
+        "青春文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -193,8 +193,8 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
+        "心理学",
         "心灵治愈",
-        "情绪管理",
         "反内耗"
       ],
       "pdfPath": null,
@@ -248,8 +248,8 @@
       "cover": null,
       "tags": [
         "小说",
-        "当代文学",
-        "短篇小说集"
+        "短篇小说集",
+        "当代文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -338,8 +338,8 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
-        "末世",
-        "大女主"
+        "刑侦",
+        "悬疑推理"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -355,7 +355,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "心理学",
+        "社科历史类",
         "大众心理学",
         "治愈"
       ],
@@ -391,8 +391,9 @@
       "isDuplicate": false,
       "cover": "/data/cover/资本论.jpg",
       "tags": [
-        "经济学",
-        "经典名著"
+        "经管商业类",
+        "经济学入门",
+        "思想史"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -408,9 +409,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "诗歌、诗词",
-        "女性文学",
-        "外国文学"
+        "诗歌诗词",
+        "现代诗",
+        "女性文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -426,7 +427,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
+        "悬疑幻想类",
         "架空历史",
         "权谋"
       ],
@@ -445,8 +446,7 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
-        "悬疑推理",
-        "外国文学"
+        "悬疑惊悚"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -463,8 +463,7 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
-        "奇幻",
-        "言情向"
+        "奇幻"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -499,7 +498,8 @@
       "cover": null,
       "tags": [
         "言情情感类",
-        "言情向"
+        "言情向",
+        "甜宠"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -588,7 +588,7 @@
       "tags": [
         "悬疑幻想类",
         "奇幻",
-        "大男主"
+        "青春文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -676,7 +676,7 @@
       "cover": null,
       "tags": [
         "小说",
-        "外国名著",
+        "外国文学",
         "心灵治愈"
       ],
       "pdfPath": null,
@@ -749,7 +749,7 @@
       "tags": [
         "宗教思想 & 工具书",
         "国学",
-        "古籍解读"
+        "传统文化"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -820,8 +820,8 @@
       "cover": null,
       "tags": [
         "经管商业类",
-        "沟通表达",
-        "个人成长"
+        "个人成长",
+        "沟通表达"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -874,8 +874,8 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
-        "西幻",
-        "奇幻"
+        "奇幻",
+        "西幻"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -892,8 +892,8 @@
       "cover": null,
       "tags": [
         "言情情感类",
-        "都市言情",
-        "外国文学"
+        "言情向",
+        "都市言情"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -928,8 +928,8 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
-        "奇幻",
-        "西幻"
+        "无限流",
+        "奇幻"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -945,9 +945,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "哲学",
-        "外国名著",
-        "哲学随笔"
+        "社科历史类",
+        "哲学随笔",
+        "心灵治愈"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -981,8 +981,8 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
-        "外国名著",
+        "外国文学",
+        "女性主义",
         "奇幻"
       ],
       "pdfPath": null,
@@ -1018,8 +1018,8 @@
       "cover": null,
       "tags": [
         "言情情感类",
-        "灵异",
-        "重生"
+        "古言",
+        "灵异"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1036,8 +1036,8 @@
       "cover": null,
       "tags": [
         "小说",
-        "当代文学",
-        "外国文学"
+        "外国文学",
+        "当代文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1054,8 +1054,7 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
-        "无限流",
-        "爽文"
+        "无限流"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1071,9 +1070,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
+        "小说",
         "外国文学",
-        "当代文学",
-        "悬疑惊悚"
+        "当代文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1178,7 +1177,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "心理学",
+        "心理学、大众心理",
         "认知心理学",
         "大众心理学"
       ],
@@ -1196,9 +1195,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "经典名著",
+        "小说",
         "经典文学",
-        "当代文学"
+        "中国现当代文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1234,7 +1233,7 @@
       "tags": [
         "言情情感类",
         "校园",
-        "甜宠"
+        "言情向"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1251,7 +1250,8 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
-        "奇幻"
+        "奇幻",
+        "西幻"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1267,9 +1267,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "外国文学",
-        "经典文学",
-        "外国名著"
+        "小说",
+        "外国名著",
+        "经典文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1376,8 +1376,7 @@
       "cover": null,
       "tags": [
         "外国文学",
-        "经典文学",
-        "外国名著"
+        "经典名著"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1393,7 +1392,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "自传",
+        "传记自传",
         "女性文学",
         "原生家庭"
       ],
@@ -1429,7 +1428,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
+        "经典名著",
         "外国名著",
         "经典文学"
       ],
@@ -1465,7 +1464,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
+        "外国文学",
         "外国名著",
         "经典文学"
       ],
@@ -1501,9 +1500,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "经典名著",
+        "小说",
         "外国名著",
-        "女性文学"
+        "经典文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1519,7 +1518,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "散文、随笔",
+        "散文随笔",
         "旅行随笔",
         "女性文学"
       ],
@@ -1627,6 +1626,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
+        "小说",
         "外国文学",
         "心灵治愈"
       ],
@@ -1662,7 +1662,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "散文",
+        "散文随笔",
         "当代文学",
         "心灵治愈"
       ],
@@ -1681,8 +1681,8 @@
       "cover": null,
       "tags": [
         "小说",
-        "外国名著",
-        "经典文学"
+        "经典名著",
+        "外国文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
