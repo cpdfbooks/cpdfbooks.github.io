@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-25T07:50:43.929Z",
-  "totalFiles": 170,
+  "generatedAt": "2026-08-25T11:42:49.356Z",
+  "totalFiles": 175,
   "filesWithPdf": 58,
-  "epubFiles": 94,
+  "epubFiles": 99,
   "directory": "/data",
   "type": "txt",
   "files": [
@@ -31,7 +31,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "成功励志",
+        "心理学",
         "大众心理学",
         "自我提升"
       ],
@@ -58,6 +58,42 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "10.73 MB"
+    },
+    {
+      "originalName": "11033967_Dungeon Crawler Carl Book 2_ Carl's Doomsday Scenario_Matt Dinniman.epub",
+      "displayName": "Dungeon Crawler Carl Book 2_ Carl's Doomsday Scenario_Matt Dinniman",
+      "path": "/data/11033967_Dungeon Crawler Carl Book 2_ Carl's Doomsday Scenario_Matt Dinniman.epub",
+      "size": 1327612,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "悬疑幻想类",
+        "末世",
+        "无限流"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.27 MB"
+    },
+    {
+      "originalName": "1130240_Flipped_Wendelin Van Draanen.epub",
+      "displayName": "Flipped_Wendelin Van Draanen",
+      "path": "/data/1130240_Flipped_Wendelin Van Draanen.epub",
+      "size": 265286,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "青少年文学",
+        "外国文学",
+        "青梅竹马"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "259.07 KB"
     },
     {
       "originalName": "11466431_嫌疑人X的献身.epub",
@@ -105,7 +141,7 @@
       "tags": [
         "悬疑幻想类",
         "科幻",
-        "奇幻"
+        "外国文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -123,7 +159,7 @@
       "tags": [
         "小说",
         "当代文学",
-        "经典文学"
+        "先锋文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -139,7 +175,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "悬疑推理、刑侦犯罪",
+        "刑侦犯罪",
         "刑侦",
         "罪案纪实"
       ],
@@ -157,9 +193,8 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
-        "外国文学",
-        "青春文学"
+        "青春文学",
+        "外国文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -247,9 +282,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
-        "短篇小说集",
-        "当代文学"
+        "言情情感类",
+        "都市言情",
+        "甜宠"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -319,7 +354,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
+        "中国现当代文学",
         "经典文学",
         "乡土文学"
       ],
@@ -338,8 +373,8 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
-        "刑侦",
-        "悬疑推理"
+        "末世",
+        "大女主"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -391,9 +426,8 @@
       "isDuplicate": false,
       "cover": "/data/cover/资本论.jpg",
       "tags": [
-        "经管商业类",
-        "经济学入门",
-        "思想史"
+        "经济学",
+        "经典名著"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -409,15 +443,33 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "诗歌诗词",
-        "现代诗",
-        "女性文学"
+        "小说",
+        "女性文学",
+        "大女主"
       ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
       "type": "epub",
       "formattedSize": "560.05 KB"
+    },
+    {
+      "originalName": "124465063_Kin_Tayari Jones.epub",
+      "displayName": "Kin_Tayari Jones",
+      "path": "/data/124465063_Kin_Tayari Jones.epub",
+      "size": 2526484,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "外国文学",
+        "女性文学",
+        "当代文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "2.41 MB"
     },
     {
       "originalName": "125973254_秦二世必须死_马伯庸.epub",
@@ -427,7 +479,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "悬疑幻想类",
+        "小说",
         "架空历史",
         "权谋"
       ],
@@ -446,6 +498,7 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
+        "悬疑推理",
         "悬疑惊悚"
       ],
       "pdfPath": null,
@@ -462,7 +515,8 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "悬疑幻想类",
+        "言情情感类",
+        "言情向",
         "奇幻"
       ],
       "pdfPath": null,
@@ -470,6 +524,24 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "5.34 MB"
+    },
+    {
+      "originalName": "126855769_Cool Machine - A Novel_Colson Whitehead.epub",
+      "displayName": "Cool Machine - A Novel_Colson Whitehead",
+      "path": "/data/126855769_Cool Machine - A Novel_Colson Whitehead.epub",
+      "size": 387211,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "小说",
+        "外国文学",
+        "当代文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "378.14 KB"
     },
     {
       "originalName": "126859873_The Ballad of Falling Dragons_Sarah A. Parker.epub",
@@ -481,7 +553,7 @@
       "tags": [
         "悬疑幻想类",
         "奇幻",
-        "外国文学"
+        "西幻"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -498,14 +570,31 @@
       "cover": null,
       "tags": [
         "言情情感类",
-        "言情向",
-        "甜宠"
+        "言情向"
       ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
       "type": "epub",
       "formattedSize": "8.02 MB"
+    },
+    {
+      "originalName": "127847524_The Someday Garden_Ashley Poston.epub",
+      "displayName": "The Someday Garden_Ashley Poston",
+      "path": "/data/127847524_The Someday Garden_Ashley Poston.epub",
+      "size": 4267029,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "小说",
+        "外国文学",
+        "言情向"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "4.07 MB"
     },
     {
       "originalName": "127850644_AI Agents in Action, Second Edition_ Intelligent workflows with LLMs, MCP, A2A, _Micheal Lanham.epub",
@@ -517,7 +606,7 @@
       "tags": [
         "科技计算机类",
         "AI",
-        "人工智能"
+        "编程"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -588,7 +677,7 @@
       "tags": [
         "悬疑幻想类",
         "奇幻",
-        "青春文学"
+        "大男主"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -659,7 +748,7 @@
       "tags": [
         "社科历史类",
         "大众心理学",
-        "心灵治愈"
+        "治愈"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -676,7 +765,7 @@
       "cover": null,
       "tags": [
         "小说",
-        "外国文学",
+        "外国名著",
         "心灵治愈"
       ],
       "pdfPath": null,
@@ -730,8 +819,8 @@
       "cover": null,
       "tags": [
         "小说",
-        "经典文学",
-        "外国名著"
+        "外国名著",
+        "经典文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -749,7 +838,7 @@
       "tags": [
         "宗教思想 & 工具书",
         "国学",
-        "传统文化"
+        "古籍解读"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -820,8 +909,8 @@
       "cover": null,
       "tags": [
         "经管商业类",
-        "个人成长",
-        "沟通表达"
+        "沟通表达",
+        "个人成长"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -839,7 +928,7 @@
       "tags": [
         "小说",
         "女性文学",
-        "女性主义"
+        "娱乐圈"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -892,7 +981,6 @@
       "cover": null,
       "tags": [
         "言情情感类",
-        "言情向",
         "都市言情"
       ],
       "pdfPath": null,
@@ -928,7 +1016,7 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
-        "无限流",
+        "西幻",
         "奇幻"
       ],
       "pdfPath": null,
@@ -945,9 +1033,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "社科历史类",
-        "哲学随笔",
-        "心灵治愈"
+        "哲学",
+        "外国名著",
+        "哲学随笔"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -964,8 +1052,8 @@
       "cover": null,
       "tags": [
         "社科历史类",
-        "通史",
-        "思想史"
+        "科普",
+        "通史"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -981,9 +1069,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "外国文学",
-        "女性主义",
-        "奇幻"
+        "悬疑幻想类",
+        "奇幻",
+        "外国文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -999,7 +1087,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "经典名著",
+        "小说",
         "经典文学",
         "国学"
       ],
@@ -1018,8 +1106,8 @@
       "cover": null,
       "tags": [
         "言情情感类",
-        "古言",
-        "灵异"
+        "灵异",
+        "古言"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1036,8 +1124,8 @@
       "cover": null,
       "tags": [
         "小说",
-        "外国文学",
-        "当代文学"
+        "当代文学",
+        "外国文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1054,7 +1142,8 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
-        "无限流"
+        "无限流",
+        "爽文"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1072,7 +1161,7 @@
       "tags": [
         "小说",
         "外国文学",
-        "当代文学"
+        "悬疑惊悚"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1089,7 +1178,7 @@
       "cover": null,
       "tags": [
         "小说",
-        "外国名著",
+        "外国文学",
         "心灵治愈"
       ],
       "pdfPath": null,
@@ -1177,7 +1266,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "心理学、大众心理",
+        "社科历史类",
         "认知心理学",
         "大众心理学"
       ],
@@ -1233,7 +1322,7 @@
       "tags": [
         "言情情感类",
         "校园",
-        "言情向"
+        "甜宠"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1251,7 +1340,7 @@
       "tags": [
         "悬疑幻想类",
         "奇幻",
-        "西幻"
+        "外国文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1358,8 +1447,8 @@
       "cover": null,
       "tags": [
         "社科历史类",
-        "大众心理学",
-        "社会心理学"
+        "社会心理学",
+        "大众心理学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1375,8 +1464,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "外国文学",
-        "经典名著"
+        "小说",
+        "外国名著",
+        "经典文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1392,9 +1482,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "传记自传",
-        "女性文学",
-        "原生家庭"
+        "传记、自传",
+        "人物传记",
+        "女性文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1428,7 +1518,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "经典名著",
+        "小说",
         "外国名著",
         "经典文学"
       ],
@@ -1464,7 +1554,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "外国文学",
+        "小说",
         "外国名著",
         "经典文学"
       ],
@@ -1484,7 +1574,7 @@
       "tags": [
         "悬疑幻想类",
         "悬疑惊悚",
-        "短篇小说集"
+        "反转"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1502,7 +1592,7 @@
       "tags": [
         "小说",
         "外国名著",
-        "经典文学"
+        "女性文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1518,7 +1608,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "散文随笔",
+        "散文、随笔",
         "旅行随笔",
         "女性文学"
       ],
@@ -1627,7 +1717,7 @@
       "cover": null,
       "tags": [
         "小说",
-        "外国文学",
+        "外国名著",
         "心灵治愈"
       ],
       "pdfPath": null,
@@ -1662,7 +1752,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "散文随笔",
+        "散文",
         "当代文学",
         "心灵治愈"
       ],
@@ -1681,8 +1771,8 @@
       "cover": null,
       "tags": [
         "小说",
-        "经典名著",
-        "外国文学"
+        "外国名著",
+        "经典文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
