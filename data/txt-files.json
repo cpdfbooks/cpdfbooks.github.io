@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-08-25T11:42:49.356Z",
-  "totalFiles": 175,
+  "generatedAt": "2026-08-28T11:39:24.383Z",
+  "totalFiles": 179,
   "filesWithPdf": 58,
-  "epubFiles": 99,
+  "epubFiles": 103,
   "directory": "/data",
   "type": "txt",
   "files": [
+    {
+      "originalName": "1053892_Stoner_John Williams.epub",
+      "displayName": "Stoner_John Williams",
+      "path": "/data/1053892_Stoner_John Williams.epub",
+      "size": 696180,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "小说",
+        "外国名著",
+        "经典文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "679.86 KB"
+    },
     {
       "originalName": "10996572_主角.epub",
       "displayName": "主角",
@@ -33,7 +51,7 @@
       "tags": [
         "心理学",
         "大众心理学",
-        "自我提升"
+        "成功励志"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -86,8 +104,8 @@
       "cover": null,
       "tags": [
         "青少年文学",
-        "外国文学",
-        "青梅竹马"
+        "外国名著",
+        "校园"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -122,8 +140,8 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
-        "奇幻",
-        "恐怖惊悚"
+        "恐怖惊悚",
+        "奇幻"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -141,7 +159,7 @@
       "tags": [
         "悬疑幻想类",
         "科幻",
-        "外国文学"
+        "外国名著"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -159,7 +177,7 @@
       "tags": [
         "小说",
         "当代文学",
-        "先锋文学"
+        "经典文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -175,7 +193,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "刑侦犯罪",
+        "悬疑推理、刑侦犯罪",
         "刑侦",
         "罪案纪实"
       ],
@@ -193,8 +211,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "青春文学",
-        "外国文学"
+        "小说",
+        "外国文学",
+        "女性文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -228,9 +247,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "心理学",
-        "心灵治愈",
-        "反内耗"
+        "心理学、大众心理",
+        "情绪管理",
+        "心灵治愈"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -282,9 +301,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "言情情感类",
-        "都市言情",
-        "甜宠"
+        "小说",
+        "当代文学",
+        "短篇小说集"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -319,8 +338,8 @@
       "cover": null,
       "tags": [
         "悬疑推理",
-        "本格推理",
-        "外国名著"
+        "外国名著",
+        "本格推理"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -354,7 +373,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "中国现当代文学",
+        "小说",
         "经典文学",
         "乡土文学"
       ],
@@ -373,8 +392,7 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
-        "末世",
-        "大女主"
+        "末世"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -427,7 +445,8 @@
       "cover": "/data/cover/资本论.jpg",
       "tags": [
         "经济学",
-        "经典名著"
+        "经典名著",
+        "思想史"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -444,8 +463,8 @@
       "cover": null,
       "tags": [
         "小说",
-        "女性文学",
-        "大女主"
+        "大女主",
+        "女性文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -462,8 +481,7 @@
       "cover": null,
       "tags": [
         "外国文学",
-        "女性文学",
-        "当代文学"
+        "女性文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -498,8 +516,8 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
-        "悬疑推理",
-        "悬疑惊悚"
+        "悬疑惊悚",
+        "外国文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -515,8 +533,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "言情情感类",
-        "言情向",
+        "悬疑幻想类",
         "奇幻"
       ],
       "pdfPath": null,
@@ -553,7 +570,7 @@
       "tags": [
         "悬疑幻想类",
         "奇幻",
-        "西幻"
+        "外国文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -570,7 +587,8 @@
       "cover": null,
       "tags": [
         "言情情感类",
-        "言情向"
+        "言情向",
+        "甜宠"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -588,7 +606,7 @@
       "tags": [
         "小说",
         "外国文学",
-        "言情向"
+        "青春文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -606,7 +624,7 @@
       "tags": [
         "科技计算机类",
         "AI",
-        "编程"
+        "人工智能"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -748,7 +766,7 @@
       "tags": [
         "社科历史类",
         "大众心理学",
-        "治愈"
+        "心灵治愈"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -765,7 +783,7 @@
       "cover": null,
       "tags": [
         "小说",
-        "外国名著",
+        "外国文学",
         "心灵治愈"
       ],
       "pdfPath": null,
@@ -818,7 +836,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
+        "经典名著",
         "外国名著",
         "经典文学"
       ],
@@ -854,9 +872,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
-        "外国名著",
-        "经典文学"
+        "外国文学",
+        "经典文学",
+        "外国名著"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -872,9 +890,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
-        "外国名著",
-        "经典文学"
+        "外国文学",
+        "经典文学",
+        "外国名著"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -928,7 +946,7 @@
       "tags": [
         "小说",
         "女性文学",
-        "娱乐圈"
+        "女性成长"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1016,7 +1034,7 @@
       "cover": null,
       "tags": [
         "悬疑幻想类",
-        "西幻",
+        "无限流",
         "奇幻"
       ],
       "pdfPath": null,
@@ -1052,8 +1070,8 @@
       "cover": null,
       "tags": [
         "社科历史类",
-        "科普",
-        "通史"
+        "通史",
+        "科普"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1069,15 +1087,33 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "悬疑幻想类",
-        "奇幻",
-        "外国文学"
+        "外国文学",
+        "当代文学",
+        "女性主义"
       ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
       "type": "epub",
       "formattedSize": "5.4 MB"
+    },
+    {
+      "originalName": "27429887_When the Moon Hatched (The Moonfall Series, Book 1)_Sarah A. Parker.epub",
+      "displayName": "When the Moon Hatched (The Moonfall Series, Book 1)_Sarah A. Parker",
+      "path": "/data/27429887_When the Moon Hatched (The Moonfall Series, Book 1)_Sarah A. Parker.epub",
+      "size": 19984032,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "悬疑幻想类",
+        "奇幻",
+        "西幻"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "19.06 MB"
     },
     {
       "originalName": "27493586_红楼梦_曹雪芹 &amp; 无名氏 &amp; 程伟元 &amp; 高鹗 &amp; 中国艺术研究院红楼梦研究所.epub",
@@ -1087,9 +1123,9 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
+        "经典名著",
         "经典文学",
-        "国学"
+        "传统文化"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1106,8 +1142,8 @@
       "cover": null,
       "tags": [
         "言情情感类",
-        "灵异",
-        "古言"
+        "古言",
+        "灵异"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1124,8 +1160,8 @@
       "cover": null,
       "tags": [
         "小说",
-        "当代文学",
-        "外国文学"
+        "外国文学",
+        "当代文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1159,7 +1195,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
+        "悬疑推理",
         "外国文学",
         "悬疑惊悚"
       ],
@@ -1178,7 +1214,7 @@
       "cover": null,
       "tags": [
         "小说",
-        "外国文学",
+        "外国名著",
         "心灵治愈"
       ],
       "pdfPath": null,
@@ -1267,8 +1303,8 @@
       "cover": null,
       "tags": [
         "社科历史类",
-        "认知心理学",
-        "大众心理学"
+        "大众心理学",
+        "认知心理学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1284,9 +1320,8 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
-        "经典文学",
-        "中国现当代文学"
+        "经典名著",
+        "经典文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1340,7 +1375,7 @@
       "tags": [
         "悬疑幻想类",
         "奇幻",
-        "外国文学"
+        "西幻"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1447,8 +1482,8 @@
       "cover": null,
       "tags": [
         "社科历史类",
-        "社会心理学",
-        "大众心理学"
+        "大众心理学",
+        "社会心理学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1464,7 +1499,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
+        "文学类",
         "外国名著",
         "经典文学"
       ],
@@ -1483,8 +1518,8 @@
       "cover": null,
       "tags": [
         "传记、自传",
-        "人物传记",
-        "女性文学"
+        "女性文学",
+        "原生家庭"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1574,7 +1609,7 @@
       "tags": [
         "悬疑幻想类",
         "悬疑惊悚",
-        "反转"
+        "外国文学"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1590,8 +1625,8 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "小说",
-        "外国名著",
+        "外国文学",
+        "经典名著",
         "女性文学"
       ],
       "pdfPath": null,
@@ -1681,8 +1716,8 @@
       "cover": null,
       "tags": [
         "社科历史类",
-        "思想史",
-        "近代史"
+        "近代史",
+        "思想史"
       ],
       "pdfPath": null,
       "hasPdf": false,
@@ -1717,7 +1752,7 @@
       "cover": null,
       "tags": [
         "小说",
-        "外国名著",
+        "外国文学",
         "心灵治愈"
       ],
       "pdfPath": null,
@@ -1752,7 +1787,7 @@
       "isDuplicate": false,
       "cover": null,
       "tags": [
-        "散文",
+        "散文、随笔",
         "当代文学",
         "心灵治愈"
       ],
@@ -1779,6 +1814,42 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "1.28 MB"
+    },
+    {
+      "originalName": "875876_Flowers for Algernon_Daniel Keyes.epub",
+      "displayName": "Flowers for Algernon_Daniel Keyes",
+      "path": "/data/875876_Flowers for Algernon_Daniel Keyes.epub",
+      "size": 199723,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "小说",
+        "外国名著",
+        "经典文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "195.04 KB"
+    },
+    {
+      "originalName": "88580429_AI Engineering_ Building Applications with Foundation Models_Chip Huyen.epub",
+      "displayName": "AI Engineering_ Building Applications with Foundation Models_Chip Huyen",
+      "path": "/data/88580429_AI Engineering_ Building Applications with Foundation Models_Chip Huyen.epub",
+      "size": 30723680,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "科技计算机类",
+        "AI",
+        "编程"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "29.3 MB"
     },
     {
       "originalName": "1186929-狂热分子：群众运动圣经【小力盘www.xiaolipan.com】.txt",
