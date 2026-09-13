@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-28T11:39:24.383Z",
-  "totalFiles": 179,
+  "generatedAt": "2026-09-13T11:10:15.129Z",
+  "totalFiles": 202,
   "filesWithPdf": 58,
-  "epubFiles": 103,
+  "epubFiles": 126,
   "directory": "/data",
   "type": "txt",
   "files": [
@@ -13,11 +13,7 @@
       "size": 696180,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "小说",
-        "外国名著",
-        "经典文学"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -48,11 +44,7 @@
       "size": 462335,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "心理学",
-        "大众心理学",
-        "成功励志"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -84,11 +76,7 @@
       "size": 1327612,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "悬疑幻想类",
-        "末世",
-        "无限流"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -102,11 +90,7 @@
       "size": 265286,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "青少年文学",
-        "外国名著",
-        "校园"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -132,17 +116,27 @@
       "formattedSize": "410.01 KB"
     },
     {
+      "originalName": "115649432_Deep End_Ali Hazelwood.epub",
+      "displayName": "Deep End_Ali Hazelwood",
+      "path": "/data/115649432_Deep End_Ali Hazelwood.epub",
+      "size": 2240552,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "2.14 MB"
+    },
+    {
       "originalName": "116155448_Between Two Fires_Christopher Buehlman.epub",
       "displayName": "Between Two Fires_Christopher Buehlman",
       "path": "/data/116155448_Between Two Fires_Christopher Buehlman.epub",
       "size": 716602,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "悬疑幻想类",
-        "恐怖惊悚",
-        "奇幻"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -156,16 +150,26 @@
       "size": 5749049,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "悬疑幻想类",
-        "科幻",
-        "外国名著"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
       "type": "epub",
       "formattedSize": "5.48 MB"
+    },
+    {
+      "originalName": "116676919_The Psychology of Money_ Timeless Lessons on Wealth, Greed, and Happiness_Morgan Housel.epub",
+      "displayName": "The Psychology of Money_ Timeless Lessons on Wealth, Greed, and Happiness_Morgan Housel",
+      "path": "/data/116676919_The Psychology of Money_ Timeless Lessons on Wealth, Greed, and Happiness_Morgan Housel.epub",
+      "size": 2317937,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "2.21 MB"
     },
     {
       "originalName": "11675546_第七天_余华.epub",
@@ -174,11 +178,7 @@
       "size": 1350852,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "小说",
-        "当代文学",
-        "经典文学"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -192,11 +192,7 @@
       "size": 6132140,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "悬疑推理、刑侦犯罪",
-        "刑侦",
-        "罪案纪实"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -210,11 +206,7 @@
       "size": 4368307,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "小说",
-        "外国文学",
-        "女性文学"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -228,11 +220,7 @@
       "size": 1071232,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "小说",
-        "外国文学",
-        "心灵治愈"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -246,11 +234,7 @@
       "size": 288448,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "心理学、大众心理",
-        "情绪管理",
-        "心灵治愈"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -264,11 +248,7 @@
       "size": 3495676,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "经管商业类",
-        "个人成长",
-        "高效自律"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -282,11 +262,7 @@
       "size": 4922665,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "悬疑幻想类",
-        "奇幻",
-        "西幻"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -300,11 +276,7 @@
       "size": 1264307,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "小说",
-        "当代文学",
-        "短篇小说集"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -336,11 +308,7 @@
       "size": 774765,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "悬疑推理",
-        "外国名著",
-        "本格推理"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -372,11 +340,7 @@
       "size": 821547,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "小说",
-        "经典文学",
-        "乡土文学"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -390,10 +354,7 @@
       "size": 1059232,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "悬疑幻想类",
-        "末世"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -407,11 +368,7 @@
       "size": 3290442,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "社科历史类",
-        "大众心理学",
-        "治愈"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -443,11 +400,7 @@
       "size": 8152292,
       "isDuplicate": false,
       "cover": "/data/cover/资本论.jpg",
-      "tags": [
-        "经济学",
-        "经典名著",
-        "思想史"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -461,11 +414,7 @@
       "size": 573487,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "小说",
-        "大女主",
-        "女性文学"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -479,10 +428,7 @@
       "size": 2526484,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "外国文学",
-        "女性文学"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -496,16 +442,26 @@
       "size": 778065,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "小说",
-        "架空历史",
-        "权谋"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
       "type": "epub",
       "formattedSize": "759.83 KB"
+    },
+    {
+      "originalName": "125997889_King of Gluttony_Ana Huang.epub",
+      "displayName": "King of Gluttony_Ana Huang",
+      "path": "/data/125997889_King of Gluttony_Ana Huang.epub",
+      "size": 2962443,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "2.83 MB"
     },
     {
       "originalName": "126164076_Midnight Message_Avina St. Graves.epub",
@@ -514,11 +470,7 @@
       "size": 3407545,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "悬疑幻想类",
-        "悬疑惊悚",
-        "外国文学"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -532,10 +484,7 @@
       "size": 5599156,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "悬疑幻想类",
-        "奇幻"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -549,11 +498,7 @@
       "size": 387211,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "小说",
-        "外国文学",
-        "当代文学"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -567,11 +512,7 @@
       "size": 7312711,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "悬疑幻想类",
-        "奇幻",
-        "外国文学"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -585,11 +526,7 @@
       "size": 8410408,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "言情情感类",
-        "言情向",
-        "甜宠"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -603,11 +540,7 @@
       "size": 4267029,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "小说",
-        "外国文学",
-        "青春文学"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -621,11 +554,7 @@
       "size": 10171062,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "科技计算机类",
-        "AI",
-        "人工智能"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -639,10 +568,7 @@
       "size": 425005,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "小说",
-        "外国文学"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -686,17 +612,41 @@
       "formattedSize": "1.11 MB"
     },
     {
+      "originalName": "15887928_Games People Play - The Basic Handbook of Transactional Analysis_Eric Berne.epub",
+      "displayName": "Games People Play - The Basic Handbook of Transactional Analysis_Eric Berne",
+      "path": "/data/15887928_Games People Play - The Basic Handbook of Transactional Analysis_Eric Berne.epub",
+      "size": 325133,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "317.51 KB"
+    },
+    {
+      "originalName": "1621384_The Old Man and the Sea_Ernest Hemingway.epub",
+      "displayName": "The Old Man and the Sea_Ernest Hemingway",
+      "path": "/data/1621384_The Old Man and the Sea_Ernest Hemingway.epub",
+      "size": 1050654,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1 MB"
+    },
+    {
       "originalName": "16740993_龙族全套 共七册（龙族Ⅰ-龙族Ⅳ 龙族前传）.epub",
       "displayName": "龙族全套 共七册（龙族Ⅰ-龙族Ⅳ 龙族前传）",
       "path": "/data/16740993_龙族全套 共七册（龙族Ⅰ-龙族Ⅳ 龙族前传）.epub",
       "size": 5340998,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "悬疑幻想类",
-        "奇幻",
-        "大男主"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -763,11 +713,7 @@
       "size": 900128,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "社科历史类",
-        "大众心理学",
-        "心灵治愈"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -781,11 +727,7 @@
       "size": 433898,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "小说",
-        "外国文学",
-        "心灵治愈"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -809,6 +751,20 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "429.3 KB"
+    },
+    {
+      "originalName": "17869390_$100M Offers_ How To Make Offers So Good People Feel Stupid Saying No_Alex Hormozi.epub",
+      "displayName": "$100M Offers_ How To Make Offers So Good People Feel Stupid Saying No_Alex Hormozi",
+      "path": "/data/17869390_$100M Offers_ How To Make Offers So Good People Feel Stupid Saying No_Alex Hormozi.epub",
+      "size": 1223766,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.17 MB"
     },
     {
       "originalName": "18009325_挽救计划 = Project Hail Mary_ A Novel.epub",
@@ -835,11 +791,7 @@
       "size": 281673,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "经典名著",
-        "外国名著",
-        "经典文学"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -853,11 +805,7 @@
       "size": 1188122,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "宗教思想 & 工具书",
-        "国学",
-        "古籍解读"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -871,11 +819,7 @@
       "size": 638419,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "外国文学",
-        "经典文学",
-        "外国名著"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -889,11 +833,7 @@
       "size": 114348,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "外国文学",
-        "经典文学",
-        "外国名著"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -925,11 +865,7 @@
       "size": 349833,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "经管商业类",
-        "沟通表达",
-        "个人成长"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -943,11 +879,7 @@
       "size": 914057,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "小说",
-        "女性文学",
-        "女性成长"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -979,11 +911,7 @@
       "size": 592929,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "悬疑幻想类",
-        "奇幻",
-        "西幻"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -997,10 +925,7 @@
       "size": 1367654,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "言情情感类",
-        "都市言情"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -1026,22 +951,74 @@
       "formattedSize": "2.81 MB"
     },
     {
+      "originalName": "24923650_Tomorrow, and Tomorrow, and Tomorrow_ A Novel_Gabrielle Zevin.epub",
+      "displayName": "Tomorrow, and Tomorrow, and Tomorrow_ A Novel_Gabrielle Zevin",
+      "path": "/data/24923650_Tomorrow, and Tomorrow, and Tomorrow_ A Novel_Gabrielle Zevin.epub",
+      "size": 2774767,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "2.65 MB"
+    },
+    {
+      "originalName": "24924129_Iron Gold_Pierce Brown.epub",
+      "displayName": "Iron Gold_Pierce Brown",
+      "path": "/data/24924129_Iron Gold_Pierce Brown.epub",
+      "size": 4203739,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "4.01 MB"
+    },
+    {
+      "originalName": "25221694_Nocticadia_Keri Lake.epub",
+      "displayName": "Nocticadia_Keri Lake",
+      "path": "/data/25221694_Nocticadia_Keri Lake.epub",
+      "size": 4737993,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "4.52 MB"
+    },
+    {
       "originalName": "25344064_The Eye of the Bedlam Bride_Matt Dinniman.epub",
       "displayName": "The Eye of the Bedlam Bride_Matt Dinniman",
       "path": "/data/25344064_The Eye of the Bedlam Bride_Matt Dinniman.epub",
       "size": 2134342,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "悬疑幻想类",
-        "无限流",
-        "奇幻"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
       "type": "epub",
       "formattedSize": "2.04 MB"
+    },
+    {
+      "originalName": "25357255_Days at the Morisaki Bookshop_Satoshi Yagisawa, Eric Ozawa (translation).epub",
+      "displayName": "Days at the Morisaki Bookshop_Satoshi Yagisawa, Eric Ozawa (translation)",
+      "path": "/data/25357255_Days at the Morisaki Bookshop_Satoshi Yagisawa, Eric Ozawa (translation).epub",
+      "size": 605540,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "591.35 KB"
     },
     {
       "originalName": "2563156_Meditations_Marcus Aurelius.epub",
@@ -1050,16 +1027,26 @@
       "size": 265357,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "哲学",
-        "外国名著",
-        "哲学随笔"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
       "type": "epub",
       "formattedSize": "259.14 KB"
+    },
+    {
+      "originalName": "26047162_The Will of the Many (Hierarchy Book 1)_James Islington.epub",
+      "displayName": "The Will of the Many (Hierarchy Book 1)_James Islington",
+      "path": "/data/26047162_The Will of the Many (Hierarchy Book 1)_James Islington.epub",
+      "size": 3046164,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "2.91 MB"
     },
     {
       "originalName": "2639909_Sapiens_Yuval Noah Harari.epub",
@@ -1068,11 +1055,7 @@
       "size": 14134137,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "社科历史类",
-        "通史",
-        "科普"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -1086,11 +1069,7 @@
       "size": 5661510,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "外国文学",
-        "当代文学",
-        "女性主义"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -1104,11 +1083,7 @@
       "size": 19984032,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "悬疑幻想类",
-        "奇幻",
-        "西幻"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -1122,11 +1097,7 @@
       "size": 2727724,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "经典名著",
-        "经典文学",
-        "传统文化"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -1140,16 +1111,26 @@
       "size": 1665932,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "言情情感类",
-        "古言",
-        "灵异"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
       "type": "epub",
       "formattedSize": "1.59 MB"
+    },
+    {
+      "originalName": "27705593_Bride_Ali Hazelwood.epub",
+      "displayName": "Bride_Ali Hazelwood",
+      "path": "/data/27705593_Bride_Ali Hazelwood.epub",
+      "size": 1489274,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.42 MB"
     },
     {
       "originalName": "28893227_Martyr!_Kaveh Akbar.epub",
@@ -1158,11 +1139,7 @@
       "size": 5767546,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "小说",
-        "外国文学",
-        "当代文学"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -1176,11 +1153,7 @@
       "size": 1415644,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "悬疑幻想类",
-        "无限流",
-        "爽文"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -1194,16 +1167,26 @@
       "size": 824869,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "悬疑推理",
-        "外国文学",
-        "悬疑惊悚"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
       "type": "epub",
       "formattedSize": "805.54 KB"
+    },
+    {
+      "originalName": "29313755_Blood Over Bright Haven_M. L. Wang.epub",
+      "displayName": "Blood Over Bright Haven_M. L. Wang",
+      "path": "/data/29313755_Blood Over Bright Haven_M. L. Wang.epub",
+      "size": 2916349,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "2.78 MB"
     },
     {
       "originalName": "29417352_A Little Life_Hanya Yanagihara.epub",
@@ -1212,16 +1195,54 @@
       "size": 2563042,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "小说",
-        "外国名著",
-        "心灵治愈"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
       "type": "epub",
       "formattedSize": "2.44 MB"
+    },
+    {
+      "originalName": "29585511_I Who Have Never Known Men_Jacqueline Harpman, Ros Schwartz (translator), Sophie Mackintosh (introduction).epub",
+      "displayName": "I Who Have Never Known Men_Jacqueline Harpman, Ros Schwartz (translator), Sophie Mackintosh (introduction)",
+      "path": "/data/29585511_I Who Have Never Known Men_Jacqueline Harpman, Ros Schwartz (translator), Sophie Mackintosh (introduction).epub",
+      "size": 1355667,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.29 MB"
+    },
+    {
+      "originalName": "30779202_The Seven Year Slip_Ashley Poston.epub",
+      "displayName": "The Seven Year Slip_Ashley Poston",
+      "path": "/data/30779202_The Seven Year Slip_Ashley Poston.epub",
+      "size": 1975928,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.88 MB"
+    },
+    {
+      "originalName": "3486900_Mythos_ The Greek Myths Retold_Stephen Fry.epub",
+      "displayName": "Mythos_ The Greek Myths Retold_Stephen Fry",
+      "path": "/data/3486900_Mythos_ The Greek Myths Retold_Stephen Fry.epub",
+      "size": 16970390,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "16.18 MB"
     },
     {
       "originalName": "3644725_明朝那些事儿.epub",
@@ -1248,11 +1269,7 @@
       "size": 363542,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "经管商业类",
-        "个人成长",
-        "自我提升"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -1283,11 +1300,7 @@
       "size": 3528889,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "经管商业类",
-        "价值投资",
-        "个人成长"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -1301,11 +1314,7 @@
       "size": 844340,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "社科历史类",
-        "大众心理学",
-        "认知心理学"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -1319,15 +1328,54 @@
       "size": 1268115,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "经典名著",
-        "经典文学"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
       "type": "epub",
       "formattedSize": "1.21 MB"
+    },
+    {
+      "originalName": "4200131_The Giver_Lowry Lois.epub",
+      "displayName": "The Giver_Lowry Lois",
+      "path": "/data/4200131_The Giver_Lowry Lois.epub",
+      "size": 419296,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "409.47 KB"
+    },
+    {
+      "originalName": "4383395_The Kite Runner_Khaled Hosseini.epub",
+      "displayName": "The Kite Runner_Khaled Hosseini",
+      "path": "/data/4383395_The Kite Runner_Khaled Hosseini.epub",
+      "size": 540639,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "527.97 KB"
+    },
+    {
+      "originalName": "4419665_The Hobbit_Tolkien, J R R.epub",
+      "displayName": "The Hobbit_Tolkien, J R R",
+      "path": "/data/4419665_The Hobbit_Tolkien, J R R.epub",
+      "size": 5325231,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "5.08 MB"
     },
     {
       "originalName": "44907036_Taiwan Travelogue_Yáng Shuāng-zǐ, Lin King (translator).epub",
@@ -1336,11 +1384,7 @@
       "size": 6044681,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "旅行游记",
-        "旅行随笔",
-        "地域风物"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -1354,11 +1398,7 @@
       "size": 1153651,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "言情情感类",
-        "校园",
-        "甜宠"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -1372,11 +1412,7 @@
       "size": 2186673,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "悬疑幻想类",
-        "奇幻",
-        "西幻"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -1390,16 +1426,54 @@
       "size": 1332841,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "小说",
-        "外国名著",
-        "经典文学"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
       "type": "epub",
       "formattedSize": "1.27 MB"
+    },
+    {
+      "originalName": "4991812_Think and Grow Rich_Napoleon Hill.epub",
+      "displayName": "Think and Grow Rich_Napoleon Hill",
+      "path": "/data/4991812_Think and Grow Rich_Napoleon Hill.epub",
+      "size": 655408,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "640.05 KB"
+    },
+    {
+      "originalName": "5030222_Everything I Know About Love_Dolly Alderton.epub",
+      "displayName": "Everything I Know About Love_Dolly Alderton",
+      "path": "/data/5030222_Everything I Know About Love_Dolly Alderton.epub",
+      "size": 1296314,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.24 MB"
+    },
+    {
+      "originalName": "5151566_Animal Farm_George Orwell.epub",
+      "displayName": "Animal Farm_George Orwell",
+      "path": "/data/5151566_Animal Farm_George Orwell.epub",
+      "size": 119097,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "116.31 KB"
     },
     {
       "originalName": "5285211_你当像鸟飞往你的山.epub",
@@ -1426,11 +1500,7 @@
       "size": 516449,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "哲学",
-        "外国名著",
-        "经典文学"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -1462,11 +1532,7 @@
       "size": 665116,
       "isDuplicate": false,
       "cover": "/data/cover/中国历代政治得失.jpg",
-      "tags": [
-        "社科历史类",
-        "古代史",
-        "国学"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -1480,11 +1546,7 @@
       "size": 3730437,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "社科历史类",
-        "大众心理学",
-        "社会心理学"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -1498,11 +1560,7 @@
       "size": 1660083,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "文学类",
-        "外国名著",
-        "经典文学"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -1516,11 +1574,7 @@
       "size": 411630,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "传记、自传",
-        "女性文学",
-        "原生家庭"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -1534,11 +1588,7 @@
       "size": 403422,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "小说",
-        "当代文学",
-        "心灵治愈"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -1552,11 +1602,7 @@
       "size": 356837,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "小说",
-        "外国名著",
-        "经典文学"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -1588,11 +1634,7 @@
       "size": 4914507,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "小说",
-        "外国名著",
-        "经典文学"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -1606,11 +1648,7 @@
       "size": 396430,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "悬疑幻想类",
-        "悬疑惊悚",
-        "外国文学"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -1624,11 +1662,7 @@
       "size": 5697840,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "外国文学",
-        "经典名著",
-        "女性文学"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -1642,11 +1676,7 @@
       "size": 708201,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "散文、随笔",
-        "旅行随笔",
-        "女性文学"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -1696,11 +1726,7 @@
       "size": 189626,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "悬疑推理",
-        "社会派",
-        "反转"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -1714,16 +1740,26 @@
       "size": 1451958,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "社科历史类",
-        "近代史",
-        "思想史"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
       "type": "epub",
       "formattedSize": "1.38 MB"
+    },
+    {
+      "originalName": "5765217_The Personal MBA_Josh Kaufman.epub",
+      "displayName": "The Personal MBA_Josh Kaufman",
+      "path": "/data/5765217_The Personal MBA_Josh Kaufman.epub",
+      "size": 1081381,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.03 MB"
     },
     {
       "originalName": "6070294_蛤蟆先生去看心理医生 = Counselling For Toads_ A Psychological Adventure.epub",
@@ -1750,11 +1786,7 @@
       "size": 791851,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "小说",
-        "外国文学",
-        "心灵治愈"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -1768,11 +1800,7 @@
       "size": 6815656,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "教育学习类",
-        "学习方法",
-        "个人成长"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -1786,11 +1814,7 @@
       "size": 4284651,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "散文、随笔",
-        "当代文学",
-        "心灵治愈"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -1804,11 +1828,7 @@
       "size": 1344876,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "小说",
-        "外国名著",
-        "经典文学"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -1822,11 +1842,7 @@
       "size": 199723,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "小说",
-        "外国名著",
-        "经典文学"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -1840,11 +1856,7 @@
       "size": 30723680,
       "isDuplicate": false,
       "cover": null,
-      "tags": [
-        "科技计算机类",
-        "AI",
-        "编程"
-      ],
+      "tags": [],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
