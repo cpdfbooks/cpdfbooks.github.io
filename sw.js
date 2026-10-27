@@ -1,15 +1,13 @@
 // Service Worker for Steam Price Monitor
-const CACHE_NAME = 'pdfbooks-cache-v7';
+const CACHE_NAME = 'pdfbooks-cache-v8';
 const OFFLINE_URL = '/offline.html';
 
 // 需要缓存的资源
 // 缓存lib/foliate-js
 const CACHE_URLS = [
   '/',
-  '/lib/foliate-js',
-    '/data',
   '/index.html',
-    '/offline.html'
+  '/offline.html'
 ];
 
 // 安装事件
@@ -59,8 +57,22 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
-  // 对于pdf请求，使用网络优先策略
-  if (event.request.url.includes('txt')||event.request.url.includes('epub')|| event.request.url.includes('pdfbooks.youseeyou1daydayde.uk/')) {
+  // 阅读页 /epub/、/txt/ 在静态托管上没有对应文件，导航失败时回退到 SPA
+  if (event.request.mode === 'navigate') {
+    event.respondWith(
+      fetch(event.request)
+        .then((response) => (response.ok ? response : caches.match('/index.html')))
+        .catch(() => caches.match('/index.html'))
+    );
+    return;
+  }
+
+  const requestUrl = new URL(event.request.url);
+  const isBookFile = requestUrl.pathname.startsWith('/data/')
+    && /\.(txt|epub|pdf)$/i.test(requestUrl.pathname);
+
+  // 对于书籍文件，使用网络优先策略
+  if (isBookFile) {
     event.respondWith(
       fetch(event.request)
         .then((response) => {

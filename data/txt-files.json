@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-13T11:10:15.129Z",
-  "totalFiles": 202,
+  "generatedAt": "2026-10-27T06:02:43.900Z",
+  "totalFiles": 219,
   "filesWithPdf": 58,
-  "epubFiles": 126,
+  "epubFiles": 143,
   "directory": "/data",
   "type": "txt",
   "files": [
@@ -214,6 +214,20 @@
       "formattedSize": "4.17 MB"
     },
     {
+      "originalName": "117470744_One Golden Summer_Carley Fortune.epub",
+      "displayName": "One Golden Summer_Carley Fortune",
+      "path": "/data/117470744_One Golden Summer_Carley Fortune.epub",
+      "size": 2365977,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "2.26 MB"
+    },
+    {
       "originalName": "117471080_My Friends_Fredrik Backman.epub",
       "displayName": "My Friends_Fredrik Backman",
       "path": "/data/117471080_My Friends_Fredrik Backman.epub",
@@ -316,6 +330,20 @@
       "formattedSize": "756.61 KB"
     },
     {
+      "originalName": "119160226_Katabasis_R.F. Kuang.epub",
+      "displayName": "Katabasis_R.F. Kuang",
+      "path": "/data/119160226_Katabasis_R.F. Kuang.epub",
+      "size": 5477784,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "5.22 MB"
+    },
+    {
       "originalName": "11930655_小狗钱钱 _ 轻松享有成功与富裕 = Money oder das 1 x 1 des Geldes. Spielerisch zu Erfolg und Wo.epub",
       "displayName": "小狗钱钱 _ 轻松享有成功与富裕 = Money oder das 1 x 1 des Geldes. Spielerisch zu Erfolg und Wo",
       "path": "/data/11930655_小狗钱钱 _ 轻松享有成功与富裕 = Money oder das 1 x 1 des Geldes. Spielerisch zu Erfolg und Wo.epub",
@@ -332,6 +360,20 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "392.81 KB"
+    },
+    {
+      "originalName": "119477602_If Anyone Builds It, Everyone Dies - Why Superhuman AI Would Kill Us All_Eliezer Yudkowsky, Nate Soares.epub",
+      "displayName": "If Anyone Builds It, Everyone Dies - Why Superhuman AI Would Kill Us All_Eliezer Yudkowsky, Nate Soares",
+      "path": "/data/119477602_If Anyone Builds It, Everyone Dies - Why Superhuman AI Would Kill Us All_Eliezer Yudkowsky, Nate Soares.epub",
+      "size": 1023376,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "999.39 KB"
     },
     {
       "originalName": "11959979_白鹿原_陈忠实.epub",
@@ -478,6 +520,20 @@
       "formattedSize": "3.25 MB"
     },
     {
+      "originalName": "126508699_Strange Buildings_Uketsu.epub",
+      "displayName": "Strange Buildings_Uketsu",
+      "path": "/data/126508699_Strange Buildings_Uketsu.epub",
+      "size": 10506860,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "10.02 MB"
+    },
+    {
       "originalName": "126616122_Fury Bound_Sable Sorensen.epub",
       "displayName": "Fury Bound_Sable Sorensen",
       "path": "/data/126616122_Fury Bound_Sable Sorensen.epub",
@@ -518,6 +574,20 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "6.97 MB"
+    },
+    {
+      "originalName": "126860234_I Want You to Be Happy_Jem Calder.epub",
+      "displayName": "I Want You to Be Happy_Jem Calder",
+      "path": "/data/126860234_I Want You to Be Happy_Jem Calder.epub",
+      "size": 849340,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "829.43 KB"
     },
     {
       "originalName": "126863240_Fever Dream_Elsie Silver.epub",
@@ -574,6 +644,20 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "415.04 KB"
+    },
+    {
+      "originalName": "128342705_The Exquisite Torment of Loving Your Enemy_Brigitte Knightley.epub",
+      "displayName": "The Exquisite Torment of Loving Your Enemy_Brigitte Knightley",
+      "path": "/data/128342705_The Exquisite Torment of Loving Your Enemy_Brigitte Knightley.epub",
+      "size": 6960984,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "6.64 MB"
     },
     {
       "originalName": "13892835_沧浪之水.epub",
@@ -638,6 +722,20 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "1 MB"
+    },
+    {
+      "originalName": "1628652_The little prince_de Saint-Exupery Antoine, Katherine Woods.epub",
+      "displayName": "The little prince_de Saint-Exupery Antoine, Katherine Woods",
+      "path": "/data/1628652_The little prince_de Saint-Exupery Antoine, Katherine Woods.epub",
+      "size": 76462,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "74.67 KB"
     },
     {
       "originalName": "16740993_龙族全套 共七册（龙族Ⅰ-龙族Ⅳ 龙族前传）.epub",
@@ -707,6 +805,20 @@
       "formattedSize": "1.33 MB"
     },
     {
+      "originalName": "17014587_The 48 Laws of Power_Robert Greene.epub",
+      "displayName": "The 48 Laws of Power_Robert Greene",
+      "path": "/data/17014587_The 48 Laws of Power_Robert Greene.epub",
+      "size": 626616,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "611.93 KB"
+    },
+    {
       "originalName": "17131000_也许你该找个人聊聊 = Maybe You Should Talk to Someone_ A Therapist, HER Therapist, and Ou_[美] 洛莉 · 戈特利布 (Lori Gottlieb) 著 ; 张含笑 译.epub",
       "displayName": "也许你该找个人聊聊 = Maybe You Should Talk to Someone_ A Therapist, HER Therapist, and Ou_[美] 洛莉 · 戈特利布 (Lori Gottlieb) 著 ; 张含笑 译",
       "path": "/data/17131000_也许你该找个人聊聊 = Maybe You Should Talk to Someone_ A Therapist, HER Therapist, and Ou_[美] 洛莉 · 戈特利布 (Lori Gottlieb) 著 ; 张含笑 译.epub",
@@ -733,6 +845,20 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "423.73 KB"
+    },
+    {
+      "originalName": "17305196_House of Earth and Blood (Crescent City)_Sarah J. Maas.epub",
+      "displayName": "House of Earth and Blood (Crescent City)_Sarah J. Maas",
+      "path": "/data/17305196_House of Earth and Blood (Crescent City)_Sarah J. Maas.epub",
+      "size": 1637279,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.56 MB"
     },
     {
       "originalName": "17335137_素食者 = 채식주의자.epub",
@@ -919,6 +1045,20 @@
       "formattedSize": "579.03 KB"
     },
     {
+      "originalName": "23200840_Python Crash Course, 3rd Edition_ A Hands-On, Project-Based Introduction to Prog_Eric Matthes.epub",
+      "displayName": "Python Crash Course, 3rd Edition_ A Hands-On, Project-Based Introduction to Prog_Eric Matthes",
+      "path": "/data/23200840_Python Crash Course, 3rd Edition_ A Hands-On, Project-Based Introduction to Prog_Eric Matthes.epub",
+      "size": 3602659,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "3.44 MB"
+    },
+    {
       "originalName": "23899708_Windy City 02.0 - The Right Move_Liz Tomforde.epub",
       "displayName": "Windy City 02.0 - The Right Move_Liz Tomforde",
       "path": "/data/23899708_Windy City 02.0 - The Right Move_Liz Tomforde.epub",
@@ -949,6 +1089,20 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "2.81 MB"
+    },
+    {
+      "originalName": "24254450_Psycho-Cybernetics_Maxwell Maltz.epub",
+      "displayName": "Psycho-Cybernetics_Maxwell Maltz",
+      "path": "/data/24254450_Psycho-Cybernetics_Maxwell Maltz.epub",
+      "size": 508037,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "496.13 KB"
     },
     {
       "originalName": "24923650_Tomorrow, and Tomorrow, and Tomorrow_ A Novel_Gabrielle Zevin.epub",
@@ -1063,6 +1217,20 @@
       "formattedSize": "13.48 MB"
     },
     {
+      "originalName": "2641238_The Bell Jar_Sylvia Plath.epub",
+      "displayName": "The Bell Jar_Sylvia Plath",
+      "path": "/data/2641238_The Bell Jar_Sylvia Plath.epub",
+      "size": 313133,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "305.79 KB"
+    },
+    {
       "originalName": "26763871_Babel_R. F. Kuang.epub",
       "displayName": "Babel_R. F. Kuang",
       "path": "/data/26763871_Babel_R. F. Kuang.epub",
@@ -1119,6 +1287,20 @@
       "formattedSize": "1.59 MB"
     },
     {
+      "originalName": "27569997_House of Flame and Shadow_Sarah J. Maas.epub",
+      "displayName": "House of Flame and Shadow_Sarah J. Maas",
+      "path": "/data/27569997_House of Flame and Shadow_Sarah J. Maas.epub",
+      "size": 7078358,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "6.75 MB"
+    },
+    {
       "originalName": "27705593_Bride_Ali Hazelwood.epub",
       "displayName": "Bride_Ali Hazelwood",
       "path": "/data/27705593_Bride_Ali Hazelwood.epub",
@@ -1131,6 +1313,20 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "1.42 MB"
+    },
+    {
+      "originalName": "28354684_Man’s Search for Meaning_Viktor E. Frankl.epub",
+      "displayName": "Man’s Search for Meaning_Viktor E. Frankl",
+      "path": "/data/28354684_Man’s Search for Meaning_Viktor E. Frankl.epub",
+      "size": 1061968,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.01 MB"
     },
     {
       "originalName": "28893227_Martyr!_Kaveh Akbar.epub",
@@ -1434,6 +1630,34 @@
       "formattedSize": "1.27 MB"
     },
     {
+      "originalName": "4821883_The Poppy War (The Poppy War #1)_R F Kuang.epub",
+      "displayName": "The Poppy War (The Poppy War #1)_R F Kuang",
+      "path": "/data/4821883_The Poppy War (The Poppy War #1)_R F Kuang.epub",
+      "size": 16457883,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "15.7 MB"
+    },
+    {
+      "originalName": "4960766_My Year of Rest and Relaxation_Ottessa Moshfegh.epub",
+      "displayName": "My Year of Rest and Relaxation_Ottessa Moshfegh",
+      "path": "/data/4960766_My Year of Rest and Relaxation_Ottessa Moshfegh.epub",
+      "size": 1235176,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.18 MB"
+    },
+    {
       "originalName": "4991812_Think and Grow Rich_Napoleon Hill.epub",
       "displayName": "Think and Grow Rich_Napoleon Hill",
       "path": "/data/4991812_Think and Grow Rich_Napoleon Hill.epub",
@@ -1552,6 +1776,20 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "3.56 MB"
+    },
+    {
+      "originalName": "5498909_This Is How You Lose the Time War_Amal El-Mohtar.epub",
+      "displayName": "This Is How You Lose the Time War_Amal El-Mohtar",
+      "path": "/data/5498909_This Is How You Lose the Time War_Amal El-Mohtar.epub",
+      "size": 1197416,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.14 MB"
     },
     {
       "originalName": "5578690_罪与罚_陀思妥耶夫斯基.epub",
