@@ -1,5 +1,5 @@
 // Service Worker for Steam Price Monitor
-const CACHE_NAME = 'pdfbooks-cache-v9';
+const CACHE_NAME = 'pdfbooks-cache-v10';
 const OFFLINE_URL = '/offline.html';
 
 // 需要缓存的资源
@@ -50,10 +50,25 @@ self.addEventListener('activate', (event) => {
   );
 });
 
+function canCache(request) {
+  const protocol = new URL(request.url).protocol;
+  return protocol === 'http:' || protocol === 'https:';
+}
+
+function putInCache(request, response) {
+  if (!canCache(request) || !response || !response.ok || response.status === 206) {
+    return;
+  }
+  const responseClone = response.clone();
+  caches.open(CACHE_NAME)
+    .then((cache) => cache.put(request, responseClone))
+    .catch(() => {});
+}
+
 // 拦截网络请求
 self.addEventListener('fetch', (event) => {
-  // 只处理GET请求
-  if (event.request.method !== 'GET') {
+  // 只处理本站的 GET 请求。chrome-extension: 等协议不能写入 Cache
+  if (event.request.method !== 'GET' || !canCache(event.request)) {
     return;
   }
 
@@ -76,14 +91,7 @@ self.addEventListener('fetch', (event) => {
     event.respondWith(
       fetch(event.request)
         .then((response) => {
-          // 缓存成功的API响应
-          if (response.ok &&response.status!==206) {
-            const responseClone = response.clone();
-            caches.open(CACHE_NAME)
-              .then((cache) => {
-                cache.put(event.request, responseClone);
-              });
-          }
+          putInCache(event.request, response);
           return response;
         })
         .catch(() => {
@@ -101,7 +109,7 @@ self.addEventListener('fetch', (event) => {
         return cache.match(event.request).then((cachedResponse) => {
           // 如果命中缓存，直接返回；否则发起网络请求并存入缓存
           return cachedResponse || fetch(event.request).then((networkResponse) => {
-            cache.put(event.request, networkResponse.clone());
+            putInCache(event.request, networkResponse);
             return networkResponse;
           });
         });
@@ -119,14 +127,7 @@ self.addEventListener('fetch', (event) => {
           // 如果缓存中没有，从网络获取
           return fetch(event.request)
             .then((response) => {
-              // 只缓存成功的响应
-              if (response.ok && !response.url.includes("chrome-extension")) {
-                const responseClone = response.clone();
-                caches.open(CACHE_NAME)
-                  .then((cache) => {
-                    cache.put(event.request, responseClone);
-                  });
-              }
+              putInCache(event.request, response);
               return response;
             })
             .catch(() => {
