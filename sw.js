@@ -1,5 +1,5 @@
 // Service Worker for Steam Price Monitor
-const CACHE_NAME = 'pdfbooks-cache-v10';
+const CACHE_NAME = 'pdfbooks-cache-v11';
 const OFFLINE_URL = '/offline.html';
 
 // 需要缓存的资源
@@ -72,6 +72,11 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
+  // Range 请求返回 206，无法写入 Cache，直接交给浏览器
+  if (event.request.headers.has('range')) {
+    return;
+  }
+
   // 阅读页 /epub/、/txt/ 在静态托管上没有对应文件，导航失败时回退到 SPA
   if (event.request.mode === 'navigate') {
     event.respondWith(
@@ -84,7 +89,7 @@ self.addEventListener('fetch', (event) => {
 
   const requestUrl = new URL(event.request.url);
   const isBookFile = requestUrl.pathname.startsWith('/data/')
-    && /\.(txt|epub|pdf)$/i.test(requestUrl.pathname);
+    && /\.(txt|epub|pdf|json)$/i.test(requestUrl.pathname);
 
   // 对于书籍文件，使用网络优先策略
   if (isBookFile) {

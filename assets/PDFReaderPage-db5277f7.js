@@ -1,4 +1,4 @@
-import{j as jsxRuntimeExports}from"./query-12edba68.js";import{r as reactExports}from"./vendor-e28a5b6f.js";import{d as useSearchParams,u as useNavigate}from"./router-7fc7c25d.js";import{c as commonjsRequire,r as require$$5,g as getBookNameHash,a as runCozeWorkflow,s as storage,l as listenForPageHide,b as runCozeWorkflowKeepalive,e as extractPdfPathFromUrl,d as generatePdfReaderUrl}from"./index-925dbf17.js";import"./ui-419f99de.js";import"./utils-1bf6da94.js";var pdf={exports:{}};
+import{j as jsxRuntimeExports}from"./query-12edba68.js";import{r as reactExports}from"./vendor-e28a5b6f.js";import{d as useSearchParams,u as useNavigate}from"./router-7fc7c25d.js";import{c as commonjsRequire,r as require$$5,g as getBookNameHash,a as runCozeWorkflow,s as storage,l as listenForPageHide,b as runCozeWorkflowKeepalive,e as extractPdfPathFromUrl,d as generatePdfReaderUrl}from"./index-b67543a3.js";import"./ui-419f99de.js";import"./utils-1bf6da94.js";var pdf={exports:{}};
 /**
  * @licstart The following is the entire license notice for the
  * JavaScript code in this page
