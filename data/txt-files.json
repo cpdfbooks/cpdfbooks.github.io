@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T09:33:54.299Z",
+  "generatedAt": "2026-10-29T01:56:02.036Z",
   "totalFiles": 219,
   "filesWithPdf": 58,
   "epubFiles": 143,
@@ -13,7 +13,11 @@
       "size": 696180,
       "isDuplicate": false,
       "cover": null,
-      "tags": [],
+      "tags": [
+        "外国文学",
+        "经典文学",
+        "当代文学"
+      ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -44,7 +48,11 @@
       "size": 462335,
       "isDuplicate": false,
       "cover": null,
-      "tags": [],
+      "tags": [
+        "成功励志",
+        "个人成长",
+        "沟通表达"
+      ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -76,7 +84,11 @@
       "size": 1327612,
       "isDuplicate": false,
       "cover": null,
-      "tags": [],
+      "tags": [
+        "悬疑幻想类",
+        "无限流",
+        "奇幻"
+      ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -90,7 +102,11 @@
       "size": 265286,
       "isDuplicate": false,
       "cover": null,
-      "tags": [],
+      "tags": [
+        "青少年文学、青春文学",
+        "校园",
+        "青梅竹马"
+      ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -122,7 +138,11 @@
       "size": 2240552,
       "isDuplicate": false,
       "cover": null,
-      "tags": [],
+      "tags": [
+        "言情情感类",
+        "都市言情",
+        "甜宠"
+      ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -136,7 +156,11 @@
       "size": 716602,
       "isDuplicate": false,
       "cover": null,
-      "tags": [],
+      "tags": [
+        "悬疑幻想类",
+        "奇幻",
+        "恐怖惊悚"
+      ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -150,7 +174,11 @@
       "size": 5749049,
       "isDuplicate": false,
       "cover": null,
-      "tags": [],
+      "tags": [
+        "悬疑幻想类",
+        "科幻",
+        "架空历史"
+      ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -164,7 +192,11 @@
       "size": 2317937,
       "isDuplicate": false,
       "cover": null,
-      "tags": [],
+      "tags": [
+        "经管商业类",
+        "理财入门",
+        "大众心理学"
+      ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -178,7 +210,11 @@
       "size": 1350852,
       "isDuplicate": false,
       "cover": null,
-      "tags": [],
+      "tags": [
+        "中国现当代文学",
+        "当代文学",
+        "市井"
+      ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -192,7 +228,11 @@
       "size": 6132140,
       "isDuplicate": false,
       "cover": null,
-      "tags": [],
+      "tags": [
+        "悬疑推理、刑侦犯罪",
+        "刑侦",
+        "罪案纪实"
+      ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -206,7 +246,11 @@
       "size": 4368307,
       "isDuplicate": false,
       "cover": null,
-      "tags": [],
+      "tags": [
+        "青春文学",
+        "外国文学",
+        "成长感悟"
+      ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -220,7 +264,11 @@
       "size": 2365977,
       "isDuplicate": false,
       "cover": null,
-      "tags": [],
+      "tags": [
+        "言情情感类",
+        "言情向",
+        "破镜重圆"
+      ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -234,7 +282,11 @@
       "size": 1071232,
       "isDuplicate": false,
       "cover": null,
-      "tags": [],
+      "tags": [
+        "外国文学",
+        "当代文学",
+        "心灵治愈"
+      ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -248,7 +300,11 @@
       "size": 288448,
       "isDuplicate": false,
       "cover": null,
-      "tags": [],
+      "tags": [
+        "成功励志",
+        "心灵治愈",
+        "反内耗"
+      ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -262,7 +318,11 @@
       "size": 3495676,
       "isDuplicate": false,
       "cover": null,
-      "tags": [],
+      "tags": [
+        "职场、个人成长、高效工作",
+        "高效自律",
+        "自我提升"
+      ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -276,7 +336,11 @@
       "size": 4922665,
       "isDuplicate": false,
       "cover": null,
-      "tags": [],
+      "tags": [
+        "奇幻",
+        "西幻",
+        "外国文学"
+      ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -290,7 +354,11 @@
       "size": 1264307,
       "isDuplicate": false,
       "cover": null,
-      "tags": [],
+      "tags": [
+        "言情情感类",
+        "校园",
+        "现言"
+      ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -322,7 +390,11 @@
       "size": 774765,
       "isDuplicate": false,
       "cover": null,
-      "tags": [],
+      "tags": [
+        "悬疑推理",
+        "本格推理",
+        "烧脑"
+      ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -336,7 +408,11 @@
       "size": 5477784,
       "isDuplicate": false,
       "cover": null,
-      "tags": [],
+      "tags": [
+        "奇幻",
+        "外国文学",
+        "西幻"
+      ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -368,7 +444,11 @@
       "size": 1023376,
       "isDuplicate": false,
       "cover": null,
-      "tags": [],
+      "tags": [
+        "科技计算机类",
+        "AI",
+        "科普"
+      ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -382,7 +462,11 @@
       "size": 821547,
       "isDuplicate": false,
       "cover": null,
-      "tags": [],
+      "tags": [
+        "中国现当代文学",
+        "经典文学",
+        "乡土文学"
+      ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -396,7 +480,11 @@
       "size": 1059232,
       "isDuplicate": false,
       "cover": null,
-      "tags": [],
+      "tags": [
+        "文学类",
+        "乡土文学",
+        "当代文学"
+      ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -410,7 +498,11 @@
       "size": 3290442,
       "isDuplicate": false,
       "cover": null,
-      "tags": [],
+      "tags": [
+        "心理学、大众心理",
+        "大众心理学",
+        "心灵治愈"
+      ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -442,7 +534,11 @@
       "size": 8152292,
       "isDuplicate": false,
       "cover": "/data/cover/资本论.jpg",
-      "tags": [],
+      "tags": [
+        "经管商业类",
+        "经济学入门",
+        "思想史"
+      ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -456,7 +552,11 @@
       "size": 573487,
       "isDuplicate": false,
       "cover": null,
-      "tags": [],
+      "tags": [
+        "传记、自传",
+        "人物传记",
+        "女性文学"
+      ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -470,7 +570,11 @@
       "size": 2526484,
       "isDuplicate": false,
       "cover": null,
-      "tags": [],
+      "tags": [
+        "文学类",
+        "外国文学",
+        "女性文学"
+      ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -484,7 +588,11 @@
       "size": 778065,
       "isDuplicate": false,
       "cover": null,
-      "tags": [],
+      "tags": [
+        "悬疑幻想类",
+        "架空历史",
+        "权谋"
+      ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -498,7 +606,11 @@
       "size": 2962443,
       "isDuplicate": false,
       "cover": null,
-      "tags": [],
+      "tags": [
+        "言情情感类",
+        "现言",
+        "豪门"
+      ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -512,7 +624,11 @@
       "size": 3407545,
       "isDuplicate": false,
       "cover": null,
-      "tags": [],
+      "tags": [
+        "悬疑幻想类",
+        "悬疑惊悚",
+        "灵异"
+      ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
@@ -526,7 +642,11 @@
       "size": 10506860,
       "isDuplicate": false,
       "cover": null,
-      "tags": [],
+      "tags": [
+        "科技计算机类",
+        "科普",
+        "自然科学"
+      ],
       "pdfPath": null,
       "hasPdf": false,
       "preview": "",
