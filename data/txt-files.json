@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-30T01:58:51.635Z",
-  "totalFiles": 219,
+  "generatedAt": "2026-10-31T11:14:09.552Z",
+  "totalFiles": 224,
   "filesWithPdf": 58,
-  "epubFiles": 143,
+  "epubFiles": 148,
   "directory": "/data",
   "type": "txt",
   "files": [
@@ -582,6 +582,42 @@
       "formattedSize": "2.41 MB"
     },
     {
+      "originalName": "124882757_The Infinity Machine_ Demis Hassabis, DeepMind, and the Quest for Superintellige_Sebastian Mallaby.epub",
+      "displayName": "The Infinity Machine_ Demis Hassabis, DeepMind, and the Quest for Superintellige_Sebastian Mallaby",
+      "path": "/data/124882757_The Infinity Machine_ Demis Hassabis, DeepMind, and the Quest for Superintellige_Sebastian Mallaby.epub",
+      "size": 2033520,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "科技计算机类",
+        "AI",
+        "商业传记"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.94 MB"
+    },
+    {
+      "originalName": "125402910_Starside_Alex Aster.epub",
+      "displayName": "Starside_Alex Aster",
+      "path": "/data/125402910_Starside_Alex Aster.epub",
+      "size": 549484,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "科幻",
+        "星际",
+        "外国文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "536.61 KB"
+    },
+    {
       "originalName": "125973254_秦二世必须死_马伯庸.epub",
       "displayName": "秦二世必须死_马伯庸",
       "path": "/data/125973254_秦二世必须死_马伯庸.epub",
@@ -1067,6 +1103,24 @@
       "formattedSize": "429.3 KB"
     },
     {
+      "originalName": "1749505_Jane Eyre_Charlotte Brontë, Currer Bell.epub",
+      "displayName": "Jane Eyre_Charlotte Brontë, Currer Bell",
+      "path": "/data/1749505_Jane Eyre_Charlotte Brontë, Currer Bell.epub",
+      "size": 439059,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "经典名著",
+        "外国名著",
+        "女性文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "428.77 KB"
+    },
+    {
       "originalName": "17869390_$100M Offers_ How To Make Offers So Good People Feel Stupid Saying No_Alex Hormozi.epub",
       "displayName": "$100M Offers_ How To Make Offers So Good People Feel Stupid Saying No_Alex Hormozi",
       "path": "/data/17869390_$100M Offers_ How To Make Offers So Good People Feel Stupid Saying No_Alex Hormozi.epub",
@@ -1282,6 +1336,24 @@
       "formattedSize": "3.44 MB"
     },
     {
+      "originalName": "2361439_make it stick_ The Science of Successful Learning_Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel.epub",
+      "displayName": "make it stick_ The Science of Successful Learning_Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel",
+      "path": "/data/2361439_make it stick_ The Science of Successful Learning_Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel.epub",
+      "size": 371204,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "教育学习类",
+        "学习方法",
+        "自我提升"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "362.5 KB"
+    },
+    {
       "originalName": "23899708_Windy City 02.0 - The Right Move_Liz Tomforde.epub",
       "displayName": "Windy City 02.0 - The Right Move_Liz Tomforde",
       "path": "/data/23899708_Windy City 02.0 - The Right Move_Liz Tomforde.epub",
@@ -1370,6 +1442,24 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "4.01 MB"
+    },
+    {
+      "originalName": "25194118_Mile High (Windy City Series Book 1)_Liz Tomforde.epub",
+      "displayName": "Mile High (Windy City Series Book 1)_Liz Tomforde",
+      "path": "/data/25194118_Mile High (Windy City Series Book 1)_Liz Tomforde.epub",
+      "size": 667135,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "言情情感类",
+        "都市言情",
+        "言情向"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "651.5 KB"
     },
     {
       "originalName": "25221694_Nocticadia_Keri Lake.epub",
