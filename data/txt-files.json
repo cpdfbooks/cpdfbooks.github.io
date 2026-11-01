@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-31T11:14:09.552Z",
-  "totalFiles": 224,
+  "generatedAt": "2026-11-01T11:13:45.740Z",
+  "totalFiles": 228,
   "filesWithPdf": 58,
-  "epubFiles": 148,
+  "epubFiles": 152,
   "directory": "/data",
   "type": "txt",
   "files": [
@@ -492,6 +492,24 @@
       "formattedSize": "1.01 MB"
     },
     {
+      "originalName": "119961773_Insatiable (The Edge of Darkness_ Book 1)_Leigh Rivers.epub",
+      "displayName": "Insatiable (The Edge of Darkness_ Book 1)_Leigh Rivers",
+      "path": "/data/119961773_Insatiable (The Edge of Darkness_ Book 1)_Leigh Rivers.epub",
+      "size": 1383138,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "悬疑幻想类",
+        "悬疑惊悚",
+        "奇幻"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.32 MB"
+    },
+    {
       "originalName": "12057874_The Body Keeps The Score_ Mind, Brain and Body In The Transformation Of Trauma_Bessel van Der Kolk.epub",
       "displayName": "The Body Keeps The Score_ Mind, Brain and Body In The Transformation Of Trauma_Bessel van Der Kolk",
       "path": "/data/12057874_The Body Keeps The Score_ Mind, Brain and Body In The Transformation Of Trauma_Bessel van Der Kolk.epub",
@@ -850,6 +868,24 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "6.64 MB"
+    },
+    {
+      "originalName": "128725949_The Unknown_ A Novel_Riley Sager.epub",
+      "displayName": "The Unknown_ A Novel_Riley Sager",
+      "path": "/data/128725949_The Unknown_ A Novel_Riley Sager.epub",
+      "size": 2492349,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "悬疑推理",
+        "悬疑惊悚",
+        "外国文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "2.38 MB"
     },
     {
       "originalName": "13892835_沧浪之水.epub",
@@ -1408,6 +1444,24 @@
       "formattedSize": "496.13 KB"
     },
     {
+      "originalName": "24260780_Remarkably Bright Creatures_ A Novel_Shelby Van Pelt.epub",
+      "displayName": "Remarkably Bright Creatures_ A Novel_Shelby Van Pelt",
+      "path": "/data/24260780_Remarkably Bright Creatures_ A Novel_Shelby Van Pelt.epub",
+      "size": 1880333,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "文学类",
+        "外国文学",
+        "心灵治愈"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.79 MB"
+    },
+    {
       "originalName": "24923650_Tomorrow, and Tomorrow, and Tomorrow_ A Novel_Gabrielle Zevin.epub",
       "displayName": "Tomorrow, and Tomorrow, and Tomorrow_ A Novel_Gabrielle Zevin",
       "path": "/data/24923650_Tomorrow, and Tomorrow, and Tomorrow_ A Novel_Gabrielle Zevin.epub",
@@ -1712,6 +1766,24 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "1.01 MB"
+    },
+    {
+      "originalName": "2884498_The Mom Test_ How to Talk to Customers and Learn If Your Business is a Good Idea_Rob Fitzpatrick.epub",
+      "displayName": "The Mom Test_ How to Talk to Customers and Learn If Your Business is a Good Idea_Rob Fitzpatrick",
+      "path": "/data/2884498_The Mom Test_ How to Talk to Customers and Learn If Your Business is a Good Idea_Rob Fitzpatrick.epub",
+      "size": 140350,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "经管商业类",
+        "创业",
+        "沟通表达"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "137.06 KB"
     },
     {
       "originalName": "28893227_Martyr!_Kaveh Akbar.epub",
