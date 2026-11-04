@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-02T02:31:15.958Z",
-  "totalFiles": 228,
+  "generatedAt": "2026-11-04T11:13:42.323Z",
+  "totalFiles": 232,
   "filesWithPdf": 58,
-  "epubFiles": 152,
+  "epubFiles": 156,
   "directory": "/data",
   "type": "txt",
   "files": [
@@ -726,6 +726,24 @@
       "formattedSize": "5.34 MB"
     },
     {
+      "originalName": "126722223_Atomic Habits_Clear, James.epub",
+      "displayName": "Atomic Habits_Clear, James",
+      "path": "/data/126722223_Atomic Habits_Clear, James.epub",
+      "size": 5854699,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "经管商业类",
+        "高效自律",
+        "自我提升"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "5.58 MB"
+    },
+    {
       "originalName": "126855769_Cool Machine - A Novel_Colson Whitehead.epub",
       "displayName": "Cool Machine - A Novel_Colson Whitehead",
       "path": "/data/126855769_Cool Machine - A Novel_Colson Whitehead.epub",
@@ -886,6 +904,24 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "2.38 MB"
+    },
+    {
+      "originalName": "1293620_The Song of Achilles_Madeline M. Miller.epub",
+      "displayName": "The Song of Achilles_Madeline M. Miller",
+      "path": "/data/1293620_The Song of Achilles_Madeline M. Miller.epub",
+      "size": 340052,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "外国文学",
+        "奇幻",
+        "女性文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "332.08 KB"
     },
     {
       "originalName": "13892835_沧浪之水.epub",
@@ -1804,6 +1840,24 @@
       "formattedSize": "5.5 MB"
     },
     {
+      "originalName": "28909911_We Used to Live Here_Marcus Kliewer.epub",
+      "displayName": "We Used to Live Here_Marcus Kliewer",
+      "path": "/data/28909911_We Used to Live Here_Marcus Kliewer.epub",
+      "size": 5646167,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "外国文学",
+        "当代文学",
+        "纪实故事"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "5.38 MB"
+    },
+    {
       "originalName": "28955826_全球高考_木苏里.epub",
       "displayName": "全球高考_木苏里",
       "path": "/data/28955826_全球高考_木苏里.epub",
@@ -2035,6 +2089,24 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "1.21 MB"
+    },
+    {
+      "originalName": "3727575_The Art of Seduction_Greene Robert.epub",
+      "displayName": "The Art of Seduction_Greene Robert",
+      "path": "/data/3727575_The Art of Seduction_Greene Robert.epub",
+      "size": 1049094,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "经管商业类",
+        "沟通表达",
+        "个人成长"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1 MB"
     },
     {
       "originalName": "4200131_The Giver_Lowry Lois.epub",
