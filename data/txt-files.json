@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-04T11:13:42.323Z",
-  "totalFiles": 232,
+  "generatedAt": "2026-11-07T11:11:49.990Z",
+  "totalFiles": 235,
   "filesWithPdf": 58,
-  "epubFiles": 156,
+  "epubFiles": 159,
   "directory": "/data",
   "type": "txt",
   "files": [
@@ -582,6 +582,24 @@
       "formattedSize": "560.05 KB"
     },
     {
+      "originalName": "123656368_Lost Lambs_Madeline Cash.epub",
+      "displayName": "Lost Lambs_Madeline Cash",
+      "path": "/data/123656368_Lost Lambs_Madeline Cash.epub",
+      "size": 2172508,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "悬疑推理、刑侦犯罪",
+        "刑侦",
+        "悬疑惊悚"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "2.07 MB"
+    },
+    {
       "originalName": "124465063_Kin_Tayari Jones.epub",
       "displayName": "Kin_Tayari Jones",
       "path": "/data/124465063_Kin_Tayari Jones.epub",
@@ -922,6 +940,24 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "332.08 KB"
+    },
+    {
+      "originalName": "13510110_Ego Is the Enemy_Ryan Holiday.epub",
+      "displayName": "Ego Is the Enemy_Ryan Holiday",
+      "path": "/data/13510110_Ego Is the Enemy_Ryan Holiday.epub",
+      "size": 1095042,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "成功励志",
+        "个人成长",
+        "自我提升"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.04 MB"
     },
     {
       "originalName": "13892835_沧浪之水.epub",
@@ -1982,6 +2018,24 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "16.18 MB"
+    },
+    {
+      "originalName": "3559055_Mindset_Carol S. Dweck.epub",
+      "displayName": "Mindset_Carol S. Dweck",
+      "path": "/data/3559055_Mindset_Carol S. Dweck.epub",
+      "size": 1966770,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "心理学",
+        "大众心理学",
+        "个人成长"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.88 MB"
     },
     {
       "originalName": "3644725_明朝那些事儿.epub",
