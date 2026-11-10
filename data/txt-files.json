@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-10T06:56:32.073Z",
-  "totalFiles": 235,
+  "generatedAt": "2026-11-10T11:08:40.436Z",
+  "totalFiles": 238,
   "filesWithPdf": 58,
-  "epubFiles": 159,
+  "epubFiles": 162,
   "directory": "/data",
   "type": "txt",
   "files": [
@@ -870,6 +870,24 @@
       "formattedSize": "9.7 MB"
     },
     {
+      "originalName": "127886476_AI-Assisted Statistics for Data Scientists_ 50+ Essential Concepts Using R and P_Peter Bruce, Andrew Bruce, Peter Gedeck.epub",
+      "displayName": "AI-Assisted Statistics for Data Scientists_ 50+ Essential Concepts Using R and P_Peter Bruce, Andrew Bruce, Peter Gedeck",
+      "path": "/data/127886476_AI-Assisted Statistics for Data Scientists_ 50+ Essential Concepts Using R and P_Peter Bruce, Andrew Bruce, Peter Gedeck.epub",
+      "size": 9773007,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "科技计算机类",
+        "数据分析",
+        "AI"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "9.32 MB"
+    },
+    {
       "originalName": "128209465_The Shampoo Effect_ A Novel_Jenny Jackson.epub",
       "displayName": "The Shampoo Effect_ A Novel_Jenny Jackson",
       "path": "/data/128209465_The Shampoo Effect_ A Novel_Jenny Jackson.epub",
@@ -922,6 +940,24 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "2.38 MB"
+    },
+    {
+      "originalName": "129152401_Dead Beat_Leigh Bardugo.epub",
+      "displayName": "Dead Beat_Leigh Bardugo",
+      "path": "/data/129152401_Dead Beat_Leigh Bardugo.epub",
+      "size": 5745953,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "奇幻",
+        "外国文学",
+        "西幻"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "5.48 MB"
     },
     {
       "originalName": "1293620_The Song of Achilles_Madeline M. Miller.epub",
@@ -1532,6 +1568,24 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "1.79 MB"
+    },
+    {
+      "originalName": "24324849_The Creative Act_ A Way of Being_Rick Rubin.epub",
+      "displayName": "The Creative Act_ A Way of Being_Rick Rubin",
+      "path": "/data/24324849_The Creative Act_ A Way of Being_Rick Rubin.epub",
+      "size": 559173,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "成功励志",
+        "心灵治愈",
+        "自我提升"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "546.07 KB"
     },
     {
       "originalName": "24923650_Tomorrow, and Tomorrow, and Tomorrow_ A Novel_Gabrielle Zevin.epub",
