@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-10T11:08:40.436Z",
-  "totalFiles": 238,
+  "generatedAt": "2026-11-13T11:09:37.873Z",
+  "totalFiles": 243,
   "filesWithPdf": 58,
-  "epubFiles": 162,
+  "epubFiles": 167,
   "directory": "/data",
   "type": "txt",
   "files": [
@@ -366,6 +366,24 @@
       "formattedSize": "1.21 MB"
     },
     {
+      "originalName": "118433180_How to Make Money with AI_ A Step-By-Step Guide For Beginners_ Learn Real Strate_David Moore.epub",
+      "displayName": "How to Make Money with AI_ A Step-By-Step Guide For Beginners_ Learn Real Strate_David Moore",
+      "path": "/data/118433180_How to Make Money with AI_ A Step-By-Step Guide For Beginners_ Learn Real Strate_David Moore.epub",
+      "size": 1317770,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "经管商业类",
+        "AI",
+        "副业"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.26 MB"
+    },
+    {
       "originalName": "118770634_荒野植被.epub",
       "displayName": "荒野植被",
       "path": "/data/118770634_荒野植被.epub",
@@ -400,6 +418,24 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "756.61 KB"
+    },
+    {
+      "originalName": "119007857_The Unselected Journals of Emma M. Lion_Beth Brower.epub",
+      "displayName": "The Unselected Journals of Emma M. Lion_Beth Brower",
+      "path": "/data/119007857_The Unselected Journals of Emma M. Lion_Beth Brower.epub",
+      "size": 332145,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "文学类",
+        "女性文学",
+        "外国文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "324.36 KB"
     },
     {
       "originalName": "119160226_Katabasis_R.F. Kuang.epub",
@@ -562,6 +598,24 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "7.77 MB"
+    },
+    {
+      "originalName": "123371455_Mother Mary comes to me_Roy, Arundhati.epub",
+      "displayName": "Mother Mary comes to me_Roy, Arundhati",
+      "path": "/data/123371455_Mother Mary comes to me_Roy, Arundhati.epub",
+      "size": 345301,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "文学类",
+        "外国文学",
+        "女性文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "337.21 KB"
     },
     {
       "originalName": "123573198_The Poet Empress_Shen Tao.epub",
@@ -1265,6 +1319,24 @@
       "formattedSize": "428.77 KB"
     },
     {
+      "originalName": "17554756_The Thursday Murder Club. A Novel_Richard Osman.epub",
+      "displayName": "The Thursday Murder Club. A Novel_Richard Osman",
+      "path": "/data/17554756_The Thursday Murder Club. A Novel_Richard Osman.epub",
+      "size": 2244559,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "悬疑推理",
+        "外国文学",
+        "群像"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "2.14 MB"
+    },
+    {
       "originalName": "17869390_$100M Offers_ How To Make Offers So Good People Feel Stupid Saying No_Alex Hormozi.epub",
       "displayName": "$100M Offers_ How To Make Offers So Good People Feel Stupid Saying No_Alex Hormozi",
       "path": "/data/17869390_$100M Offers_ How To Make Offers So Good People Feel Stupid Saying No_Alex Hormozi.epub",
@@ -1946,6 +2018,24 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "5.38 MB"
+    },
+    {
+      "originalName": "28939970_Not in Love_Ali Hazelwood.epub",
+      "displayName": "Not in Love_Ali Hazelwood",
+      "path": "/data/28939970_Not in Love_Ali Hazelwood.epub",
+      "size": 2083297,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "言情情感类",
+        "言情向",
+        "职场恋爱"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "1.99 MB"
     },
     {
       "originalName": "28955826_全球高考_木苏里.epub",
