@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-19T11:10:05.990Z",
-  "totalFiles": 249,
+  "generatedAt": "2026-11-25T11:19:18.616Z",
+  "totalFiles": 252,
   "filesWithPdf": 58,
-  "epubFiles": 173,
+  "epubFiles": 176,
   "directory": "/data",
   "type": "txt",
   "files": [
@@ -274,6 +274,24 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "4.17 MB"
+    },
+    {
+      "originalName": "11713960_Shatter Me_Mafi, Tahereh.epub",
+      "displayName": "Shatter Me_Mafi, Tahereh",
+      "path": "/data/11713960_Shatter Me_Mafi, Tahereh.epub",
+      "size": 351694,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "悬疑幻想类",
+        "奇幻",
+        "言情向"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "343.45 KB"
     },
     {
       "originalName": "117470744_One Golden Summer_Carley Fortune.epub",
@@ -1066,6 +1084,24 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "5.48 MB"
+    },
+    {
+      "originalName": "129216209_The Wretched Divine_Adalyn Grace.epub",
+      "displayName": "The Wretched Divine_Adalyn Grace",
+      "path": "/data/129216209_The Wretched Divine_Adalyn Grace.epub",
+      "size": 7710321,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "悬疑幻想类",
+        "奇幻",
+        "西幻"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "7.35 MB"
     },
     {
       "originalName": "1293620_The Song of Achilles_Madeline M. Miller.epub",
@@ -3007,6 +3043,24 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "229.94 KB"
+    },
+    {
+      "originalName": "6104755_Norma Jeane Baker of Troy_Anne Carson.epub",
+      "displayName": "Norma Jeane Baker of Troy_Anne Carson",
+      "path": "/data/6104755_Norma Jeane Baker of Troy_Anne Carson.epub",
+      "size": 690906,
+      "isDuplicate": false,
+      "cover": null,
+      "tags": [
+        "诗歌、诗词",
+        "外国文学",
+        "女性文学"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "674.71 KB"
     },
     {
       "originalName": "6163433_一个叫欧维的男人决定去死_弗雷德里克·巴克曼 [fuleidelike·bakeman].epub",
