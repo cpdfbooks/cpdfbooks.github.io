@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-25T11:19:18.616Z",
-  "totalFiles": 252,
+  "generatedAt": "2026-11-28T11:25:05.950Z",
+  "totalFiles": 253,
   "filesWithPdf": 58,
-  "epubFiles": 176,
+  "epubFiles": 177,
   "directory": "/data",
   "type": "txt",
   "files": [
@@ -2359,6 +2359,24 @@
       "preview": "",
       "type": "epub",
       "formattedSize": "1.13 MB"
+    },
+    {
+      "originalName": "3651657_小岛经济学 _ 鱼、美元和经济的故事 = How an Economy Grows and Why It Crashes_[美] 彼得 · 希夫 (Peter D. Schiff), [美] 安德鲁 · 希夫 (Andrew J. Schiff) 著 ; 胡晓姣, 吕靖纬, 陈志超.epub",
+      "displayName": "小岛经济学 _ 鱼、美元和经济的故事 = How an Economy Grows and Why It Crashes_[美] 彼得 · 希夫 (Peter D. Schiff), [美] 安德鲁 · 希夫 (Andrew J. Schiff) 著 ; 胡晓姣, 吕靖纬, 陈志超",
+      "path": "/data/3651657_小岛经济学 _ 鱼、美元和经济的故事 = How an Economy Grows and Why It Crashes_[美] 彼得 · 希夫 (Peter D. Schiff), [美] 安德鲁 · 希夫 (Andrew J. Schiff) 著 ; 胡晓姣, 吕靖纬, 陈志超.epub",
+      "size": 9722700,
+      "isDuplicate": false,
+      "cover": "/data/cover/小岛经济学.jpg",
+      "tags": [
+        "经管商业类",
+        "经济学入门",
+        "商业思维"
+      ],
+      "pdfPath": null,
+      "hasPdf": false,
+      "preview": "",
+      "type": "epub",
+      "formattedSize": "9.27 MB"
     },
     {
       "originalName": "3653869_穷查理宝典 = Poor Charlie’s Almanack_ The Wit and Wisdom of Charlie T. Munger.epub",
